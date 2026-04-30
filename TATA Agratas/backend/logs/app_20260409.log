@@ -1,0 +1,17 @@
+2026-04-09 22:41:15 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-09 22:41:15 | INFO     | app | lifespan:36 | ============================================================
+2026-04-09 22:41:15 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-09 22:41:15 | INFO     | app | lifespan:38 | ============================================================
+2026-04-09 22:41:15 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-09 22:41:15 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-09 22:41:15 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-09 22:41:23 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-09 22:41:23 | INFO     | app | lifespan:56 | ============================================================
+2026-04-09 22:41:23 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-09 22:41:23 | INFO     | app | lifespan:58 | ============================================================
+2026-04-10 10:57:56 | INFO     | app | lifespan:63 | ============================================================
+2026-04-10 10:57:56 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-10 10:57:56 | INFO     | app | lifespan:65 | ============================================================
+2026-04-10 10:57:56 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-10 10:57:56 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-10 10:57:56 | INFO     | app | lifespan:75 | ============================================================

@@ -1,0 +1,1048 @@
+DOCUMENT: Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL.pdf
+TOTAL PAGES: 25
+
+PAGE 1
+
+GUIDANCE DOCUMENT:
+EV BATTERY SAFE HANDLING & STORAGE
+JULY 2023
+CO-CHAIRED BY
+Disclaimer: This document is provided for educational purposes only. The information included is based on the professional judgment of the
+individual authors as of June 2023 and may be used at your discretion. SP and its member companies make no warranty, expressed or implied,
+and assume no liability for any form of damage that may result from use of this document. It is the responsibility of every company handling EV
+batteries to understand and comply with all applicable laws and regulations.
+
+[TABLE]
+| GUIDANCE DOCUMENT: |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| EV BATTERY SAFE HANDLING & STORAGE |
+| JULY 2023 |
+| CO-CHAIRED BY |
+| Disclaimer: This document is provided for educational purposes only. The information included is based on the professional judgment of the |
+| individual authors as of June 2023 and may be used at your discretion. SP and its member companies make no warranty, expressed or implied, |
+| and assume no liability for any form of damage that may result from use of this document. It is the responsibility of every company handling EV |
+| batteries to understand and comply with all applicable laws and regulations. |
+
+PAGE 2
+
+TABLE OF CONTENTS
+Introduction 3
+Battery Identification 4
+Hybrid vs. Plug-in Hybrid vs. Full Battery Electric vs. Fuel Cell 4
+End-of-Life vs. Damaged-Defective vs. Thermal Event Batteries 5
+Safety Prevention 7
+Emergency Preparedness Plan 7
+Safe Handling of EV Batteries 9
+Storage Considerations 10
+Safety Tools & Materials to Assist with Being Safe 12
+Optional Infrastructure Upgrades 13
+Packaging 15
+Understanding Thermal Runaway 16
+Containment of Thermal Runaway 17
+Ending a Thermal Runaway 18
+De-energizing a Battery 19
+Roles of Authorities 20
+Fire Marshals 20
+Department of Transportation (DOT) 20
+OSHA 20
+EPA 21
+Business Requirement – Insurance Providers 21
+Additional Resources 22
+Appendix: Self-Assessment Checklist 24
+Acknowledgments 25
+Disclaimer 25
+Contact 25
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 2
+
+PAGE 3
+
+INTRODUCTION
+Companies who handle electric vehicles (EVs) and/or EV batteries after they have been
+removed from a vehicle may not have the information or training needed to handle them
+safely. Individuals may at times find themselves taking risks in their earnest attempts to do
+the right thing. The purpose of this guidance document is to bridge this information gap in a
+fast-evolving new industry where real-life case studies and best practices are limited.
+This document is written with battery holders in mind, including vehicle dealerships, auto
+dismantlers and recyclers, independent garages, auto shredders, warehouse operators,
+transportation operators, tow truck operators and yard holders, first responders,
+aftermarket diagnostic sites, battery repurposers, and battery remanufactures.
+Batteries referenced in this document include lithium-ion (li-ion) electric vehicle traction
+batteries for battery electric vehicles (BEVs), plug-in hybrid electric vehicles (PHEVs), and
+hybrid electric vehicles (HEVs) of light duty cars and trucks. Some of the guidance may be
+applicable to other types of lithium and nickel metal hydride (NiMH) batteries.
+This document is provided for educational purposes only. It is the responsibility of every
+company handling EV batteries to understand and comply with all applicable laws and
+regulations.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 3
+
+PAGE 4
+
+BATTERY IDENTIFICATION
+Hybrid vs. Plug-in Hybrid vs. Full Battery Electric vs. Fuel Cell
+Hybrid electric vehicles (HEV) are vehicles with an internal combustion engine, an
+electric motor, and battery pack. The battery pack is recharged through regenerative
+braking.
+Plug-in hybrid electric vehicles (PHEV) are vehicles with an internal combustion engine
+and an electric motor along with a battery pack that can be recharged from an
+external power source as well as from regenerative braking.
+Battery electric vehicles (BEV) are powered solely by an electric motor with a battery
+pack that is recharged from an external source as well as from regenerative braking.
+Fuel cell electric vehicles (FCEV) are also powered solely by an electric motor like a
+BEV, but instead of recharging the battery from an external source, they generate their
+own electricity when the fuel cell combines hydrogen stored in an onboard tank with
+oxygen.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 4
+
+PAGE 5
+
+End-of-Life vs. Damaged-Defective vs. Thermal Event Batteries
+The US Department of Transportation (DOT) and Transport Canada require the shipper
+to accurately indicate whether a battery is classified as end-of-life (EOL) or damaged-
+defective (DD). The designation of EOL is assigned to a battery after ensuring the
+absence of any damage or defects.
+Damaged battery characteristics include:
+Dents, punctures, cracks in battery outer shell.
+Damage including fluid(s) coming out from within the battery pack.
+Water damage and/or corrosion on the terminals*.
+Broken or damaged terminals.
+Loose wiring either inside the battery pack or protruding from the pack.
+Indications the battery has been opened and/or worked on.
+Pictured: Damaged power storage unit
+battery with examples of loose wiring, soot
+from possible heat on electrical panel, and
+hard scratches to outer shell from possible
+hit.
+Source: The Energy Security Agency
+*If the electric vehicle and/or battery pack has been damaged due to flooding (salt water or fresh water) do
+not attempt to charge or drive the vehicle/battery. Call first responders as the battery pack may now be at risk
+of a thermal event.
+Thermal event battery characteristics
+Thermal event batteries are classified as damaged and exhibit distinct characteristics
+that necessitate additional caution, such as:
+Bulging/Swelling. Audible crackling sounds.
+Melted plastic. Flames/sparks or visible fire.
+Hot to touch. Presence of burn marks, along with
+Emit white/grey smoke. black or gray fire soot.
+A distinctive sweet bubble gum-like odor. Visible charring or scorching on the
+battery pack.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 5
+
+PAGE 6
+
+Pictured: Example of a thermal event
+battery with melted plastic, burn marks, and
+visibly charred.
+Source: The Energy Security Agency
+Defective battery characteristics include:
+The battery management system is reporting a defective message.
+Determination of battery defectiveness by the vehicle manufacturer.
+End-of-life battery definition:
+A used EV battery that has come to the end of its service life in its current vehicle. This
+battery does not exhibit any signs of damage, defects, or past or present thermal
+events.
+Pictured: Example of an end-of-life
+EV battery
+2017 plug-in hybrid battery
+Source: Call2Recycle
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 6
+
+[TABLE]
+| Pictured: Example of a thermal event | |
+| ------------------------------------------------------------------------------------------- | ---------------- |
+| battery with melted plastic, burn marks, and | |
+| visibly charred. | |
+| Source: The Energy Security Agency | |
+| Defective battery characteristics include: | |
+| The battery management system is reporting a defective message. | |
+| Determination of battery defectiveness by the vehicle manufacturer. | |
+| End-of-life battery definition: | |
+| A used EV battery that has come to the end of its service life in its current vehicle. This | |
+| battery does not exhibit any signs of damage, defects, or past or present thermal | |
+| events. | |
+| Pictured: Example of an end-of-life | |
+| EV battery | |
+| 2017 plug-in hybrid battery | |
+| Source: Call2Recycle | |
+| EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 6 |
+
+PAGE 7
+
+SAFETY PREVENTION
+Emergency Preparedness Plan
+Developing an emergency preparedness plan is essential to mitigate risks associated with
+lithium-ion batteries. It is important to customize the plan according to specific facility
+requirements and adhere to local regulations. An emergency preparedness plan may
+contain several components. Consult with local regulations and authorities, such as local
+fire marshals or officials, to tailor the plan to the specific facility and jurisdiction of
+operations.
+Hazard Assessment:
+Batteries may be at varying states of charge (measured in kilowatt-hours), physical size
+and shape, which may impact the response, personal protective equipment (PPE)
+required, training involved, and tools needed.
+Conduct a thorough hazard assessment to identify potential risks associated with
+lithium-ion batteries in material handling operations. Document and address these
+hazards in the emergency preparedness plan.
+Emergency Response Team:
+Establish an emergency response team and assign clear responsibilities for
+implementing the fire prevention plan and conducting emergency drills.
+Designate trained personnel who will handle specific roles during emergencies.
+Make sure appropriate personal protective equipment (PPE) is available.
+Training and Education:
+Provide training to all personnel on lithium-ion battery hazards, emergency response
+procedures, and proper use of fire suppression equipment.
+Conduct regular refresher training sessions to reinforce knowledge and keep personnel
+up to date with evolving safety practices.
+Response Plan for Thermal Runaway Events and Chemical Spills:
+Develop a plan for responding to thermal runaway fires, chemical leaks, and/or off gas
+emissions resulting from lithium-ion batteries. Refer to the relevant section of the
+emergency preparedness plan for specific guidance on managing such events.
+Communication and Alarms:
+Establish a communication protocol to ensure timely alerting of personnel during
+emergencies.
+Install a fire alarm system equipped with smoke detectors, heat detectors (such as
+thermal cameras), and gas detectors (such as 4-gas monitors). Position manual call
+points at appropriate locations for activation when needed.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 7
+
+PAGE 8
+
+Fire Suppression Systems and Equipment:
+Consider appropriate fire suppression systems, such as automatic sprinklers and/or
+robotic fire suppression units, based on the unique needs of the facility.
+Ensure fire suppression systems are strategically placed near lithium-ion battery
+storage, charging, and maintenance areas, and any additional areas posing a higher
+risk. Note that fire extinguishers are generally ineffective in extinguishing a lithium-ion
+battery pack fire.
+Housekeeping and Maintenance:
+Maintain a clean and organized facility, eliminating flammable materials and clutter
+that may contribute to fire hazards.
+Regularly inspect and maintain lithium-ion battery storage areas.
+Train personnel on safe battery handling practices and emphasize the importance of
+proper housekeeping in mitigating risks.
+Evacuation and Emergency Procedures:
+Establish clear evacuation procedures, including designated assembly points, and
+ensure all personnel are familiar with them.
+Conduct regular emergency drills to test the effectiveness of evacuation procedures
+and identify areas for improvement.
+Share emergency response procedures with the local fire department and provide a
+tour of the facility to support development of their response plan.
+Keep muster points away from areas where at-risk batteries are stored/sheltered
+outside.
+Documentation and Review:
+Maintain records of training sessions, emergency drills, incident reports, and any
+modifications made to the emergency preparedness and fire prevention plan.
+Regularly review and update the plan based on lessons learned, industry best
+practices, and regulatory changes to ensure its continued effectiveness.
+Additional Resources and Standards:
+OSHA's guidelines on Emergency Action Plans (29 CFR 1910.38)
+NFPA 1: Fire Code
+NFPA 10: Standard for Portable Fire Extinguishers
+NFPA 72: National Fire Alarm and Signaling Code
+NFPA 400: Hazardous Materials Code
+NFPA - Emergency Response Guides for Alternative Fuel Vehicles
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 8
+
+PAGE 9
+
+Safe Handling of EV Batteries
+High-voltage batteries can present significant risks if mishandled. Lithium-ion EV batteries
+can pose chemical, thermal, and electrical hazards. Handlers of EV batteries can be
+divided into two groups: those a) responsible for the movement and storage of the
+batteries and b) responsible for the work performed on the battery including its removal
+from a vehicle. It is recommended that personnel involved in battery handling take the
+following guidelines into consideration.
+Training and Qualification:
+Following US Occupational Safety and Health Administration (OSHA) regulations, only
+"qualified persons" should handle batteries with voltages exceeding 50V.
+Qualified individuals should have experience and training in working with electricity,
+possessing knowledge about electrical hazards and safety practices.
+All personnel handling EV batteries must receive appropriate training on safe
+operating procedures, hazards, and emergency response protocols.
+OSHA HAZMAT training, including general awareness training, function-specific
+training, safety training, security awareness training, and in-depth security training, is
+required.
+See Standards for Electrical Safety in the Workplace: NFPA 70E Article 110.6, OSHA 29
+CFR 1910.332 "Training" and Hybrid and EV First and Second Responder Recommended
+Practice SAE J2990.
+Personal Protective Equipment (PPE):
+Wear appropriate PPE during battery handling, including safety glasses, electrical
+insulated gloves, and fire-resistant clothing OSHA 1926.441(g)(5) Example: Category 2
+coveralls, faceshield, hard hat, and balaclava, plus Class 0 rubber voltage gloves and
+leather protector gloves combination.
+Suggest removing jewelry and other metal that could come in contact with electricity
+and other metal conductive parts of the battery and tools.
+Employee Safety:
+Facilities handling li-ion batteries must adhere to OSHA requirements.
+Those requirements include ensuring that batteries are stored in enclosures with outside
+vents or well-ventilated rooms to prevent the escape of fumes, gases, or electrolyte
+spray into other areas (1926.441(a)(1)).
+Ventilation systems should be in place to facilitate the diffusion of gases and prevent
+the accumulation of explosive mixtures (1926.441(a)(2)).
+Use substantial racks and trays that are resistant to the electrolyte (1926.441(a)(3)).
+Construct floors of acid-resistant materials or protect them from acid accumulations
+(1926.441(a)(4)).
+Provide facilities within 25 feet (7.62 m) of battery handling areas for quick drenching
+of the eyes and body (1926.441(a)(6)).
+Ensure the availability of facilities to flush and neutralize spilled electrolyte and for fire
+protection (1926.441(a)(7)).
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 9
+
+PAGE 10
+
+Storage:
+Store batteries in cool, dry, and well-ventilated areas, away from flammable materials.
+Fire suppression equipment, along with smoke detectors, gas detectors, and thermal heat
+sensers should be included in this area.
+Refer to specific guidelines in the corresponding section for safe storage practices.
+Battery Inspection and Damage:
+Regularly inspect batteries for physical deformities, leaks, corrosion, heat build-up,
+swelling, and signs of thermal runaway.
+Do not use or attempt to repair damaged batteries.
+Follow proper segregation, handling, and transportation procedures for damaged
+batteries. Avoid tilting the damaged battery when moving.
+Consult the relevant section for battery identification guidelines.
+Electrical Safety:
+Disconnect the power supply and deactivate all high-voltage systems before handling
+batteries.
+Utilize insulated tools to prevent electrical shocks.
+Follow lockout/tagout procedures to isolate electrical energy sources.
+Work in pairs, with one person ready with an insulated rescue hook to remove the other
+person from danger.
+Refer to the Standard for Electrical Safety in the Workplace, NFPA 70E, for further
+guidance.
+Fire Prevention and Detection:
+Involve the local first responders/authority having jurisdiction (AHJ) in developing fire
+prevention plans for the site.
+Promptly ship damaged or defective batteries to recyclers, avoiding prolonged storage.
+Follow required DOT/TDG shipping regulations (DDR).
+Maintain adequate spacing between batteries.
+Ensure proper air ventilation.
+Deploy thermal imaging cameras and 4-gas meters for fire detection where monitoring
+is necessary.
+Emergency Response:
+Develop and implement an emergency response plan for battery-related incidents.
+Train personnel in recognizing and responding to fires, leaks, or thermal runaway events.
+Have appropriate fire suppression equipment, such as extinguishers and fire blankets,
+readily available.
+Call emergency services (911).
+Consider using water to extinguish fires and cool the battery.
+If safe, move the battery outdoors.
+When using equipment, prefer telehandlers over forklifts to keep problem batteries
+extended away from the cab.
+Refer to the relevant section for guidance on Emergency Preparedness.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 10
+
+PAGE 11
+
+Storage Considerations
+When storing li-ion batteries, consider storage systems that mitigate the risks associated
+with fire, heat propagation, electric shock hazards, electrolyte and chemical leakage,
+emissions, pressure venting, and water runoff. Consulting with relevant authorities and fire
+safety experts is recommended to ensure compliance with regulations and the
+effectiveness of any fire suppression systems in place. Different considerations apply to
+indoor and outdoor storage, and a comprehensive approach should be taken.
+Hazards to Consider:
+Thermal runaway (possible fire): Implement measures to prevent and mitigate the risks
+of thermal runaway events.
+Short circuit, arc flash or high voltage exposure: Take precautions to prevent
+accidental short circuits or exposure to high voltage.
+Release of electrolyte: Prevent electrolyte leakage and contain any potential spills or
+leaks.
+Propagation to other batteries or flammable sources: Design storage systems to limit
+the spread of fire or heat to adjacent flammable materials.
+Emissions of toxic and flammable gases and/or smoke: Address potentially harmful
+emissions through detection, ventilation, or treatment.
+Water runoff: Establish controls to manage water runoff resulting from electrolyte leaks
+or fire suppression activities.
+Mitigation Strategies:
+Containment of batteries: Utilize packaging, structures, or spatial segregation to
+contain batteries and limit the spread of fire or heat.
+Reducing State of Charge: Consider reducing the state of charge of batteries before
+storage to mitigate chemical energy release and minimize magnitude of thermal
+events.
+Maintaining a cool environment: Store batteries at cooler temperatures to reduce the
+risk of battery degradation caused at higher temperatures over 27 degrees Celsius /
+80 degrees Fahrenheit*. Source: Geotab
+Sensors for detection: Install sensors to detect heat and rising temperature, Carbon
+Dioxide (CO2), Carbon Monoxide (CO), Hydrogen Sulfide (H2S), and Methane
+(CH4)for early hazard identification.
+Terminal protection: Store batteries with proper terminal protection to prevent shocks
+or electric discharge.
+Signage and warnings: Clearly label storage areas with high voltage warning icons or
+regulatory signage to indicate the presence of high voltage batteries.
+Water runoff controls: Implement measures to control and manage water runoff in
+compliance with local regulations.
+Spacing: Store batteries with appropriate spacing and limiting stack height to minimize
+the risk of thermal event propagation between batteries or groups of batteries.
+Fire suppression systems: Install fire suppression systems such as automatic sprinklers or
+robotic fire suppression equipment to limit the spread of fire in the event of a thermal
+event. Consult with fire safety personnel to ensure the adequacy of fire suppression
+systems.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 11
+
+[TABLE]
+| Storage Considerations | |
+| -------------------------------------------------------------------------------------------- | ----------------- |
+| When storing li-ion batteries, consider storage systems that mitigate the risks associated | |
+| with fire, heat propagation, electric shock hazards, electrolyte and chemical leakage, | |
+| emissions, pressure venting, and water runoff. Consulting with relevant authorities and fire | |
+| safety experts is recommended to ensure compliance with regulations and the | |
+| effectiveness of any fire suppression systems in place. Different considerations apply to | |
+| indoor and outdoor storage, and a comprehensive approach should be taken. | |
+| Hazards to Consider: | |
+| Thermal runaway (possible fire): Implement measures to prevent and mitigate the risks | |
+| of thermal runaway events. | |
+| Short circuit, arc flash or high voltage exposure: Take precautions to prevent | |
+| accidental short circuits or exposure to high voltage. | |
+| Release of electrolyte: Prevent electrolyte leakage and contain any potential spills or | |
+| leaks. | |
+| Propagation to other batteries or flammable sources: Design storage systems to limit | |
+| the spread of fire or heat to adjacent flammable materials. | |
+| Emissions of toxic and flammable gases and/or smoke: Address potentially harmful | |
+| emissions through detection, ventilation, or treatment. | |
+| Water runoff: Establish controls to manage water runoff resulting from electrolyte leaks | |
+| or fire suppression activities. | |
+| Mitigation Strategies: | |
+| Containment of batteries: Utilize packaging, structures, or spatial segregation to | |
+| contain batteries and limit the spread of fire or heat. | |
+| Reducing State of Charge: Consider reducing the state of charge of batteries before | |
+| storage to mitigate chemical energy release and minimize magnitude of thermal | |
+| events. | |
+| Maintaining a cool environment: Store batteries at cooler temperatures to reduce the | |
+| risk of battery degradation caused at higher temperatures over 27 degrees Celsius / | |
+| 80 degrees Fahrenheit*. Source: Geotab | |
+| Sensors for detection: Install sensors to detect heat and rising temperature, Carbon | |
+| Dioxide (CO2), Carbon Monoxide (CO), Hydrogen Sulfide (H2S), and Methane | |
+| (CH4)for early hazard identification. | |
+| Terminal protection: Store batteries with proper terminal protection to prevent shocks | |
+| or electric discharge. | |
+| Signage and warnings: Clearly label storage areas with high voltage warning icons or | |
+| regulatory signage to indicate the presence of high voltage batteries. | |
+| Water runoff controls: Implement measures to control and manage water runoff in | |
+| compliance with local regulations. | |
+| Spacing: Store batteries with appropriate spacing and limiting stack height to minimize | |
+| the risk of thermal event propagation between batteries or groups of batteries. | |
+| Fire suppression systems: Install fire suppression systems such as automatic sprinklers or | |
+| robotic fire suppression equipment to limit the spread of fire in the event of a thermal | |
+| event. Consult with fire safety personnel to ensure the adequacy of fire suppression | |
+| systems. | |
+| EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 11 |
+
+PAGE 12
+
+Safety Tools & Materials to Assist with Being Safe
+Various personal protective equipment (PPE) and specialized tools are available to assist
+with being safe. Additional materials for thermal runaway identification, containment, and
+extinguishing play a role in minimizing potential hazards.
+Personal Protective Equipment for Safe Handling EV Batteries:
+Class 0: Rubber voltage gloves, leather protectors, and glove protection bag
+Category 2: Coveralls, balaclava, face shield, helmet
+Rubber-soled shoes: Footwear with rubber soles to minimize the risk of electrical shock.
+Insulated rescue hook: A specialized tool to safely remove personnel from hazardous
+situations.
+Thermal Runaway Identification Materials:
+Thermal imaging camera: Handheld or installed cameras connected to alarm systems
+to detect and identify thermal runaway events.
+4-gas meter: Monitors the presence of gases such as Carbon Dioxide (CO2), Carbon
+Monoxide (CO), Hydrogen Sulfide (H2S), and Methane (CH4) to help with early
+detection.
+Thermal Runaway Containment Materials:
+Vehicle fire blanket: Available in various sizes, these blankets can be used to cover and
+contain thermal runaways in electric vehicles, battery packs, and battery modules.
+Fire retardants: Manual application or automated systems using fire retardant agents
+to aid in containing thermal runaways.
+Overhead water sprinklers: Sprinkler systems strategically placed to provide water-
+based fire suppression.
+Thermal Runaway Extinguishing Materials:
+Water from a fire hose: Standard fire suppression tool to douse fires and cool battery
+systems.
+Saltwater dunk tank: A specialized tank filled with saltwater to submerge and cool
+overheated batteries in a controlled manner.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 12
+
+PAGE 13
+
+Optional Infrastructure Upgrades
+Various optional infrastructure upgrades may be considered to assist in minimizing
+potential hazards.
+INDOORS
+Airflow: To maintain proper ventilation and minimize the buildup of potentially
+hazardous gases, consider incorporating rooftop venting and side doors with air flow
+mechanisms. These upgrades facilitate the efficient exchange of air, reducing the risk
+of gas accumulation.
+Alarm System: Enhance the effectiveness of the alarm system by integrating thermal
+imaging cameras and 4-gas meters. This integration allows for early detection of
+thermal runaway events that the human eye and nose can’t detect as well.
+Water Runoff: Prepare for potential water runoff during fire suppression efforts by
+designing a drainage system capable of capturing and redirecting high volumes of
+water. This prevents water accumulation and ensures compliance with local regulations.
+Section Separation: Implement measures to segregate different sections within the
+facility. Consider using cement blocks, cement firewalls, or fire curtains to create
+barriers. Consider maintaining a dead space of at least 50 feet between sections to
+mitigate the spread of fire and limit the impact of thermal events.
+Access and Egress: Be able to rapidly move an EV battery pack outdoors prior to
+entering thermal runaway via exit door(s) and/or ramp. There should be multiple
+separate exits from the building for people to leave that are separate from how EV
+battery packs enter and exit the building. Avoid charging battery packs at or near the
+building exits to minimize risks.
+Moving Batteries: Consider use of high load lift capacity forklifts to move EV batteries
+around the facility, including into and out of shipping containers and into and out of
+racking. Opt for telehandlers instead of forklifts when handling EV battery packs that
+are entering thermal runaway as they offer the advantage of extending the battery
+pack away from the driver, reducing the proximity to potential hazards. Avoid tilting the
+battery.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 13
+
+PAGE 14
+
+OUTDOORS
+Temporary Storage: Consider providing temporary storage under a shaded rooftop
+with open sides to allow for natural airflow. This configuration may help regulate
+temperatures and reduce the risk of thermal events. Suggest storing the EV batteries a
+minimum 50 feet from the building and structures.
+Alarm System: Integrate thermal imaging cameras and 4-gas meters into the outdoor
+alarm system to enable continuous monitoring and early detection of potential hazards.
+Water Runoff: Design and implement a drainage system that can effectively direct
+high volumes of water away from the battery storage area. Incorporate suitable
+measures for proper water runoff management, minimizing the potential for
+environmental impact.
+Section Separation: Similar to indoor facilities, consider use of cement blocks to create
+physical barriers between different sections within the outdoor storage area. Without
+non-flammable section barriers, try to maintain a dead space of roughly 50 feet to limit
+the spread of fire.
+Exits and Corridors: Establish designated corridors for moving EV battery packs that
+may enter thermal runaway, keeping them separate from other battery packs and
+surrounding buildings. Provide multiple exits and corridors for personnel evacuation
+that are distinct from the paths used for EV battery pack movement. Avoid charging
+battery packs near these corridors to enhance safety.
+Moving Batteries: Consider prioritizing the use of telehandlers over forklifts when
+handling thermal event batteries. Telehandlers offer the advantage of extending the
+battery pack away from the driver, thus reducing potential risks.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 14
+
+PAGE 15
+
+Packaging
+Packaging hazardous materials, including end-of-life lithium batteries, requires compliance
+with the US DOT regulations (Transport Canada's regulations vary in certain areas. Please
+read this Transporting Batteries bulletin and the Transportation of Dangerous Goods
+Regulations for more details). The regulations apply to individuals involved in the
+transportation of hazardous materials or those who manufacture or maintain packaging
+certified for transporting hazardous materials.
+When packaging end-of-life lithium batteries, the shipper must follow specific guidelines to
+ensure safe transportation according to the regulations:
+Non-Metallic Inner Packaging: The battery must be completely enclosed in non-metallic
+inner packaging to prevent contact with other materials and protect against short
+circuits.
+Prevention of Battery Movement: Measures should be taken to secure the battery within
+the packaging and prevent movement during transportation. This helps minimize the risk
+of damage or accidental short circuits.
+Authorized Containers for Large Format End-of-Life Batteries: Large format end-of-life
+lithium batteries must be packed in authorized containers that meet UN packing group 2
+(PGII) performance packaging criteria. The packaging should display a Class 9 lithium
+battery label, UN number, proper shipping name, and be accompanied by a shipper
+paper prepared by trained employees.
+Outer Packaging Materials: Authorized outer packaging materials can include wood,
+fiberboard, plastic, metal, or plywood. These materials must meet the UN packing group
+2 performance packaging criteria.
+Exemption for Strong Outer Casings: End-of-life batteries weighing more than 12 kg (26.5
+lbs.) that have a strong, impact-resistant outer casing do not require UN Packaging.
+Instead, they can be shipped in protective enclosures, strong outer packaging, or on a
+pallet or other suitable handling device.
+Lithium-ion cells or batteries that have suffered damage, are defective, or have been
+recalled by the manufacturer due to safety concerns and possess the potential to generate
+hazardous heat, fire, or short circuits, are permitted to be transported exclusively by
+highway, rail, or vessel. These batteries must adhere to the following packaging requirements
+during transportation according to the regulations:
+Individual Non-Metallic Inner Packaging: Each cell or battery must be placed in an
+individual non-metallic inner packaging that fully encloses the cell or battery.
+Cushioning Material: The inner packaging must be surrounded by cushioning material
+that is non-combustible, electrically non-conductive, and absorbent. This provides
+additional protection and minimizes the risk of dangerous heat, fire, or short circuits.
+Packing Group 1 Rated Packaging: Each inner packaging must be placed in packaging
+rated for packing group 1, which can be made of metal, wood, or solid plastic, in
+accordance with the regulations.
+Marking and Labeling: The outer packaging must be marked with an indication that it
+contains a "Damaged/defective lithium ion battery" or "Damaged/defective lithium
+metal battery" as appropriate. The marking must be in characters at least 12 mm (0.47
+inches) high.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 15
+
+PAGE 16
+
+UNDERSTANDING THERMAL RUNAWAY
+Thermal runaway occurs when the temperature inside a battery reaches the point that
+causes a chemical reaction to occur. This chemical reaction produces heat, which further
+drives the internal temperature higher, resulting in the destruction of the battery or, in
+severe cases, a fire.
+Source: UL Electrochemical Safety Research Institute
+In lithium-ion cells, the cathode and anode electrodes are physically separated by a
+component known as the separator. Defects in the cell that compromise the separator's
+integrity can cause an internal short circuit condition that may also result in thermal
+runaway. This is especially likely in cells of poorer quality.
+Certain external conditions can also cause a thermal runaway:
+Overcharge: Can be due to incompatibility between cell and charger, or poorly
+designed battery management system (BMS)
+Multiple over discharges followed by charge: Repeatedly discharging the cell or
+battery pack below the cell recommended lower voltage threshold specified by the
+cell manufacturer and subsequently recharging the cell.
+External short circuit: A direct connection between the positive and negative terminals
+of the battery.
+Excessively high temperature: Exposure to extremely high ambient temperatures.
+Damage to a cell that results in gases forming that are susceptible to fire (electrolyte
+within a battery cell is flammable).
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 16
+
+[TABLE]
+| UNDERSTANDING THERMAL RUNAWAY | |
+| ------------------------------------------------------------------------------------------ | ----------------- |
+| Thermal runaway occurs when the temperature inside a battery reaches the point that | |
+| causes a chemical reaction to occur. This chemical reaction produces heat, which further | |
+| drives the internal temperature higher, resulting in the destruction of the battery or, in | |
+| severe cases, a fire. | |
+| Source: UL Electrochemical Safety Research Institute | |
+| In lithium-ion cells, the cathode and anode electrodes are physically separated by a | |
+| component known as the separator. Defects in the cell that compromise the separator's | |
+| integrity can cause an internal short circuit condition that may also result in thermal | |
+| runaway. This is especially likely in cells of poorer quality. | |
+| Certain external conditions can also cause a thermal runaway: | |
+| Overcharge: Can be due to incompatibility between cell and charger, or poorly | |
+| designed battery management system (BMS) | |
+| Multiple over discharges followed by charge: Repeatedly discharging the cell or | |
+| battery pack below the cell recommended lower voltage threshold specified by the | |
+| cell manufacturer and subsequently recharging the cell. | |
+| External short circuit: A direct connection between the positive and negative terminals | |
+| of the battery. | |
+| Excessively high temperature: Exposure to extremely high ambient temperatures. | |
+| Damage to a cell that results in gases forming that are susceptible to fire (electrolyte | |
+| within a battery cell is flammable). | |
+| EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 16 |
+
+PAGE 17
+
+Containment of Thermal Runaway
+The purpose of containing a thermal runaway is to provide a) the employees time to
+evacuate and b) the first responders time to assess the situation and gain control of the
+scene. It is recommended to take note of the following considerations in developing plans
+to address a potential thermal event.
+To effectively contain a thermal runaway requires pre-work that can include:
+Having an emergency preparedness plan.
+Training employees on the signs of a thermal runaway.
+Training employees on how to react to a thermal runaway.
+Spacing between the battery packs; spacing between the work areas.
+Having cement or fire curtain barriers, or fire walls between work areas/storage areas.
+Having thermal imaging sensors and 4-gas meters active and connected to the alarm
+system.
+Having aerosols and suppression systems specifically designed for lithium battery
+thermal events.
+To effectively contain a thermal runaway requires tools that can include:
+Fire blanket(s) for covering a large sized battery.
+Fire retardant pillows for smothering a small sized battery.
+Fire retardant materials for pouring over a battery.
+Appropriately rated aerosols and suppression systems specifically designed for lithium
+battery thermal events.
+Firefighting robots for automated responses to thermal events at all times of the day.
+Protective personal equipment to keep the employee(s) safe during the act of
+containment.
+A telehandler for moving the battery at extended lengths from the cab.
+To effectively contain a thermal runaway behavioral changes should be considered:
+Remain calm.
+Work in teams of two.
+Cover the battery with a fire blanket, fire pillow, or retardant materials depending on
+which is appropriate.
+Wheel the battery outside if it is already on a table with wheels.
+Use a telehandler to pick up the battery, extend it away from the cab, and drive it
+outdoors.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 17
+
+PAGE 18
+
+Ending a Thermal Runaway
+There are several scenarios for ending a thermal runaway one may wish to evaluate within
+the context of their emergency preparedness planning, each with its own advantages and
+considerations, including:
+1.Let the EV battery burn itself out,
+2.Spray the EV battery with large quantities of water from a fire hose, or
+3.Place the EV battery in a water dunk tank (either with or without salt)
+Scenario #1: Let the battery burn itself out
+When this may be appropriate: If the battery is in a location where it will not do further
+harm and/or damage to people, infrastructure, and the environment.
+Pros Cons
+The battery consumes the remaining Takes more time.
+energy that’s acting as fuel. May cause damage to land under the
+The flames burn off gases. battery.
+May create downwind concern if gases
+Water – a resource – is not used
+are not burning off and resulting in smoke
+excessively and no need to contain the
+that travels with the wind.
+water run-off.
+Causes traffic jams if in high density public
+location.
+Scenario #2: Spray the battery with large quantities of water from a fire hose
+When this may be appropriate: If the battery is in a location where the thermal runaway
+needs to be contained to that battery, where there is risk of fire spreading to other
+infrastructure, where harm to humans is possible, and where traffic jams may occur.
+Pros Cons
+May require significant amounts of water
+Safety of people and preservation of
+to be effective and time to apply water.
+infrastructure by controlling flames.
+Water runoff may need to be contained.
+Opportunity for fire fighters to use hydraulic
+Battery may need to be further de-
+ventilation to help manage/guide the off-
+energized prior to shipping to battery
+gassing and smoke away from the target.
+recycler.
+May help minimize traffic jams.
+Risk of battery re-ignition.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 18
+
+[TABLE]
+| Pros | Cons |
+| -------------------------------------- | --------------------------------------------- |
+| The battery consumes the remaining | Takes more time. |
+| energy that’s acting as fuel. | May cause damage to land under the |
+| The flames burn off gases. | battery. |
+| Water – a resource – is not used | May create downwind concern if gases |
+| excessively and no need to contain the | are not burning off and resulting in smoke |
+| water run-off. | that travels with the wind. |
+| | Causes traffic jams if in high density public |
+| | location. |
+
+[TABLE]
+| Pros | Cons |
+| ---------------------------------------------- | ---------------------------------------- |
+| Safety of people and preservation of | May require significant amounts of water |
+| infrastructure by controlling flames. | to be effective and time to apply water. |
+| Opportunity for fire fighters to use hydraulic | Water runoff may need to be contained. |
+| ventilation to help manage/guide the off- | Battery may need to be further de- |
+| gassing and smoke away from the target. | energized prior to shipping to battery |
+| May help minimize traffic jams. | recycler. |
+| | Risk of battery re-ignition. |
+
+PAGE 19
+
+Scenario #3: Place the EV battery in a water dunk tank (either with or without salt)
+When this may be appropriate: Through the creation of the emergency preparedness
+plan, the business, the authority having jurisdiction (AHJ), and its insurance provider may
+decide it would be appropriate to have a water dunk tank on the property ready for use.
+The tank sits empty in a designated location where first responders can fill with water and
+salt in correct proportions if desired. Salted water will extinguish the thermal runaway and
+de-energize the battery more efficiently than just water alone.
+Pros Cons
+Safety of people and Will require significant amounts of water to be effective.
+preservation of Battery may need to be further de-energized prior to shipping to
+infrastructure. battery recycler if it was submerged in just water (vs. salted
+Water is contained water).
+and can be properly Risk of battery re-entering thermal runaway if it was submerged
+remediated when the in just water (vs. salted water).
+situation is over. If salted water is used there may be off gassing that needs
+venting outdoors and/or a fire hose mist to redirect.
+It can take multiple days to fully end the thermal runaway.
+Proper disposal of water after event.
+It is important to evaluate these methods within the context of an emergency preparedness
+plan and considering such factors as the location, potential risks, available resources, and
+environmental impact. Collaborating with the AHJ and relevant stakeholders can help
+determine the most appropriate method for ending a thermal runaway while prioritizing
+safety and minimizing potential damage.
+De-energizing a Battery
+De-energizing an EV battery prior to shipping may be appropriate in some situations where
+the risk of a thermal runaway during transport is deemed high. The EV battery may have
+been heavily damaged (dropped, struck, or involved in a vehicle accident), or had a
+thermal runaway event. If a battery is considered damaged, defective or recalled (DDR),
+refer to the manufacturer’s instructions regarding de-energization and potential risks.
+Using a water dunk tank with the correct ratio of water to salt. Consider contacting a
+professional organization with experience and the processes in place to manage a dunk
+tank or establish those skills and processes within your organization with the input of trained
+professionals.
+Using an oscillator or other appropriate tool to de-energize the battery. Consider
+contacting a professional organization with experience and the processes in place to use
+an oscillator, load bank, resistor or other appropriate device or establish those skills and
+processes within your organization with the input of trained professionals.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 19
+
+[TABLE]
+| Pros | Cons |
+| -------------------- | ---------------------------------------------------------------- |
+| Safety of people and | Will require significant amounts of water to be effective. |
+| preservation of | Battery may need to be further de-energized prior to shipping to |
+| infrastructure. | battery recycler if it was submerged in just water (vs. salted |
+| Water is contained | water). |
+| and can be properly | Risk of battery re-entering thermal runaway if it was submerged |
+| remediated when the | in just water (vs. salted water). |
+| situation is over. | If salted water is used there may be off gassing that needs |
+| | venting outdoors and/or a fire hose mist to redirect. |
+| | It can take multiple days to fully end the thermal runaway. |
+| | Proper disposal of water after event. |
+
+PAGE 20
+
+ROLES OF AUTHORITIES
+Fire Marshals
+The local fire marshal and/or authority having jurisdiction (AHJ) has the final say on how the
+site is prepared for handling EVs and EV batteries. Having an emergency preparedness plan
+and the physical site reviewed by the AHJ is a very good idea and in many jurisdictions
+required by law. The recommendations of one AHJ may differ from an AHJ in another
+jurisdiction.
+Department of Transportation (DOT)
+The Department of Transportation (DOT) plays a role in governing and regulating the proper
+shipping and handling of lithium-ion (li-ion) batteries. Their regulations, specifically the
+Hazardous Materials Regulations (HMR) (49 CFR Parts 100-180)(49 CFR 173.185), are
+enforced by the Pipeline and Hazardous Materials Safety Administration (PHMSA) division of
+the DOT. These regulations ensure the safe transportation of hazardous materials, including
+li-ion batteries, by various modes of transportation such as highway, rail, vessel, and air.
+The HMR sets forth comprehensive guidelines and requirements for the packaging, labeling,
+marking, and documentation of hazardous materials, including li-ion batteries, to prevent
+accidents, leaks, or other incidents during transportation. These regulations cover aspects
+such as proper training, packaging design, and handling procedures to minimize the risks
+associated with transporting hazardous materials. The DOT regulations governing training
+can be found in 49 CFR §172.704. These requirements apply to employees designated as
+Hazardous Materials Employees and ensure that they receive adequate training on the safe
+handling, packaging, and transportation of hazardous materials, including li-ion batteries.
+Training programs focus on educating employees about the potential hazards, emergency
+response protocols, and compliance with relevant regulations to ensure the safe
+transportation of hazardous materials.
+OSHA
+Companies engaged in the production, storage, or handling of lithium batteries are required
+to comply with OSHA standards to ensure workplace safety. OSHA (Occupational Safety
+and Health Administration) is a regulatory agency that establishes and enforces standards
+to protect the health and safety of workers. Under OSHA regulations, employees involved in
+dealing with lithium-ion batteries must receive training on Hazardous Materials Regulations
+(HAZMAT) that are relevant to their job functions. This training ensures that employees are
+knowledgeable about the potential hazards associated with lithium batteries and are
+equipped to handle them safely. Compliance with these regulations helps mitigate risks and
+promotes a safe working environment.
+In addition to HAZMAT training, OSHA regulations encompass other important aspects
+related to the handling of lithium batteries. Emergency planning requirements are mandated
+under 29 CFR 1910.38 and 29 CFR 1926.35. These requirements necessitate the development
+and implementation of effective emergency response plans in case of incidents or accidents
+involving lithium batteries. Such plans ensure that employees are prepared to respond
+appropriately to emergencies, minimizing potential injuries or property damage.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 20
+
+PAGE 21
+
+Furthermore, OSHA regulations address hazardous waste operations, which include the
+proper management and disposal of lithium batteries. Hazardous Waste Operations and
+Emergency Response (HAZWOPER) standards (29 CFR 1910.120(q)) outline procedures for
+handling hazardous materials, including lithium batteries, during cleanup operations,
+emergency response, and other related activities. Compliance with these standards helps
+prevent environmental contamination and ensures the safe handling of hazardous waste.
+Fire protection is another crucial aspect addressed by OSHA regulations. Companies
+working with lithium batteries must have appropriate fire suppression equipment, fire
+detection systems, and alarm systems in place to mitigate the risk of fire incidents. These
+measures are essential for early detection and response to fires, protecting employees and
+property from harm.
+It is important to note that the specific OSHA requirements and regulations applicable to
+lithium batteries may vary depending on the business sector and the nature of operations.
+Each company is responsible for identifying and implementing the OSHA requirements that
+are relevant to their specific practices and ensuring compliance to maintain a safe
+workplace.
+EPA
+Handlers of electric vehicle (EV) and large format batteries are subject to regulations
+regarding the generation and management of hazardous waste. The EPA (Environmental
+Protection Agency) provides recommendations and guidelines for the proper handling and
+disposal of lithium-ion (li-ion) batteries, especially at the end of their life cycle.
+The EPA recommends that all li-ion batteries be managed in accordance with the federal
+"universal waste" regulations outlined in 40 CFR 273. These regulations provide a framework
+for the management, labeling, and storage of universal waste, including li-ion batteries. The
+specific requirements within universal waste regulations may vary based on the quantity of
+waste generated by a user.
+Under universal waste regulations, handlers of li-ion batteries are not required to use
+hazardous waste manifests. However, it is mandatory that universal waste is sent to a
+permitted hazardous waste facility or to a hazardous waste recycler or universal waste final
+destination facility for appropriate disposal or recycling.
+Business Requirement – Insurance Providers
+The company’s insurance provider is a partner to the company handling EV batteries and
+will have a point of view on handling EV batteries at the site from a risk insurance
+perspective. This view may align with the AHJ or may differ depending on the level of risk the
+insurance provider and company owner are willing to take. It is recommended that
+organizations notify their insurance provider regarding the storing or handling EV batteries
+on the company premises.
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 21
+
+[TABLE]
+| Furthermore, OSHA regulations address hazardous waste operations, which include the | |
+| ---------------------------------------------------------------------------------------------- | ----------------- |
+| proper management and disposal of lithium batteries. Hazardous Waste Operations and | |
+| Emergency Response (HAZWOPER) standards (29 CFR 1910.120(q)) outline procedures for | |
+| handling hazardous materials, including lithium batteries, during cleanup operations, | |
+| emergency response, and other related activities. Compliance with these standards helps | |
+| prevent environmental contamination and ensures the safe handling of hazardous waste. | |
+| Fire protection is another crucial aspect addressed by OSHA regulations. Companies | |
+| working with lithium batteries must have appropriate fire suppression equipment, fire | |
+| detection systems, and alarm systems in place to mitigate the risk of fire incidents. These | |
+| measures are essential for early detection and response to fires, protecting employees and | |
+| property from harm. | |
+| It is important to note that the specific OSHA requirements and regulations applicable to | |
+| lithium batteries may vary depending on the business sector and the nature of operations. | |
+| Each company is responsible for identifying and implementing the OSHA requirements that | |
+| are relevant to their specific practices and ensuring compliance to maintain a safe | |
+| workplace. | |
+| EPA | |
+| Handlers of electric vehicle (EV) and large format batteries are subject to regulations | |
+| regarding the generation and management of hazardous waste. The EPA (Environmental | |
+| Protection Agency) provides recommendations and guidelines for the proper handling and | |
+| disposal of lithium-ion (li-ion) batteries, especially at the end of their life cycle. | |
+| The EPA recommends that all li-ion batteries be managed in accordance with the federal | |
+| "universal waste" regulations outlined in 40 CFR 273. These regulations provide a framework | |
+| for the management, labeling, and storage of universal waste, including li-ion batteries. The | |
+| specific requirements within universal waste regulations may vary based on the quantity of | |
+| waste generated by a user. | |
+| Under universal waste regulations, handlers of li-ion batteries are not required to use | |
+| hazardous waste manifests. However, it is mandatory that universal waste is sent to a | |
+| permitted hazardous waste facility or to a hazardous waste recycler or universal waste final | |
+| destination facility for appropriate disposal or recycling. | |
+| Business Requirement – Insurance Providers | |
+| The company’s insurance provider is a partner to the company handling EV batteries and | |
+| will have a point of view on handling EV batteries at the site from a risk insurance | |
+| perspective. This view may align with the AHJ or may differ depending on the level of risk the | |
+| insurance provider and company owner are willing to take. It is recommended that | |
+| organizations notify their insurance provider regarding the storing or handling EV batteries | |
+| on the company premises. | |
+| EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 21 |
+
+PAGE 22
+
+ADDITIONAL RESOURCES
+There are several published resources that may be helpful to those seeking additional
+information on the topics referenced in this document.
+Note that the following resources are provided for educational purposes only. SP cannot
+endorse, guarantee or recommend any information, products or services provided by any
+3rd party organization, and SP and its member companies make no warranty, expressed or
+implied, and assume no liability for the resources listed here.
+Additional Regulatory Information
+IATA Lithium Battery Guidance Document
+US DOT PHMSA Lithium Battery Resources
+US DOT PHMSA Damaged, Defective, or Recalled (DDR) Lithium Batteries Risk
+Guidance
+US DOT PHMSA Safety Advisory Notice for the Transportation of Lithium Batteries for
+Disposal or Recycling
+US EPA Lithium Battery Recycling Regulatory Status and Frequently Asked Questions
+Memo
+Regulations Governing Shipment of Electric Vehicle (EV) Batteries in the U.S. This
+guidance document identifies current U.S. EV battery transportation regulations by
+chemistry (lithium-ion vs. nickel-metal hydride), by state of health (end-of-life vs.
+damaged-defective-recalled), and by mode of transportation (land / rail, air, or sea),
+and then links those regulations to types of shipping containers permitted for use.
+Transport Canada’s Transportation of Dangerous Goods Regulations
+Transport Canada’s Transporting Batteries bulletin
+Standards, Codes & Guidance
+FM Global Property Loss Prevention Reference Data Sheets
+DS 8-1: Commodity Classification. Data sheet that provides guidance on classifying
+stored hazardous materials.
+DS 8-9: Storage of Class 1, 2, 3, 4 and Plastic Commodities. Data sheet that provides
+fire protection recommendations when storage hazardous materials in hazard
+classes 1, 2, 3, 4, as well as plastic commodities and other hazardous materials not in
+classes 1, 2, 3 and 4.
+International Association of Fire Chiefs, Fire Department Response to Electric Vehicle
+Fires Bulletin intended to guide pre-response, response and post-event responses to
+electrical vehicle fires.
+International Code Council (ICC) - International Fire Codes (IFC) (note that
+applicable publication years will vary by local jurisdictions)
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 22
+
+PAGE 23
+
+National Fire Protection Association (NFPA)
+NFPA - Emergency Response Guides for Alternative Fuel Vehicles. NFPA maintains a
+collection of Emergency Response Guides from 35+ alternative fuel vehicle
+manufacturers, which include information on disabling high voltage batteries and
+components.
+NFPA Emergency Field Guide. This guide covers aspects of electric, hybrid, fuel cell,
+and gaseous fuel hazard awareness and procedures — including information from
+related NFPA codes.
+NFPA Alternative Fuel Vehicles Training Program for Emergency Responders Online
+Training. This self-paced online training is designed to teach emergency responders
+how to safely deal with emergency situations involving alternative fuel passenger
+vehicles, trucks, buses, and commercial fleet vehicles.
+Society of Automotive Engineers (SAE) International
+SAE J3235: Best Practices for Storage of Lithium-ion Batteries. SAE J3235 is a
+Standard that aids in mitigating risks while storing lithium-ion cells, batteries and
+battery systems used in electric vehicles as well as energy storage systems and
+other large format industrial applications.
+SAE J2950: Recommended Practices for Shipping Transport and Handling of
+Automotive-Type Battery System-Lithium Ion. SAE J2950 is a Recommended Practice
+(RP) intended to aid in the identification, handling and shipping of lithium-ion
+batteries, and also includes recommendations for determining transportability of
+possibly damaged/defective batteries.
+SAE J2984: Chemical Identification of Transportation Batteries for Recycling. SAE
+J2984 is a document that contains a chemistry identification system that can be
+used to support recycling rechargeable batteries and battery systems equal to or
+greater than 12 volts used in transportation applications.
+SAE J2990: Hybrid and EV First and Second Responder Recommended Practice.
+This document aims to describe the potential consequences associated with
+hazards from xEVs and suggest common procedures to help protect emergency
+responders, tow and/or recovery, storage, repair, and salvage personnel after an
+incident has occurred with an electrified vehicle.
+OEM Manuals / Guides
+Information related to an EV battery, including proper handling practices for
+emergency responders and dismantlers, is generally provided by OEMs for their
+electric vehicles. The links below will direct you to some of the online resources
+provided directly by SP OEM members relating to their products.
+FCA US LLC (Chrysler, Dodge, Fiat, Jeep, Ram)
+Ford / Lincoln
+General Motors (Chevrolet, GMC, Buick, Cadillac, Saturn)
+Honda / Acura
+Toyota / Lexus
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 23
+
+PAGE 24
+
+APPENDIX: SELF-ASSESSMENT CHECKLIST
+This self-assessment checklist is provided for educational purposes only to assist readers in
+reviewing the topics covered in this guidance document.
+Battery Identification
+End-of-life characteristics identified and published for employees to reference
+Damaged-defective characteristics identified and published for employees to
+reference
+Thermal runaway characteristics identified and published for employees to
+reference
+Safety Prevention & Event Management
+Emergency preparedness plan
+Meeting with fire marshal or authority having jurisdiction (AHJ)
+Meeting with company’s insurance provider
+Employee emergency response training
+Employee hazmat shipper certification training
+Procurement of appropriate:
+Personal protective equipment
+Thermal runaway response systems and containment materials
+Integration of thermal imaging cameras and 4-gas meters into alarm system
+Optional infrastructure upgrades:
+Outdoor
+Indoor
+Battery temporary storage plans
+Thermal runaway containment and extinguishing plans
+Water runoff management plan
+Battery packaging materials for shipping
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 24
+
+PAGE 25
+
+Acknowledgements
+This guidance document was produced through a collaborative process by a
+subcommittee of the Suppliers Partnership for the Environment (SP) Responsible Battery
+Work Group.
+The project was co-chaired by: Jeff Haltrecht, Call2Recycle; and, David Fauvre, Blue
+Whale Materials.
+SP members contributing to the development and review of this guidance document
+included: General Motors, Honda Development & Manufacturing of America, Stellantis,
+Toyota Motor North America, Blue Whale Materials, Call2Recycle, Cellblock FCS, Cirba
+Solutions, Circulor, Energy Security Agency, Labelmaster, Li-Cycle, and, ORBIS. Special
+thanks to Kellen Mahoney, SP’s Director, for his work in supporting the development of this
+guidance document.
+Additional stakeholder input was gathered through a series of industry expert interviews
+and an SP workshop in Indianapolis, Indiana in April 2023.
+Disclaimer
+This document is provided for educational purposes only. The information included is based
+on the professional judgment of the individual authors as of June 2023 and may be used at
+your discretion. SP and its member companies make no warranty, expressed or implied,
+and assume no liability for any form of damage that may result from use of this document. It
+is the responsibility of every company handling EV batteries to understand and comply with
+all applicable laws and regulations.
+Contact
+Please submit any feedback on this guidance document or suggestions for future
+improvements to info@supplierspartnership.org
+EV BATTERY SAFE HANDLING & STORAGE GUIDANCE | JULY 2023 PAGE 25

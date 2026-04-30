@@ -1,0 +1,114 @@
+DOCUMENT: SoP_Battery_Waste_Management.pdf
+TOTAL PAGES: 3
+
+PAGE 1
+
+Standard Operating Procedure (SOP)
+Battery Waste Management
+1.Purpose: This Standard Operating Procedure (SOP) is meticulously designed to ensure effective battery
+waste management in strict compliance with the Battery Waste Management Rules of 2022. The SOP
+applies comprehensively to all units of THDCIL and encompasses the responsibilities and procedures
+concerning the collection, segregation, transportation, and disposal of waste batteries. It also outlines the
+prohibitions on heavy metal content in batteries.
+2. Scope: This SOP is applicable comprehensively to all Projects/Units/Offices of THDCIL.
+3. Definitions:
+• Battery: Refers to new or refurbished cells and/or batteries and/or their components, including
+accumulators, that generate electrical energy through the direct conversion of chemical energy. This
+includes disposable primary and/or secondary batteries.
+• Waste Battery: Encompasses various types of batteries, including used and/or end-of-life batteries,
+pre-consumer off-spec batteries, batteries with expired usage dates, and batteries discarded by users.
+4. Responsibility of Waste Generator (i.e. THDCIL):
+It is the duty of consumer units/offices within THDCIL to:
+• Discard waste batteries separately from other waste streams, especially mixed waste and domestic
+waste.
+• Ensure that waste batteries are disposed of in an environmentally friendly manner by giving them
+to entities engaged in the collection, refurbishment, or recycling of batteries.
+• Storage: THDCIL Projects/Units/Offices must store waste batteries in designated containers or
+storage areas to prevent leakage and contamination. Separate storage facilities must be provided for
+different types of batteries (e.g., primary and secondary batteries) and must comply with safety
+regulations.
+• Segregation: Waste batteries should be segregated based on their type, chemistry, and heavy metal
+content. Separate containers labelled for different battery types (e.g., mercury-containing batteries)
+should be used for proper identification.
+• Transportation: Transportation of waste batteries should be done using specially designed and
+covered transport systems to prevent foul odours, spillage, and environmental contamination.
+• Disposal: Waste batteries should be disposed of through authorized entities engaged in battery
+collection, refurbishment, or recycling. Ensure compliance with environmental regulations and
+guidelines during disposal.
+
+PAGE 2
+
+5. Training and Awareness: THDCIL units shall conduct regular training and awareness programs for
+employees involved in battery waste management. This training should cover proper storage, segregation,
+transportation, disposal procedures, and prohibitions on heavy metal content in batteries.
+6. Compliance and Monitoring: THDCIL will diligently monitor compliance with this SOP and conduct
+periodic audits to ensure that all Projects/Units/Offices adhere to the Battery Waste Management Rules of
+2022. Non-compliance may lead to appropriate disciplinary actions or penalties.
+7. Review and Revision: This SoP shall be reviewed annually or as required to ensure its effectiveness
+and alignment with environmental regulations.
+8. Continuous Improvement:
+THDCIL shall continually assess and improve its Battery Waste Management practices to minimize
+environmental impact and promote sustainability.
+9. Appendix: Responsibilities and Timeline
+Concerned
+Steps Responsibility Department Target Date
+Corporate
+Environment
+Department: Next working day of
+Send a reminder letter to the project site to THDCIL-Nodal succeeding month of the
+01 provide the information. Department reporting quarter
+Collect information in consultation with the Environment
+IT/ HR/ Services/ Store/ any other relevant Department: Project-
+02 department (as applicable). Nodal Department Within 7 days
+Collect information from respective
+departments at the project site and provide the
+waste data to the Project Nodal Department
+on/before the 7th date of succeeding month of IT/ HR/ Services
+03 the reporting quarter. department
+Environment On/before the 15th date
+Provide the waste data in the Excel sheet to Department: Project- of succeeding month of
+04 the Corporate Nodal Department. Nodal Department the reporting quarter.
+Corporate
+Collect and analyze data received from Environment
+respective project nodal officers, manage data Department:
+on a quarterly basis, and appraise waste data THDCIL-Nodal On a quarterly/annual
+05 to the concerned authority. Department (FY) basis
+
+[TABLE]
+| | | Concerned | |
+| ----- | ----------------------------------------------- | -------------------- | ----------------------- |
+| Steps | Responsibility | Department | Target Date |
+| | | Corporate | |
+| | | Environment | |
+| | | Department: | Next working day of |
+| | Send a reminder letter to the project site to | THDCIL-Nodal | succeeding month of the |
+| 01 | provide the information. | Department | reporting quarter |
+| | Collect information in consultation with the | Environment | |
+| | IT/ HR/ Services/ Store/ any other relevant | Department: Project- | |
+| 02 | department (as applicable). | Nodal Department | Within 7 days |
+| | Collect information from respective | | |
+| | departments at the project site and provide the | | |
+| | waste data to the Project Nodal Department | | |
+| | on/before the 7th date of succeeding month of | IT/ HR/ Services | |
+| 03 | the reporting quarter. | department | |
+| | | Environment | On/before the 15th date |
+| | Provide the waste data in the Excel sheet to | Department: Project- | of succeeding month of |
+| 04 | the Corporate Nodal Department. | Nodal Department | the reporting quarter. |
+| | | Corporate | |
+| | Collect and analyze data received from | Environment | |
+| | respective project nodal officers, manage data | Department: | |
+| | on a quarterly basis, and appraise waste data | THDCIL-Nodal | On a quarterly/annual |
+| 05 | to the concerned authority. | Department | (FY) basis |
+
+PAGE 3
+
+9. Appendix: Prohibitions and Labelling Requirements:
+• Prohibition on Heavy Metal Content in Batteries:
+• Batteries containing up to 0.0005% (5 ppm) of mercury by weight may only be placed until
+2025.
+• Batteries containing up to 0.002% (2000 ppm) of cadmium by weight may only be placed.
+• The prohibition on mercury content shall not apply to button zinc silver oxide batteries with
+mercury content < 2% and button zinc air batteries with mercury content < 2% by weight.
+• The prohibition on cadmium content shall not apply to portable batteries intended for use in
+emergency and alarm systems, including emergency lighting, and medical equipment.
+**************

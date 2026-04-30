@@ -1,0 +1,999 @@
+DOCUMENT: Agratas_Electrode_Manufacturing_SOPs.pdf
+TOTAL PAGES: 21
+
+PAGE 1
+
+AGRATAS GIGAFACTORY
+Electrode Manufacturing
+Standard Operating Procedures
+CLARA Knowledge Base — Authorised SOP Corpus
+Ingestion Reference: KB-ELEC-SOP-CORPUS-v1.0
+SOPs Included 7 Operational SOPs + 1 Operator FAQ
+Document
+Processes Covered Mixing · Coating · Drying · Calendaring ·
+Slitting · Shift Handover · Alarm Response
+Access Tiers Tier 1 (Operator) · Tier 2 (Supervisor) · Tier 3
+(Production Manager)
+Classification INTERNAL — AUTHORISED PERSONNEL
+ONLY
+Corpus Version v1.0
+Effective Date 11/03/2026
+This document is the authorised source of truth for CLARA knowledge base ingestion. Do not modify outside the
+formal document control process.
+
+[TABLE]
+| SOPs Included | | 7 Operational SOPs + 1 Operator FAQ |
+| ----------------- | -------------- | ------------------------------------------------ |
+| | | Document |
+| Processes Covered | | Mixing · Coating · Drying · Calendaring · |
+| | | Slitting · Shift Handover · Alarm Response |
+| Access Tiers | | Tier 1 (Operator) · Tier 2 (Supervisor) · Tier 3 |
+| | | (Production Manager) |
+| Classification | | INTERNAL — AUTHORISED PERSONNEL |
+| | | ONLY |
+| | Corpus Version | v1.0 |
+| | Effective Date | 11/03/2026 |
+
+PAGE 2
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Electrode Slurry Mixing — Cathode & Anode
+SOP ID SOP-ELEC-MIX-001 Version v2.1
+Process Area Electrode Mixing Access Tier Tier 1 / Tier 2
+Effective Date 11/03/2026 Revision Rev 3
+1. Purpose
+This SOP defines the controlled procedure for preparing cathode and anode electrode slurries used in
+lithium-ion battery manufacturing. Adherence is mandatory to ensure consistent slurry homogeneity,
+correct viscosity, and repeatable coating performance.
+2. Scope
+Applicable to all Line Operators and Shift Supervisors assigned to the Mixing Zone. Covers batch
+preparation from dry material weighing through final slurry quality check and transfer to coating.
+3. Safety Requirements
+Solvent vapours (NMP for cathode, water-based for anode) are present in the mixing
+zone. Ensure LEV (Local Exhaust Ventilation) is active before opening any containers.
+🦺 SAFETY
+Wear chemical-resistant gloves, safety goggles, and lab coat at all times. NMP is a
+reproductive hazard — pregnant workers must not enter the mixing zone.
+• Verify LEV extraction is operating before starting — check green indicator on panel.
+• Wear nitrile gloves (min. 0.15 mm), safety goggles, and chemical-resistant lab coat.
+• Keep emergency eyewash station clear and functional.
+• Solvent containers must be sealed when not in active use.
+• No open flames or ignition sources within 5 m of mixing area.
+4. Materials & Equipment
+Material / Equipment Cathode (NMC) Anode (Graphite) Specification
+Active Material NMC811 powder Artificial Graphite Per BOM – batch card
+Binder PVDF (Kynar 761) CMC + SBR Battery grade
+Solvent NMP (anhydrous) Deionised Water H₂O < 30 ppm (NMP)
+Conductive Additive Carbon Black Carbon Black Per BOM
+(C65) (C65)
+Mixing Vessel Double planetary Double planetary Vessel clean, dry, certified
+mixer mixer
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| SOP ID | SOP-ELEC-MIX-001 | Version | v2.1 |
+| -------------- | ---------------- | ----------- | --------------- |
+| Process Area | Electrode Mixing | Access Tier | Tier 1 / Tier 2 |
+| Effective Date | 11/03/2026 | Revision | Rev 3 |
+
+[TABLE]
+| 🦺 SAFETY | Solvent vapours (NMP for cathode, water-based for anode) are present in the mixing |
+| -------- | ------------------------------------------------------------------------------------- |
+| | zone. Ensure LEV (Local Exhaust Ventilation) is active before opening any containers. |
+| | Wear chemical-resistant gloves, safety goggles, and lab coat at all times. NMP is a |
+| | reproductive hazard — pregnant workers must not enter the mixing zone. |
+
+[TABLE]
+| | Material / Equipment | Cathode (NMC) | Anode (Graphite) | | Specification |
+| ------------------- | -------------------- | ---------------- | ------------------- | ---------------------------- | -------------------- |
+| | Active Material | NMC811 powder | Artificial Graphite | | Per BOM – batch card |
+| | Binder | PVDF (Kynar 761) | CMC + SBR | | Battery grade |
+| | Solvent | NMP (anhydrous) | Deionised Water | | H₂O < 30 ppm (NMP) |
+| Conductive Additive | | Carbon Black | Carbon Black | Per BOM | |
+| | | (C65) | (C65) | | |
+| Mixing Vessel | | Double planetary | Double planetary | Vessel clean, dry, certified | |
+| | | mixer | mixer | | |
+
+PAGE 3
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Material / Equipment Cathode (NMC) Anode (Graphite) Specification
+Viscometer Brookfield DV2T Brookfield DV2T Calibrated, within cert date
+5. Pre-Mixing Checks
+All pre-mixing checks must be completed and initialled on the Batch Record before
+ℹ NOTE
+proceeding. Do not begin weighing until all checks pass.
+1. Confirm work order number and batch card match. Record Batch ID on the mixing log.
+2. Verify mixing vessel is clean and dry. Check vessel certification tag — must be within 7-day
+cleaning validity.
+3. Confirm LEV is running: green LED on extraction panel is lit. Do NOT proceed if amber or red.
+4. Check calibration status of balance (±0.1 g accuracy required). Confirm calibration sticker is
+current.
+5. Check calibration status of viscometer. Confirm spindle number matches recipe card.
+6. Confirm active material moisture content < 0.1% (check drying oven log for last pre-dry run).
+7. Confirm NMP moisture content < 30 ppm. Check certificate of analysis on drum.
+8. Record ambient temperature and humidity. Temperature must be 20–25 °C; Humidity < 30%
+RH. If out of range, notify Shift Supervisor before proceeding.
+6. Mixing Procedure
+6.1 Cathode Slurry (NMC)
+Add materials in the exact sequence below. Out-of-sequence addition causes
+⚡ CAUTION
+agglomeration and will require the batch to be scrapped.
+9. Weigh PVDF binder per batch card. Add to mixing vessel.
+10. Add 60% of total NMP solvent. Mix at LOW speed (50 RPM) for 30 minutes until PVDF fully
+dissolved.
+11. Add carbon black (C65). Mix at MEDIUM speed (500 RPM) for 45 minutes.
+12. Add 50% of NMC active material. Mix at HIGH speed (1500 RPM) for 60 minutes.
+13. Add remaining 50% NMC. Mix at HIGH speed (1500 RPM) for 60 minutes.
+14. Add remaining 40% NMP to adjust viscosity. Mix at MEDIUM speed (800 RPM) for 20 minutes.
+15. Apply vacuum (−0.08 MPa) for 30 minutes to degas slurry. Maintain low-speed mixing during
+degassing.
+16. Proceed to Section 7 — Slurry Quality Check.
+6.2 Anode Slurry (Graphite)
+17. Dissolve CMC in deionised water (50% of total water). Mix at LOW speed (100 RPM) for 60
+minutes.
+18. Add carbon black. Mix at MEDIUM speed (500 RPM) for 30 minutes.
+19. Add graphite active material in two equal portions, 30 minutes apart. Mix at HIGH speed (1200
+RPM).
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| Material / Equipment | Cathode (NMC) | Anode (Graphite) | Specification |
+| -------------------- | --------------- | ---------------- | ---------------------------- |
+| Viscometer | Brookfield DV2T | Brookfield DV2T | Calibrated, within cert date |
+
+[TABLE]
+| ℹ NOTE | All pre-mixing checks must be completed and initialled on the Batch Record before |
+| ------ | --------------------------------------------------------------------------------- |
+| | proceeding. Do not begin weighing until all checks pass. |
+
+[TABLE]
+| ⚡ CAUTION | Add materials in the exact sequence below. Out-of-sequence addition causes |
+| --------- | -------------------------------------------------------------------------- |
+| | agglomeration and will require the batch to be scrapped. |
+
+PAGE 4
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+20. Add SBR binder. Mix at LOW speed (200 RPM) for 20 minutes. Do NOT use high speed with
+SBR — shear degrades binder.
+21. Adjust final viscosity with remaining deionised water. Mix at MEDIUM speed for 15 minutes.
+22. Proceed to Section 7 — Slurry Quality Check.
+7. Slurry Quality Check
+Parameter Cathode Target Anode Target Action if Out of Spec
+Viscosity (mPa·s) 4000–6000 2000–4000 Add solvent, mix 15 min, re-
+measure. Max 2 adjustments. If
+still OOS → reject batch.
+Solid Content (%) 68–72% 45–50% Reject batch if OOS. No
+adjustment.
+Particle Size D50 (µm) 10–15 15–20 Re-mix high speed 30 min and re-
+test. If OOS → reject.
+Magnetic Particle Content < 0.1 ppm < 0.1 ppm Reject immediately. Notify QA
+and Supervisor.
+Visual Appearance Uniform, no Uniform, no Mix 30 min more and re-inspect.
+lumps lumps Lumps persist → reject.
+Any batch failing magnetic particle content spec must be rejected immediately. Do not
+🛑 CRITICAL transfer to coating. Notify QA Lead and Shift Supervisor within 15 minutes. Retain the
+batch for investigation.
+8. Slurry Transfer to Coating
+23. Filter slurry through 100-mesh filter during transfer to coating vessel.
+24. Record transfer volume and slurry batch ID on coating handover form.
+25. Seal and label transfer vessel: Batch ID, slurry type, viscosity result, timestamp, operator ID.
+26. Deliver to Coating Zone within 4 hours of batch completion. Record transfer timestamp.
+27. Clean mixing vessel per Cleaning SOP-ELEC-CLEAN-003 immediately after transfer.
+9. Alarms & Responses — Mixing Zone
+Alarm Code Description Immediate Action
+MIX-ALM-001 Mixer motor Stop mixer. Allow 15 min cool-down. Check for
+overtemperature slurry hardening. If motor > 90 °C, call
+Maintenance.
+MIX-ALM-002 LEV airflow low STOP all solvent handling. Evacuate mixing area.
+Do not re-enter until LEV restored. Notify
+Maintenance and Supervisor.
+MIX-ALM-003 Vessel vacuum loss Pause degassing. Check pump and seals. If
+vacuum cannot be restored, degas with extended
+low-speed mix (60 min). Record deviation.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| | Parameter | | Cathode Target | | Anode Target | Action if Out of Spec |
+| ------------------------- | --------- | --------- | -------------- | --------- | ------------ | -------------------------------- |
+| Viscosity (mPa·s) | | 4000–6000 | | 2000–4000 | | Add solvent, mix 15 min, re- |
+| | | | | | | measure. Max 2 adjustments. If |
+| | | | | | | still OOS → reject batch. |
+| Solid Content (%) | | 68–72% | | 45–50% | | Reject batch if OOS. No |
+| | | | | | | adjustment. |
+| Particle Size D50 (µm) | | 10–15 | | 15–20 | | Re-mix high speed 30 min and re- |
+| | | | | | | test. If OOS → reject. |
+| Magnetic Particle Content | | < 0.1 ppm | | < 0.1 ppm | | Reject immediately. Notify QA |
+| | | | | | | and Supervisor. |
+| Visual Appearance | | | Uniform, no | | Uniform, no | Mix 30 min more and re-inspect. |
+| | | | lumps | | lumps | Lumps persist → reject. |
+
+[TABLE]
+| 🛑 CRITICAL | Any batch failing magnetic particle content spec must be rejected immediately. Do not |
+| ---------- | -------------------------------------------------------------------------------------- |
+| | transfer to coating. Notify QA Lead and Shift Supervisor within 15 minutes. Retain the |
+| | batch for investigation. |
+
+[TABLE]
+| | Alarm Code | | Description | Immediate Action |
+| ----------- | ---------- | ------------------ | ----------- | ------------------------------------------------ |
+| MIX-ALM-001 | | Mixer motor | | Stop mixer. Allow 15 min cool-down. Check for |
+| | | overtemperature | | |
+| | | | | slurry hardening. If motor > 90 °C, call |
+| | | | | Maintenance. |
+| MIX-ALM-002 | | LEV airflow low | | STOP all solvent handling. Evacuate mixing area. |
+| | | | | Do not re-enter until LEV restored. Notify |
+| | | | | Maintenance and Supervisor. |
+| MIX-ALM-003 | | Vessel vacuum loss | | Pause degassing. Check pump and seals. If |
+| | | | | vacuum cannot be restored, degas with extended |
+| | | | | low-speed mix (60 min). Record deviation. |
+
+[TABLE]
+| Mixer motor |
+| --------------- |
+| overtemperature |
+
+PAGE 5
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Alarm Code Description Immediate Action
+MIX-ALM-004 Balance communication Do not proceed with weighing. Reboot balance. If
+error persists, use backup and tag primary for
+maintenance.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| | Alarm Code | | Description | Immediate Action |
+| ----------- | ---------- | --------------------- | ----------- | ------------------------------------------------ |
+| MIX-ALM-004 | | Balance communication | | Do not proceed with weighing. Reboot balance. If |
+| | | error | | |
+| | | | | persists, use backup and tag primary for |
+| | | | | maintenance. |
+
+[TABLE]
+| Balance communication |
+| --------------------- |
+| error |
+
+PAGE 6
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Electrode Coating — Slot-Die Coating Process
+SOP ID SOP-ELEC-COAT-002 Version v3.0
+Process Area Electrode Coating Access Tier Tier 1 / Tier 2
+Effective Date 11/03/2026 Revision Rev 2
+1. Purpose
+Defines the operating procedure for slot-die coating of electrode slurry onto aluminium (cathode) and
+copper (anode) current collector foil. Covers machine start-up, process parameter setting, in-process
+monitoring, and shutdown.
+2. Safety Requirements
+NMP solvent vapour is present around the coating machine. Drying oven operates up
+to 150 °C — risk of burns and solvent inhalation. PPE mandatory: heat-resistant
+🦺 SAFETY
+gloves near oven exits, chemical-resistant gloves near slurry, safety goggles. Confirm
+oven door interlocks functional before start-up.
+3. Pre-Coating Checks
+28. Verify slurry batch ID and viscosity match coating work order. Slurry age must be < 4 hours. If >
+4 hours, re-measure viscosity before proceeding.
+29. Check foil reel: correct type (Al 16 µm ±1 µm for cathode; Cu 8 µm ±0.5 µm for anode), no
+visible defects (wrinkles, holes, scratches).
+30. Inspect slot die: clean lips, no dried slurry. Die gap set per recipe. Die bolts torqued to 8 N·m.
+31. Prime slurry pump: run until no air bubbles in return line (minimum 2 minutes).
+32. Set oven temperatures per recipe. Allow oven to reach set point and stabilise for minimum 15
+minutes.
+33. Run 0.5 m trial coat. Check coating weight and appearance before production run.
+4. HMI Process Parameters — Coating
+Parameter Cathode (NMC) Anode (Graphite) Alarm / Stop Limit
+Coating Speed (m/min) 20–30 25–35 < 18 or > 38: stop line
+Die Gap (µm) 150–200 180–220 ±15 µm from target: adjust
+Wet Coating Weight (g/m²) 280–320 200–240 ±10%: stop, recheck die
+Oven Zone 1 Temp (°C) 80 60 ±5 °C: log; ±10 °C: stop
+Oven Zone 2 Temp (°C) 120 90 ±5 °C: log; ±10 °C: stop
+Oven Zone 3 Temp (°C) 140 110 ±5 °C: log; ±10 °C: stop
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| SOP ID | SOP-ELEC-COAT-002 | Version | v3.0 |
+| -------------- | ----------------- | ----------- | --------------- |
+| Process Area | Electrode Coating | Access Tier | Tier 1 / Tier 2 |
+| Effective Date | 11/03/2026 | Revision | Rev 2 |
+
+[TABLE]
+| 🦺 SAFETY | NMP solvent vapour is present around the coating machine. Drying oven operates up |
+| -------- | -------------------------------------------------------------------------------------- |
+| | to 150 °C — risk of burns and solvent inhalation. PPE mandatory: heat-resistant |
+| | gloves near oven exits, chemical-resistant gloves near slurry, safety goggles. Confirm |
+| | oven door interlocks functional before start-up. |
+
+[TABLE]
+| Parameter | Cathode (NMC) | Anode (Graphite) | Alarm / Stop Limit |
+| ------------------------- | ------------- | ---------------- | -------------------------- |
+| Coating Speed (m/min) | 20–30 | 25–35 | < 18 or > 38: stop line |
+| Die Gap (µm) | 150–200 | 180–220 | ±15 µm from target: adjust |
+| Wet Coating Weight (g/m²) | 280–320 | 200–240 | ±10%: stop, recheck die |
+| Oven Zone 1 Temp (°C) | 80 | 60 | ±5 °C: log; ±10 °C: stop |
+| Oven Zone 2 Temp (°C) | 120 | 90 | ±5 °C: log; ±10 °C: stop |
+| Oven Zone 3 Temp (°C) | 140 | 110 | ±5 °C: log; ±10 °C: stop |
+
+PAGE 7
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Parameter Cathode (NMC) Anode (Graphite) Alarm / Stop Limit
+Web Tension (N) 30–50 20–40 < 20 or > 60: stop line
+Residual NMP in dried coat < 50 ppm N/A > 200 ppm: reduce speed
+10%, re-check
+5. In-Process Quality Checks
+Perform checks at the frequency shown. Record all results on the Coating Run Record. Stop line if any
+check fails.
+Check Frequency Method Acceptable Result
+Wet coating weight Every 200 m Inline beta gauge + Within ±10% of target g/m²
+manual patch sample
+Dry coating weight Every 500 m 100 cm² patch, weigh, Per recipe ±5%
+subtract foil weight
+Coating width Every 200 m Visual + tape measure ±1 mm of target
+against width guides
+Surface visual inspection Continuous Visual: pinholes, streaks, Zero pinholes; no streaks >
+uncoated spots 20 mm
+Residual NMP (cathode Every 1000 m IR sensor inline + random < 50 ppm NMP
+only) GC patch
+6. Alarms & Responses — Coating
+Alarm Code Description Response
+COAT-ALM-001 Coating weight OOS Stop at safe point. Inspect die gap and pump
+pressure. Adjust gap 5 µm increments. Trial 50 m.
+Re-check weight.
+COAT-ALM-002 Oven temp deviation > Stop coating line. Do not advance foil through oven.
+10 °C Check heater and controller. Notify Maintenance if
+fault > 10 min.
+COAT-ALM-003 Web break E-stop immediately. Isolate oven energy. Re-thread
+foil per Threading SOP. Check tension after re-
+thread.
+COAT-ALM-004 Slurry pump pressure Check slurry level in vessel. If not empty, check
+low pump seals and filter. Do not coat with intermittent
+pump pressure.
+COAT-ALM-005 Pinholes > 5 per 100 m² Stop line. Check slurry for air bubbles (degas).
+Inspect and clean die lip if partially blocked.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| | Parameter | | Cathode (NMC) | | Anode (Graphite) | Alarm / Stop Limit |
+| -------------------------- | --------------- | -------- | ------------- | --- | ---------------- | ----------------------- |
+| | Web Tension (N) | | 30–50 | | 20–40 | < 20 or > 60: stop line |
+| Residual NMP in dried coat | | < 50 ppm | | N/A | | > 200 ppm: reduce speed |
+| | | | | | | 10%, re-check |
+
+[TABLE]
+| | Check | | Frequency | Method | | Acceptable Result |
+| ------------------------- | --------------------- | ------------ | --------- | -------------------------- | -------------------------- | --------------------------- |
+| Wet coating weight | | Every 200 m | | Inline beta gauge + | Within ±10% of target g/m² | |
+| | | | | manual patch sample | | |
+| Dry coating weight | | Every 500 m | | 100 cm² patch, weigh, | Per recipe ±5% | |
+| | | | | subtract foil weight | | |
+| Coating width | | Every 200 m | | Visual + tape measure | ±1 mm of target | |
+| | | | | against width guides | | |
+| Surface visual inspection | | Continuous | | Visual: pinholes, streaks, | | Zero pinholes; no streaks > |
+| | | | | uncoated spots | | 20 mm |
+| | Residual NMP (cathode | Every 1000 m | | IR sensor inline + random | < 50 ppm NMP | |
+| | only) | | | GC patch | | |
+
+[TABLE]
+| | Alarm Code | | Description | Response |
+| ------------ | ---------- | ----------------------- | ----------- | ---------------------------------------------------- |
+| COAT-ALM-001 | | Coating weight OOS | | Stop at safe point. Inspect die gap and pump |
+| | | | | pressure. Adjust gap 5 µm increments. Trial 50 m. |
+| | | | | Re-check weight. |
+| COAT-ALM-002 | | Oven temp deviation > | | Stop coating line. Do not advance foil through oven. |
+| | | 10 °C | | |
+| | | | | Check heater and controller. Notify Maintenance if |
+| | | | | fault > 10 min. |
+| COAT-ALM-003 | | Web break | | E-stop immediately. Isolate oven energy. Re-thread |
+| | | | | foil per Threading SOP. Check tension after re- |
+| | | | | thread. |
+| COAT-ALM-004 | | Slurry pump pressure | | Check slurry level in vessel. If not empty, check |
+| | | low | | |
+| | | | | pump seals and filter. Do not coat with intermittent |
+| | | | | pump pressure. |
+| COAT-ALM-005 | | Pinholes > 5 per 100 m² | | Stop line. Check slurry for air bubbles (degas). |
+| | | | | Inspect and clean die lip if partially blocked. |
+
+[TABLE]
+| Oven temp deviation > |
+| --------------------- |
+| 10 °C |
+
+[TABLE]
+| Slurry pump pressure |
+| -------------------- |
+| ow |
+
+PAGE 8
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Electrode Drying — Inline & Vacuum Oven Process
+SOP ID SOP-ELEC-DRY-003 Version v1.4
+Process Area Electrode Drying Access Tier Tier 1 / Tier 2
+Effective Date 11/03/2026 Revision Rev 1
+1. Purpose
+Defines the controlled drying procedure to remove residual solvent from coated electrodes and achieve
+required moisture levels for calendaring and cell assembly. Covers both inline drying and vacuum oven
+batch drying.
+2. Safety Requirements
+Oven surfaces reach up to 150 °C. Thermal burns are a serious risk. Allow 30-minute
+🦺 SAFETY cool-down before any maintenance access to oven zones. NMP vapour is extracted
+via oven exhaust — verify exhaust fan is running before operating.
+3. Inline Drying — Operating Checks
+Inline drying occurs automatically within the coating machine oven. Zone temperature targets are set on
+the coating HMI — see SOP-ELEC-COAT-002 Table 1.
+34. Before starting, verify all three oven zones are at set point. Confirm exhaust flow indicator is
+green.
+35. Monitor NMP exhaust concentration meter during production. If reading approaches 25% LEL,
+stop line and increase ventilation.
+36. Check residual solvent in dried electrode every 1000 m using inline IR sensor. Target: < 50 ppm
+NMP.
+37. If residual NMP > 200 ppm: reduce line speed by 10% and re-check. If still > 200 ppm after
+speed reduction, stop line and inspect oven heaters.
+4. Vacuum Oven Batch Drying Procedure
+Use for: (a) additional drying pass when inline drying fails spec, or (b) electrode reels awaiting coating >
+24 hours after slurry application.
+38. Pre-heat vacuum oven to 120 °C. Allow temperature to stabilise for 30 minutes.
+39. Load electrode reels onto mandrel holders. Do not stack reels — each reel requires its own
+holder.
+40. Seal oven door. Draw vacuum to < 10 Pa. Record vacuum level at start.
+41. Hold at 120 °C / < 10 Pa for minimum 12 hours (cathode) or 8 hours (anode).
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| SOP ID | SOP-ELEC-DRY-003 | Version | v1.4 |
+| -------------- | ---------------- | ----------- | --------------- |
+| Process Area | Electrode Drying | Access Tier | Tier 1 / Tier 2 |
+| Effective Date | 11/03/2026 | Revision | Rev 1 |
+
+[TABLE]
+| 🦺 SAFETY | Oven surfaces reach up to 150 °C. Thermal burns are a serious risk. Allow 30-minute |
+| -------- | ----------------------------------------------------------------------------------- |
+| | cool-down before any maintenance access to oven zones. NMP vapour is extracted |
+| | via oven exhaust — verify exhaust fan is running before operating. |
+
+PAGE 9
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+42. After drying cycle, allow oven to cool to < 40 °C under vacuum before breaking vacuum. Do
+NOT break vacuum while oven temperature > 60 °C.
+43. Transfer dried reels immediately to dry room (RH < 1%) or nitrogen-purged storage. Maximum
+exposure to ambient air: 30 minutes.
+44. Measure residual moisture by Karl Fischer titration from each reel. Target: < 50 ppm H₂O
+(cathode); < 100 ppm H₂O (anode).
+5. Drying Failure Response
+Scenario Immediate Action Escalation
+Residual NMP > 200 ppm after Reduce speed 10%. Inspect Notify Supervisor if > 500 ppm. Hold
+inline drying oven heaters. Route reel to reel — do not pass to calendaring.
+vacuum oven.
+Vacuum oven fails to hold Stop cycle. Tag oven out-of- Notify Maintenance. Do not use
+vacuum (leak > 50 Pa/hr) service. Transfer load to backup oven until seals inspected.
+oven.
+Karl Fischer result OOS Hold reel. Return to vacuum If still OOS after 2nd pass, notify QA
+oven for 4-hour additional Lead. May require scrap disposition.
+drying. Re-test.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| | Scenario | Immediate Action | | Escalation |
+| ---------------------------- | -------- | -------------------------------- | -------------------------------------- | ---------- |
+| Residual NMP > 200 ppm after | | Reduce speed 10%. Inspect | Notify Supervisor if > 500 ppm. Hold | |
+| inline drying | | | reel — do not pass to calendaring. | |
+| | | oven heaters. Route reel to | | |
+| | | vacuum oven. | | |
+| Vacuum oven fails to hold | | Stop cycle. Tag oven out-of- | Notify Maintenance. Do not use | |
+| vacuum (leak > 50 Pa/hr) | | | oven until seals inspected. | |
+| | | service. Transfer load to backup | | |
+| | | oven. | | |
+| Karl Fischer result OOS | | Hold reel. Return to vacuum | If still OOS after 2nd pass, notify QA | |
+| | | | Lead. May require scrap disposition. | |
+| | | oven for 4-hour additional | | |
+| | | drying. Re-test. | | |
+
+[TABLE]
+| Residual NMP > 200 ppm after |
+| ---------------------------- |
+| inline drying |
+
+[TABLE]
+| Notify Supervisor if > 500 ppm. Hold |
+| ------------------------------------ |
+| reel — do not pass to calendaring. |
+
+[TABLE]
+| Vacuum oven fails to hold |
+| ------------------------- |
+| vacuum (leak > 50 Pa/hr) |
+
+[TABLE]
+| Notify Maintenance. Do not use |
+| ------------------------------ |
+| oven until seals inspected. |
+
+[TABLE]
+| If still OOS after 2nd pass, notify QA |
+| -------------------------------------- |
+| Lead. May require scrap disposition. |
+
+PAGE 10
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Electrode Calendaring — Density & Thickness Control
+SOP ID SOP-ELEC-CAL-004 Version v2.2
+Process Area Electrode Calendaring Access Tier Tier 1 / Tier 2
+Effective Date 11/03/2026 Revision Rev 2
+1. Purpose
+Covers the calendaring (compression rolling) process to compact dried electrode coating to target
+density and thickness. Calendaring directly affects cell capacity, internal resistance, and electrolyte
+wetting.
+2. Safety Requirements
+Calendaring rolls exert up to 200 kN of force. The roll nip point is a No-Reach zone
+during operation. All guarding must be in place and interlocks active. No loose clothing
+🦺 SAFETY
+or jewellery near rolls. Use push sticks to guide foil — never use hands near nip
+points.
+3. Pre-Calendaring Checks
+45. Verify electrode reel has passed drying quality check. Check reel tag for moisture result and
+sign-off. Do NOT calendar undried or OOS moisture reels.
+46. Set roll gap per recipe. Verify with feeler gauge on both operator side and drive side. Gap
+difference must be < 2 µm.
+47. Set roll temperature: Cathode 80 °C, Anode 25 °C (room temperature). Allow heated roll to
+stabilise for 20 minutes.
+48. Set line speed per recipe. Do not exceed 20 m/min until first 100 m quality check confirmed.
+49. Thread leader foil through rolls to verify alignment before loading electrode reel.
+4. Process Parameters — Calendaring
+Parameter Cathode Target Anode Target OOS Action
+Electrode Thickness (µm) 120–130 140–155 Stop, adjust roll gap.
+Electrode Density (g/cm³) 3.3–3.5 1.5–1.6 Adjust gap; re-check.
+Calendaring Force (kN) 100–180 60–100 Reduce if above maximum.
+Roll Temperature (°C) 80 ± 5 25 ± 5 Stop if deviation > ±10 °C.
+Line Speed (m/min) 10–20 15–25 Max 20 m/min until QC
+confirmed.
+Porosity (%) 30–35 38–42 QA hold; notify process
+engineer.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| SOP ID | SOP-ELEC-CAL-004 | Version | v2.2 |
+| -------------- | --------------------- | ----------- | --------------- |
+| Process Area | Electrode Calendaring | Access Tier | Tier 1 / Tier 2 |
+| Effective Date | 11/03/2026 | Revision | Rev 2 |
+
+[TABLE]
+| 🦺 SAFETY | Calendaring rolls exert up to 200 kN of force. The roll nip point is a No-Reach zone |
+| -------- | ---------------------------------------------------------------------------------------- |
+| | during operation. All guarding must be in place and interlocks active. No loose clothing |
+| | or jewellery near rolls. Use push sticks to guide foil — never use hands near nip |
+| | points. |
+
+[TABLE]
+| | Parameter | | Cathode Target | | Anode Target | OOS Action |
+| ------------------ | ------------------------- | ----- | -------------- | ----- | ------------ | --------------------------- |
+| | Electrode Thickness (µm) | | 120–130 | | 140–155 | Stop, adjust roll gap. |
+| | Electrode Density (g/cm³) | | 3.3–3.5 | | 1.5–1.6 | Adjust gap; re-check. |
+| | Calendaring Force (kN) | | 100–180 | | 60–100 | Reduce if above maximum. |
+| | Roll Temperature (°C) | | 80 ± 5 | | 25 ± 5 | Stop if deviation > ±10 °C. |
+| Line Speed (m/min) | | 10–20 | | 15–25 | | Max 20 m/min until QC |
+| | | | | | | confirmed. |
+| Porosity (%) | | 30–35 | | 38–42 | | QA hold; notify process |
+| | | | | | | engineer. |
+
+PAGE 11
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+5. In-Process Checks
+50. Every 200 m: Cut 100 cm² sample. Measure thickness at 5 points (4 corners + centre). All must
+be within ±3 µm of target.
+51. Every 500 m: Calculate electrode density from weight and thickness. Record on Calendaring
+Log.
+52. Continuous visual check: Watch for foil wrinkles, coating cracking, or delamination. Any of
+these: stop line immediately.
+53. If delaminating or cracking: reduce force by 10 kN and re-check. Continues → stop and notify
+Shift Supervisor. Likely cause: under-dried electrode or excessive force.
+6. Alarms — Calendaring
+Alarm Code Description Response
+CAL-ALM-001 Roll gap deviation > 5 µm Stop line. Re-zero gap sensor. Verify with feeler
+gauge. Recalibrate if required.
+CAL-ALM-002 Calendaring force > 200 kN Stop immediately. Reduce gap setting by 5 µm.
+Re-thread and restart at low speed.
+CAL-ALM-003 Roll temperature OOS > Stop foil advancement. Allow temperature to
+±10 °C stabilise. If heater fault, call Maintenance.
+CAL-ALM-004 Foil tension OOS Stop line. Check unwind and rewind tension
+settings. Inspect foil for damage.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| | Alarm Code | | Description | Response |
+| ----------- | ---------- | -------------------------- | ---------------------- | ------------------------------------------------- |
+| CAL-ALM-001 | | Roll gap deviation > 5 µm | | Stop line. Re-zero gap sensor. Verify with feeler |
+| | | | | gauge. Recalibrate if required. |
+| CAL-ALM-002 | | Calendaring force > 200 kN | | Stop immediately. Reduce gap setting by 5 µm. |
+| | | | | Re-thread and restart at low speed. |
+| CAL-ALM-003 | | | Roll temperature OOS > | Stop foil advancement. Allow temperature to |
+| | | | ±10 °C | stabilise. If heater fault, call Maintenance. |
+| CAL-ALM-004 | | Foil tension OOS | | Stop line. Check unwind and rewind tension |
+| | | | | settings. Inspect foil for damage. |
+
+PAGE 12
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Electrode Slitting — Precision Width Cutting
+SOP ID SOP-ELEC-SLIT-005 Version v1.8
+Process Area Electrode Slitting Access Tier Tier 1 / Tier 2
+Effective Date 11/03/2026 Revision Rev 2
+1. Purpose
+Defines the slitting procedure to cut parent electrode reels to the target width for cell assembly. Slit
+edge quality directly impacts cell safety (burr-induced short circuits) and overall yield.
+2. Safety Requirements
+Slitting blades are extremely sharp. Never touch blade edges. Use the blade-handling
+🦺 SAFETY tool for all blade changes. Cut-resistant gloves (EN388 Level 4) mandatory during
+blade changes. Lock-out the slitter before any blade access.
+3. Blade & Setup Checks
+54. Confirm blade specification matches recipe (diameter, material, tooth profile). Check blade log
+for cumulative cut mileage. Replace blade set if cycles exceed 50,000 m.
+55. Set blade spacing per recipe width (±0.1 mm tolerance). Verify with calibrated width gauge.
+56. Check blade overlap (crush/shear setting): 0.1–0.3 mm crush for cathode; 0.1–0.2 mm crush for
+anode foil.
+57. Check take-up reel core size matches downstream cell winding specification.
+58. Inspect edge guide alignment — foil edge must run within ±0.5 mm of guide.
+4. Process Parameters — Slitting
+Parameter Cathode Anode Alarm Limit
+Slit Width (mm) Per recipe ±0.1 mm Per recipe ±0.1 mm > ±0.2 mm: stop and
+adjust
+Slitting Speed (m/min) 50–80 50–80 Do not exceed 100 m/min
+Edge Burr Height (µm) < 5 < 5 > 10 µm: change blades
+immediately
+Foil Tension (N) 15–25 10–20 < 10 or > 30: stop
+Edge Dust / Particles None visible None visible Any: clean, inspect blade
+5. In-Process Quality Checks
+59. Every 500 m: Measure slit width at three points across reel width. Record on Slitting Log.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| SOP ID | SOP-ELEC-SLIT-005 | Version | v1.8 |
+| -------------- | ------------------ | ----------- | --------------- |
+| Process Area | Electrode Slitting | Access Tier | Tier 1 / Tier 2 |
+| Effective Date | 11/03/2026 | Revision | Rev 2 |
+
+[TABLE]
+| 🦺 SAFETY | Slitting blades are extremely sharp. Never touch blade edges. Use the blade-handling |
+| -------- | ------------------------------------------------------------------------------------ |
+| | tool for all blade changes. Cut-resistant gloves (EN388 Level 4) mandatory during |
+| | blade changes. Lock-out the slitter before any blade access. |
+
+[TABLE]
+| | Parameter | | Cathode | | Anode | Alarm Limit |
+| --------------------- | ---------------------- | ------------------ | ------------ | ------------------ | ------------ | ------------------------- |
+| Slit Width (mm) | | Per recipe ±0.1 mm | | Per recipe ±0.1 mm | | > ±0.2 mm: stop and |
+| | | | | | | adjust |
+| | Slitting Speed (m/min) | | 50–80 | | 50–80 | Do not exceed 100 m/min |
+| Edge Burr Height (µm) | | < 5 | | < 5 | | > 10 µm: change blades |
+| | | | | | | immediately |
+| | Foil Tension (N) | | 15–25 | | 10–20 | < 10 or > 30: stop |
+| | Edge Dust / Particles | | None visible | | None visible | Any: clean, inspect blade |
+
+PAGE 13
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+60. Every 500 m: Check edge burr using microscope or profilometer. Burr height must be < 5 µm.
+61. Continuous: Watch for coating delamination at slit edge. Flaking: stop line and check blade
+condition.
+62. At reel completion: Record slit reel ID, width measurements, burr check result, and blade
+cumulative mileage.
+6. Slit Reel Labelling & Transfer
+63. Each completed slit reel must be labelled: Reel ID, parent reel ID, electrode type, width, QC
+pass, date, operator ID.
+64. Rejected reels (OOS width or burr): label clearly 'HOLD — QC REVIEW'. Move to designated
+hold area immediately. Do not mix with conforming reels.
+65. Conforming reels transferred to cell assembly in sealed packaging within 8 hours to prevent
+moisture uptake.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+PAGE 14
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Shift Handover — Electrode Manufacturing
+SOP ID SOP-ELEC- Version v1.2
+HANDOVER-006
+Process Area All Electrode Zones Access Tier Tier 1 / Tier 2
+Effective Date 11/03/2026 Revision Rev 1
+1. Purpose
+Defines the structured shift handover process for the electrode manufacturing area to ensure
+operational continuity, clear communication of status, and accurate transfer of accountability between
+outgoing and incoming shifts.
+2. Outgoing Shift — Responsibilities
+2.1 — 30 Minutes Before Shift End
+66. Complete all active in-process quality checks. Record results on run records before handover.
+67. Bring current production order to a safe stopping point. Do not initiate a new batch in the last 30
+minutes unless instructed by Supervisor.
+68. Note all active alarms, deviations, or quality holds: alarm code, time raised, action taken, current
+status.
+69. Record consumable levels: slurry volume remaining, foil reel length remaining, blade mileage.
+2.2 — At Shift Handover
+70. Walk the incoming operator through the line. Point out any physical issues (unusual noise,
+smell, leaks).
+71. Verbally communicate: current production order status, active quality holds, equipment
+restrictions.
+72. Complete the Shift Handover Record on the MES system. All fields mandatory.
+73. Do not leave the zone until the incoming operator has acknowledged handover verbally and
+signed the handover record.
+3. Incoming Shift — Responsibilities
+74. Arrive at zone 10 minutes before shift start. Review the MES Shift Handover Record before
+accepting handover.
+75. Check all open alarms and quality holds listed in the handover record.
+76. Physically inspect the line: equipment status lights, visible leaks, consumable levels.
+77. Sign the handover record to accept accountability.
+78. If you have concerns about the handover state, notify the Shift Supervisor before accepting
+handover.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| SOP ID | | SOP-ELEC- | Version | | v1.2 | |
+| ------ | -------------- | ------------------- | ------- | ----------- | ---- | --------------- |
+| | | HANDOVER-006 | | | | |
+| | Process Area | All Electrode Zones | | Access Tier | | Tier 1 / Tier 2 |
+| | Effective Date | 11/03/2026 | | Revision | | Rev 1 |
+
+PAGE 15
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+4. Shift Handover Record — Required Fields
+Field Required Information
+Production Order Number Active order ID at time of handover
+Current Reel / Batch ID Most recent reel or batch in progress
+Production Output Metres coated / slit / calendared this shift
+Open Alarms All alarm codes + status (active / cleared / deferred)
+Quality Holds Reel/batch IDs on hold + reason + QA contact
+Equipment Restrictions Machines tagged out, restricted speed, under maintenance
+Consumable Status Slurry remaining, foil reel length, blade mileage
+Pending Actions Tasks carried forward for incoming shift
+Outgoing Operator ID + Signature Mandatory — handover invalid without signature
+Incoming Operator ID + Signature Mandatory — acceptance invalid without signature
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| Field | Required Information |
+| -------------------------------- | -------------------------------------------------------- |
+| Production Order Number | Active order ID at time of handover |
+| Current Reel / Batch ID | Most recent reel or batch in progress |
+| Production Output | Metres coated / slit / calendared this shift |
+| Open Alarms | All alarm codes + status (active / cleared / deferred) |
+| Quality Holds | Reel/batch IDs on hold + reason + QA contact |
+| Equipment Restrictions | Machines tagged out, restricted speed, under maintenance |
+| Consumable Status | Slurry remaining, foil reel length, blade mileage |
+| Pending Actions | Tasks carried forward for incoming shift |
+| Outgoing Operator ID + Signature | Mandatory — handover invalid without signature |
+| Incoming Operator ID + Signature | Mandatory — acceptance invalid without signature |
+
+PAGE 16
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+General Alarm Response & Escalation — Electrode Zone
+SOP ID SOP-ELEC-ALARM-007 Version v1.0
+Process Area All Electrode Zones Access Tier Tier 1 / Tier 2 / Tier 3
+Effective Date 11/03/2026 Revision Rev 1
+1. Purpose
+Defines the standard response framework for all process alarms in the electrode manufacturing area.
+All operators must follow this procedure when any alarm is triggered. Machine-specific responses are in
+the respective machine SOPs.
+2. Alarm Priority Classification
+Priority Colour / Sound Definition Response Time
+Required
+P1 — Critical RED / Continuous Immediate safety or quality risk. Acknowledge within 30
+horn Production must stop. seconds.
+P2 — High AMBER / Pulsed Process deviation requiring Acknowledge < 2 min.
+horn action. May impact quality. Resolve < 10 min.
+P3 — Medium YELLOW / Audible Advisory. Monitor closely. Acknowledge < 5 min.
+beep Production may continue. Log and monitor.
+P4 — Low BLUE / Visual only Informational. No immediate Acknowledge < 15 min.
+action required. Log.
+3. General Alarm Response Procedure
+79. ACKNOWLEDGE the alarm on the HMI within the required response time for its priority class.
+80. IDENTIFY the alarm: read alarm code, description, and affected zone on HMI alarm screen.
+81. ASSESS: Is production safe to continue? If any doubt, STOP the line. When in doubt, stop.
+82. CONSULT the machine-specific SOP for the alarm code (MIX-001, COAT-002, DRY-003, CAL-
+004, or SLIT-005).
+83. TAKE the action specified in the machine SOP. Do not deviate from the specified response.
+84. RECORD the alarm on the Alarm Log: alarm code, time, action taken, resolved time, operator
+ID.
+85. ESCALATE if alarm cannot be resolved within specified response time — see Section 4.
+4. Escalation Matrix
+Condition Escalate To Time Limit Method
+P1 alarm — any duration Shift Supervisor < 1 minute Verbal + Andon pull
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| SOP ID | SOP-ELEC-ALARM-007 | Version | v1.0 |
+| -------------- | ------------------- | ----------- | ------------------------ |
+| Process Area | All Electrode Zones | Access Tier | Tier 1 / Tier 2 / Tier 3 |
+| Effective Date | 11/03/2026 | Revision | Rev 1 |
+
+[TABLE]
+| Priority | Colour / Sound | | Definition | | Response Time |
+| ------------- | ------------------ | ---------------- | ---------- | --------------------------------- | --------------------- |
+| | | | | | Required |
+| P1 — Critical | | RED / Continuous | | Immediate safety or quality risk. | Acknowledge within 30 |
+| | | horn | | Production must stop. | seconds. |
+| P2 — High | | AMBER / Pulsed | | Process deviation requiring | Acknowledge < 2 min. |
+| | | horn | | action. May impact quality. | Resolve < 10 min. |
+| P3 — Medium | | YELLOW / Audible | | Advisory. Monitor closely. | Acknowledge < 5 min. |
+| | | beep | | Production may continue. | Log and monitor. |
+| P4 — Low | BLUE / Visual only | | | Informational. No immediate | Acknowledge < 15 min. |
+| | | | | action required. | Log. |
+
+[TABLE]
+| Condition | Escalate To | Time Limit | Method |
+| ----------------------- | ---------------- | ---------- | ------------------- |
+| P1 alarm — any duration | Shift Supervisor | < 1 minute | Verbal + Andon pull |
+
+PAGE 17
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Condition Escalate To Time Limit Method
+P2 alarm not resolved in 10 Shift Supervisor 10 minutes Verbal + MES
+min notification
+Recurring P2/P3 (> 3× per Shift Supervisor + Before end of shift MES + verbal
+shift) Maintenance
+Quality hold raised — any Supervisor + QA Lead < 15 minutes MES hold + verbal
+alarm
+Equipment fault requiring Maintenance team Immediate (P1); 30 CMMS work order +
+maintenance min (P2) verbal
+Alarm cause unknown / Production Manager Before production MES + verbal
+cannot resolve restart escalation
+Never clear (reset) a P1 alarm without physically resolving its root cause. Clearing an
+🛑 CRITICAL active alarm without resolution is a serious non-conformance and will be investigated
+as a quality and safety event.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| | Condition | | | Escalate To | | Time Limit | | Method |
+| ---------- | --------------------------- | --------------------------------------------------------------------------------------- | -------------------- | ------------------ | ------------------- | ------------------ | ----------------- | ----------------- |
+| | P2 alarm not resolved in 10 | | Shift Supervisor | | 10 minutes | | | Verbal + MES |
+| | min | | | | | | | notification |
+| | Recurring P2/P3 (> 3× per | | | Shift Supervisor + | Before end of shift | | MES + verbal | |
+| | shift) | | | Maintenance | | | | |
+| | Quality hold raised — any | | Supervisor + QA Lead | | < 15 minutes | | MES hold + verbal | |
+| | alarm | | | | | | | |
+| | Equipment fault requiring | | Maintenance team | | | Immediate (P1); 30 | | CMMS work order + |
+| | maintenance | | | | | min (P2) | | verbal |
+| | Alarm cause unknown / | | Production Manager | | | Before production | | MES + verbal |
+| | cannot resolve | | | | | restart | | escalation |
+| 🛑 CRITICAL | | Never clear (reset) a P1 alarm without physically resolving its root cause. Clearing an | | | | | | |
+| | | active alarm without resolution is a serious non-conformance and will be investigated | | | | | | |
+| | | as a quality and safety event. | | | | | | |
+
+PAGE 18
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Operator FAQ — Electrode Manufacturing Knowledge Hub
+SOP ID KB-ELEC-FAQ-001 Version v1.0
+Process Area All Electrode Zones Access Tier Tier 1 / Tier 2 / Tier 3
+Effective Date 11/03/2026 Revision Rev 1
+This FAQ provides quick answers to common operator questions. All answers link to the authoritative
+SOP. When in doubt, always refer to the full SOP.
+Mixing
+Q: What do I do if the slurry viscosity is too high after mixing?
+A: Add small increments of solvent (NMP for cathode; deionised water for anode). Mix at medium
+speed for 15 minutes after each addition, then re-measure viscosity. Maximum 2 adjustment attempts.
+If still OOS after 2 attempts, reject the batch and notify your Shift Supervisor. Reference: SOP-ELEC-
+MIX-001 §7.
+Q: Can I start mixing if ambient humidity is above 30% RH?
+A: No. Mixing must not start if humidity exceeds 30% RH. NMP absorbs moisture which degrades slurry
+quality. Log the environmental condition, notify your Shift Supervisor, and wait until humidity is within
+range. Reference: SOP-ELEC-MIX-001 §5, Step 8.
+Q: The LEV green light is not lit. What do I do?
+A: Do NOT open any solvent containers or start mixing. This is a P1 safety condition. Notify your Shift
+Supervisor immediately and activate the Andon. Do not re-enter the mixing zone until LEV is confirmed
+operational. Reference: SOP-ELEC-MIX-001 §3 and SOP-ELEC-ALARM-007 §2.
+Q: How do I know if the mixing vessel is clean enough to use?
+A: Check the vessel certification tag on the vessel. The cleaning date must be within the 7-day cleaning
+validity window. If the tag is absent, expired, or unclear, treat the vessel as unclean and route for
+cleaning before use. Reference: SOP-ELEC-MIX-001 §5, Step 2.
+Coating
+Q: How often do I check coating weight during a production run?
+A: Check wet coating weight every 200 m using the inline beta gauge plus a manual patch sample.
+Check dry coating weight every 500 m by cutting a 100 cm² patch, weighing it, and subtracting the foil
+weight. Record all results on the Coating Run Record. Reference: SOP-ELEC-COAT-002 §5.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+[TABLE]
+| SOP ID | KB-ELEC-FAQ-001 | Version | v1.0 |
+| -------------- | ------------------- | ----------- | ------------------------ |
+| Process Area | All Electrode Zones | Access Tier | Tier 1 / Tier 2 / Tier 3 |
+| Effective Date | 11/03/2026 | Revision | Rev 1 |
+
+PAGE 19
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Q: I can see pinholes in the coating. What should I do?
+A: Stop the line if you observe more than 5 pinholes per 100 m². Check the slurry for air bubbles — it
+may need to be re-degassed. Inspect and clean the die lip for partial blockage. This corresponds to
+alarm code COAT-ALM-005. Reference: SOP-ELEC-COAT-002 §6.
+Q: How long can slurry wait before I coat with it?
+A: Maximum 4 hours from slurry batch completion to start of coating. If the slurry is older than 4 hours,
+re-measure viscosity before proceeding. If viscosity is OOS, do not coat — reject the slurry and notify
+the Shift Supervisor. Reference: SOP-ELEC-COAT-002 §3, Step 1.
+Q: What do I do if the oven temperature goes outside the alarm limit?
+A: A deviation of ±5 °C from set point requires logging and monitoring. A deviation of ±10 °C requires
+stopping the coating line. Do not advance foil through the oven. Check the heater and temperature
+controller, and notify Maintenance if the fault persists for more than 10 minutes. Reference: SOP-
+ELEC-COAT-002 §6, COAT-ALM-002.
+Drying
+Q: What is the maximum residual NMP allowed in a dried cathode electrode?
+A: Less than 50 ppm NMP. If the inline IR sensor reads above 200 ppm, reduce line speed by 10% and
+re-check. If residual NMP remains above 200 ppm after speed reduction, stop the line and inspect the
+oven heaters. Reference: SOP-ELEC-DRY-003 §3.
+Q: How long must cathode reels dry in the vacuum oven?
+A: Minimum 12 hours at 120 °C with vacuum maintained below 10 Pa. Anode reels require a minimum
+of 8 hours. Do not break the vacuum until the oven has cooled below 40 °C. Reference: SOP-ELEC-
+DRY-003 §4.
+Q: How long can a dried reel be exposed to ambient air before it must be used?
+A: Maximum 30 minutes exposure to ambient air after the vacuum oven drying cycle. After that, the reel
+must be stored in a dry room (RH < 1%) or nitrogen-purged storage. Reference: SOP-ELEC-DRY-003
+§4, Step 6.
+Calendaring
+Q: The electrode coating is cracking at the rolls. What is the likely cause and what
+should I do?
+A: Cracking is most commonly caused by an under-dried electrode or excessive calendaring force.
+Stop the line immediately. Reduce calendaring force by 10 kN and re-check. If cracking continues,
+notify your Shift Supervisor — the reel may need to be returned for additional drying. Reference: SOP-
+ELEC-CAL-004 §5, Step 4.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+PAGE 20
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+Q: How do I verify the roll gap is equal on both sides?
+A: Use a feeler gauge on both the operator side and the drive side of the roll gap. The difference
+between the two sides must be less than 2 µm. If the difference is greater, adjust the drive-side screw
+until both sides are within 2 µm of each other. Reference: SOP-ELEC-CAL-004 §3, Step 2.
+Q: What do I do if the calendaring force exceeds 200 kN?
+A: This is alarm CAL-ALM-002. Stop the line immediately. Reduce the roll gap setting by 5 µm. Re-
+thread the foil and restart at low speed. Do not continue calendaring with force above 200 kN.
+Reference: SOP-ELEC-CAL-004 §6.
+Slitting
+Q: When do I need to change the slitting blades?
+A: Replace the blade set when cumulative cut length reaches 50,000 m, or immediately if edge burr
+height exceeds 10 µm at any point during the shift. Check the blade log for current mileage at the start
+of each shift. Reference: SOP-ELEC-SLIT-005 §3, Step 1.
+Q: What should I do with a slit reel that has failed the width check?
+A: Label the reel clearly as 'HOLD — QC REVIEW'. Move it to the designated hold area immediately.
+Do not mix it with conforming reels. Record the reel ID, width measurement, and time on the Slitting
+Log, then notify your Shift Supervisor. Reference: SOP-ELEC-SLIT-005 §6, Step 2.
+Q: How soon must conforming slit reels be transferred to cell assembly?
+A: Within 8 hours of completion, in sealed packaging. This prevents moisture uptake which could
+degrade electrode performance. Reference: SOP-ELEC-SLIT-005 §6, Step 3.
+Shift Handover
+Q: Can I leave the zone before the incoming operator signs the handover record?
+A: No. You must remain in the zone until the incoming operator has acknowledged the handover
+verbally AND signed the MES Shift Handover Record. Leaving without a completed handover is a non-
+conformance. Reference: SOP-ELEC-HANDOVER-006 §2.2, Step 4.
+Q: What fields must I complete on the Shift Handover Record?
+A: All fields are mandatory: Production Order Number, Current Reel/Batch ID, Production Output
+(metres), Open Alarms (codes + status), Quality Holds (reel IDs + reason), Equipment Restrictions,
+Consumable Status, Pending Actions, and both operator signatures. An incomplete handover record
+must be flagged to the Shift Supervisor. Reference: SOP-ELEC-HANDOVER-006 §4.
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page
+
+PAGE 21
+
+SOP-ELEC-MIX-001 v2.1 | Electrode Slurry MixingCONFIDENTIAL — AGRATAS GIGAFACTORY | INTERNAL USE ONLY
+General Safety
+Q: What is the emergency stop (E-stop) procedure?
+A: Press the nearest red mushroom-head E-stop button. This immediately de-energises the machine.
+Shout 'E-STOP ACTIVATED' to alert nearby workers. Do NOT restart the machine after an E-stop
+without first investigating and resolving the cause, and obtaining Shift Supervisor authorisation. Notify
+the Shift Supervisor of every E-stop event.
+Q: I can smell strong solvent but no alarm has triggered. What should I do?
+A: Evacuate the area immediately and activate the nearest Andon. Do not wait for an alarm. Notify the
+Shift Supervisor verbally. This may indicate a LEV failure or solvent spill before the sensor has detected
+it. Re-entry only with Supervisor and EHS authorisation. Reference: SOP-ELEC-ALARM-007 §3, Step 3
+— when in doubt, stop.
+Q: If a quality hold is raised, who do I notify and how quickly?
+A: Notify your Shift Supervisor and QA Lead within 15 minutes of raising the hold. Use MES hold
+notification plus a verbal communication. Do not release a quality hold without QA Lead sign-off.
+Reference: SOP-ELEC-ALARM-007 §4.
+— END OF DOCUMENT — KB-ELEC-SOP-CORPUS-v1.0 — AGRATAS GIGAFACTORY —
+SOP-ELEC-MIX-001 — Authorised Agratas personnel only. Page

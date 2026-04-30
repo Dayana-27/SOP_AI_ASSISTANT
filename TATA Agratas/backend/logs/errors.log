@@ -1,0 +1,122 @@
+2026-04-02 17:42:33 | ERROR    | sarvam_tts | text_to_speech:72 | TTS API error | Status: 400 | Response: {"error":{"message":"Validation Error(s):\n- inputs.0: String should have at most 500 characters","code":"invalid_request_error","request_id":"20260402_d85385e8-afc7-46cc-8090-7fe56077c6f2"}}
+2026-04-06 13:11:19 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260406_9e8e452e-257b-4001-8e9a-2fe15e5a4aa9"}}
+2026-04-06 13:26:41 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260406_f935f12e-b048-4be9-93d6-a9e93b32adc6"}}
+2026-04-07 11:44:17 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260407_9a15bf37-3896-4c1d-a6c3-00227484cd63"}}
+2026-04-07 11:49:27 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260407_5226da2a-916f-42ec-be64-ac761738406c"}}
+2026-04-07 11:50:48 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260407_23a347c3-662f-40a6-a38a-1b9bec98d786"}}
+2026-04-07 12:00:31 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260407_5e806f91-2da3-49a5-9734-36dc4a9e7f66"}}
+2026-04-07 13:05:47 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260407_1ac4905b-9f75-46f7-9bed-797bc13eccc1"}}
+2026-04-07 13:13:13 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260407_27f2fe67-e136-4c59-a64d-3051e205b65d"}}
+2026-04-07 13:49:54 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260407_88893cd2-d66a-4cb9-81a5-498bec743d27"}}
+2026-04-08 10:12:41 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260408_295d3ad3-987a-416a-af4e-852aab317afd"}}
+2026-04-08 11:49:16 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260408_1f9d75ec-0da6-485f-8492-d48dc7566538"}}
+2026-04-08 11:49:52 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260408_6ac095f6-c93f-496f-8a5e-1f8b54a1390e"}}
+2026-04-09 09:33:54 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260409_2b36baa1-f902-4a95-8faa-3876aa7f9211"}}
+2026-04-09 18:07:19 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260409_d07c2e13-9200-4b07-80ea-a028d8e3582e"}}
+2026-04-09 18:15:16 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260409_5bdb6957-b155-488d-8c25-b7a0cfb0215d"}}
+2026-04-09 18:16:00 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260409_f4c13b96-dbe8-4287-ac68-d050b13720dc"}}
+2026-04-10 11:00:55 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"body.target_language_code : Input should be 'bn-IN', 'en-IN', 'gu-IN', 'hi-IN', 'kn-IN', 'ml-IN', 'mr-IN', 'od-IN', 'pa-IN', 'ta-IN', 'te-IN', 'as-IN', 'brx-IN', 'doi-IN', 'kok-IN', 'ks-IN', 'mai-IN', 'mni-IN', 'ne-IN', 'sa-IN', 'sat-IN', 'sd-IN' or 'ur-IN'","code":"invalid_request_error","request_id":"20260410_0c85e3ec-00c6-4445-a2ee-5e60a28573c6"}}
+2026-04-10 15:31:00 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260410_77390bd3-fa37-4b86-ace0-070ed2ba2926"}}
+2026-04-10 15:45:01 | ERROR    | sarvam_translate | translate_to_english:58 | Translation to English failed | Status: 400 | Response: {"error":{"message":"body.source_language_code : Input should be 'auto', 'bn-IN', 'en-IN', 'gu-IN', 'hi-IN', 'kn-IN', 'ml-IN', 'mr-IN', 'od-IN', 'pa-IN', 'ta-IN', 'te-IN', 'as-IN', 'brx-IN', 'doi-IN', 'kok-IN', 'ks-IN', 'mai-IN', 'mni-IN', 'ne-IN', 'sa-IN', 'sat-IN', 'sd-IN' or 'ur-IN'","code":"invalid_request_error","request_id":"20260410_58962256-ac86-4345-bf7f-19442dc2fc02"}}
+2026-04-10 15:45:02 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"body.target_language_code : Input should be 'bn-IN', 'en-IN', 'gu-IN', 'hi-IN', 'kn-IN', 'ml-IN', 'mr-IN', 'od-IN', 'pa-IN', 'ta-IN', 'te-IN', 'as-IN', 'brx-IN', 'doi-IN', 'kok-IN', 'ks-IN', 'mai-IN', 'mni-IN', 'ne-IN', 'sa-IN', 'sat-IN', 'sd-IN' or 'ur-IN'","code":"invalid_request_error","request_id":"20260410_20c2b958-b065-4d8a-b331-4699698c7cac"}}
+2026-04-10 15:47:45 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-10 15:47:47 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-10 15:48:12 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-10 15:52:41 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-10 15:52:47 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-10 15:54:25 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-10 15:54:36 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-10 15:55:07 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-10 15:55:09 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-10 15:55:11 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-10 17:45:27 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260410_c1ac80ab-ee2a-44e6-b307-8abdd4a8ff6b"}}
+2026-04-10 17:46:08 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260410_5d183ebe-8c02-4616-8204-7c8281b95617"}}
+2026-04-10 17:48:08 | ERROR    | sarvam_translate | translate_from_english:129 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260410_60e6513a-4934-4df0-8601-59a118356bf5"}}
+2026-04-13 13:19:14 | ERROR    | sarvam_translate | translate_from_english:189 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260413_f7a576ff-7102-4920-aae9-4692eb9c758d"}}
+2026-04-13 13:22:30 | ERROR    | sarvam_translate | translate_from_english:189 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260413_9e4aa8e8-398a-4476-bc21-8617d7c65b42"}}
+2026-04-13 13:25:35 | ERROR    | sarvam_translate | translate_from_english:189 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260413_56eddc60-7a60-406c-80f6-3ef35edeb4a4"}}
+2026-04-13 13:28:39 | ERROR    | sarvam_translate | translate_from_english:189 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260413_5a841894-3535-415a-891b-ecaa0057087d"}}
+2026-04-13 13:31:41 | ERROR    | sarvam_translate | translate_from_english:189 | Translation from English failed | Status: 400 | Response: {"error":{"message":"Input text must not exceed 1000 characters for mayura:v1.","code":"invalid_request_error","request_id":"20260413_82204fac-2f71-4e10-a274-54cbe35851cd"}}
+2026-04-15 17:17:35 | ERROR    | sarvam_translate | log_error:118 | Error in translate_from_english: RetryError: HTTPSConnectionPool(host='api.sarvam.ai', port=443): Max retries exceeded with url: /translate (Caused by ResponseError('too many 429 error responses'))
+urllib3.exceptions.ResponseError: too many 429 error responses
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/requests/adapters.py", line 645, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/urllib3/connectionpool.py", line 942, in urlopen
+    return self.urlopen(
+           ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<13 lines>...
+        **response_kw,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/urllib3/connectionpool.py", line 942, in urlopen
+    return self.urlopen(
+           ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<13 lines>...
+        **response_kw,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/urllib3/connectionpool.py", line 942, in urlopen
+    return self.urlopen(
+           ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<13 lines>...
+        **response_kw,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/urllib3/connectionpool.py", line 932, in urlopen
+    retries = retries.increment(method, url, response=response, _pool=self)
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/urllib3/util/retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.sarvam.ai', port=443): Max retries exceeded with url: /translate (Caused by ResponseError('too many 429 error responses'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/dayanak/Downloads/TATA Agratas/backend/src/sarvam_translate.py", line 172, in translate_from_english
+    response = sarvam_client.post(
+        SARVAM_TRANSLATE_URL,
+        payload=payload,
+        timeout=(5, 15)
+    )
+  File "/Users/dayanak/Downloads/TATA Agratas/backend/src/sarvam_client.py", line 78, in post
+    return self.session.post(url, json=payload, timeout=timeout)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/requests/sessions.py", line 640, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/requests/sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/requests/sessions.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/requests/adapters.py", line 669, in send
+    raise RetryError(e, request=request)
+requests.exceptions.RetryError: HTTPSConnectionPool(host='api.sarvam.ai', port=443): Max retries exceeded with url: /translate (Caused by ResponseError('too many 429 error responses'))
+2026-04-15 17:18:06 | ERROR    | sarvam_tts | generate_tts_for_chunk:100 | Error generating TTS for chunk: HTTPSConnectionPool(host='api.sarvam.ai', port=443): Max retries exceeded with url: /text-to-speech (Caused by ResponseError('too many 429 error responses'))
+2026-04-15 17:18:06 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-15 17:18:08 | ERROR    | sarvam_tts | generate_tts_for_chunk:100 | Error generating TTS for chunk: HTTPSConnectionPool(host='api.sarvam.ai', port=443): Max retries exceeded with url: /text-to-speech (Caused by ResponseError('too many 429 error responses'))
+2026-04-15 17:18:08 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-15 17:18:11 | ERROR    | sarvam_tts | generate_tts_for_chunk:100 | Error generating TTS for chunk: HTTPSConnectionPool(host='api.sarvam.ai', port=443): Max retries exceeded with url: /text-to-speech (Caused by ResponseError('too many 429 error responses'))
+2026-04-15 17:18:11 | ERROR    | sarvam_tts | text_to_speech:192 | TTS failed: No audio chunks generated
+2026-04-15 17:18:47 | ERROR    | sarvam_stt | transcribe_audio:78 | STT API error | Status: 429 | Response: {"error":{"message":"No credits available.","code":"insufficient_quota_error","request_id":"20260415_0efee815-405b-40ce-a180-cc8a5aac1af4"}}
+2026-04-15 17:18:47 | ERROR    | __main__ | transcribe_speech:475 | [transcribe_1776253727007] Transcription failed: {"error":{"message":"No credits available.","code":"insufficient_quota_error","request_id":"20260415_0efee815-405b-40ce-a180-cc8a5aac1af4"}}
+2026-04-15 17:19:03 | ERROR    | sarvam_stt | transcribe_audio:78 | STT API error | Status: 429 | Response: {"error":{"message":"No credits available.","code":"insufficient_quota_error","request_id":"20260415_e93bf823-c4bb-419d-b267-ed428f3a73b5"}}
+2026-04-15 17:19:03 | ERROR    | __main__ | transcribe_speech:475 | [transcribe_1776253742251] Transcription failed: {"error":{"message":"No credits available.","code":"insufficient_quota_error","request_id":"20260415_e93bf823-c4bb-419d-b267-ed428f3a73b5"}}
+2026-04-15 17:24:38 | ERROR    | sarvam_stt | transcribe_audio:78 | STT API error | Status: 429 | Response: {"error":{"message":"No credits available.","code":"insufficient_quota_error","request_id":"20260415_8f701288-5a2f-48ef-bf8d-b3b23a03bdbe"}}
+2026-04-15 17:24:38 | ERROR    | __main__ | transcribe_speech:475 | [transcribe_1776254077691] Transcription failed: {"error":{"message":"No credits available.","code":"insufficient_quota_error","request_id":"20260415_8f701288-5a2f-48ef-bf8d-b3b23a03bdbe"}}

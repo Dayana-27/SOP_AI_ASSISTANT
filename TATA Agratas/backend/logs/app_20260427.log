@@ -1,0 +1,207 @@
+2026-04-27 10:56:23 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-27 10:56:23 | INFO     | __main__ | <module>:610 | ============================================================
+2026-04-27 10:56:23 | INFO     | __main__ | <module>:611 | Starting TATA Agratas RAG API Server
+2026-04-27 10:56:23 | INFO     | __main__ | <module>:612 | ============================================================
+2026-04-27 10:56:23 | INFO     | __main__ | <module>:613 | API Server: http://localhost:8000
+2026-04-27 10:56:23 | INFO     | __main__ | <module>:614 | API Documentation: http://localhost:8000/docs
+2026-04-27 10:56:23 | INFO     | __main__ | <module>:615 | Interactive API: http://localhost:8000/redoc
+2026-04-27 10:56:23 | INFO     | __main__ | <module>:616 | ============================================================
+2026-04-27 10:56:23 | INFO     | __main__ | lifespan:39 | ============================================================
+2026-04-27 10:56:23 | INFO     | __main__ | lifespan:40 | TATA Agratas RAG System - Starting Up
+2026-04-27 10:56:23 | INFO     | __main__ | lifespan:41 | ============================================================
+2026-04-27 10:56:23 | INFO     | __main__ | lifespan:44 | Initializing Elasticsearch connection...
+2026-04-27 10:56:23 | INFO     | __main__ | lifespan:46 | ✓ Elasticsearch connection established successfully
+2026-04-27 10:56:23 | INFO     | __main__ | lifespan:52 | Initializing WatsonX AI model...
+2026-04-27 10:56:28 | INFO     | __main__ | lifespan:54 | ✓ WatsonX AI model initialized successfully
+2026-04-27 10:56:28 | INFO     | __main__ | lifespan:59 | ============================================================
+2026-04-27 10:56:28 | INFO     | __main__ | lifespan:60 | ✅ Application Ready - All systems operational
+2026-04-27 10:56:28 | INFO     | __main__ | lifespan:61 | ============================================================
+2026-04-27 12:13:48 | INFO     | __main__ | process_voice_query:316 | [voice_1777272228484] Voice query request received | Language: en-IN | Query length: 62 chars
+2026-04-27 12:13:48 | INFO     | __main__ | process_voice_query:327 | [voice_1777272228484] Query is in English, skipping translation
+2026-04-27 12:13:48 | INFO     | __main__ | process_voice_query:335 | [voice_1777272228484] Step 2: Processing RAG query
+2026-04-27 12:13:57 | WARNING  | __main__ | log_performance:124 | Performance: [voice_1777272228484] RAG Processing took 8829.65ms (threshold: 1000ms)
+2026-04-27 12:13:57 | INFO     | __main__ | process_voice_query:360 | [voice_1777272228484] Step 3: Language is English (en-IN), skipping translation
+2026-04-27 12:13:57 | WARNING  | __main__ | log_performance:124 | Performance: [voice_1777272228484] Total Voice Query Processing (without TTS) took 8830.72ms (threshold: 1000ms)
+2026-04-27 12:13:57 | INFO     | __main__ | generate_tts:397 | [tts_1777272237328] TTS generation request | Language: en-IN | Text length: 68 chars
+2026-04-27 12:13:57 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: en-IN | Speaker: simran | Text length: 68 chars
+2026-04-27 12:13:57 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=simran, text_length=68, model=bulbul:v3, chunk=1/1
+2026-04-27 12:14:00 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 3262.49ms
+2026-04-27 12:14:00 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 3263.97ms | Audio size: 103824 bytes (base64) | Chunks: 1
+2026-04-27 12:14:00 | INFO     | __main__ | generate_tts:406 | [tts_1777272237328] TTS generated successfully
+2026-04-27 12:14:00 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777272237328] TTS Generation took 3264.49ms (threshold: 1000ms)
+2026-04-29 10:39:18 | INFO     | __main__ | process_voice_query:316 | [voice_1777439358981] Voice query request received | Language: hi-IN | Query length: 37 chars
+2026-04-29 10:39:18 | INFO     | __main__ | process_voice_query:329 | [voice_1777439358981] Step 1: Translating query from hi-IN to English
+2026-04-29 10:39:18 | INFO     | sarvam_translate | translate_to_english:79 | Translating to English | Source: hi-IN | Text length: 37 chars
+2026-04-29 10:39:18 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=hi-IN, target=en-IN, text_length=37
+2026-04-29 10:39:19 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 800.24ms
+2026-04-29 10:39:19 | INFO     | sarvam_translate | translate_to_english:108 | Translation to English successful | Duration: 801.69ms | Output length: 44 chars
+2026-04-29 10:39:19 | INFO     | __main__ | process_voice_query:335 | [voice_1777439358981] Step 2: Processing RAG query
+2026-04-29 10:39:57 | WARNING  | __main__ | log_performance:124 | Performance: [voice_1777439358981] RAG Processing took 37798.98ms (threshold: 1000ms)
+2026-04-29 10:39:57 | INFO     | __main__ | process_voice_query:349 | [voice_1777439358981] Step 3: Translating answer back to hi-IN
+2026-04-29 10:39:57 | INFO     | sarvam_translate | translate_from_english:151 | Translating from English | Target: hi-IN | Text length: 1503 chars
+2026-04-29 10:39:57 | INFO     | sarvam_translate | translate_from_english:157 | Text exceeds 1000 chars, chunking into smaller pieces...
+2026-04-29 10:39:57 | INFO     | sarvam_translate | translate_from_english:159 | Split into 2 chunks
+2026-04-29 10:39:59 | INFO     | sarvam_translate | translate_from_english:193 | Chunked translation completed | Total duration: 2237.40ms | Output length: 1751 chars
+2026-04-29 10:39:59 | INFO     | __main__ | process_voice_query:352 | [voice_1777439358981] Translation success: True
+2026-04-29 10:39:59 | WARNING  | __main__ | log_performance:124 | Performance: [voice_1777439358981] Total Voice Query Processing (without TTS) took 40839.91ms (threshold: 1000ms)
+2026-04-29 10:39:59 | INFO     | __main__ | generate_tts:397 | [tts_1777439399835] TTS generation request | Language: hi-IN | Text length: 76 chars
+2026-04-29 10:39:59 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 76 chars
+2026-04-29 10:39:59 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=76, model=bulbul:v3, chunk=1/1
+2026-04-29 10:40:02 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 2815.53ms
+2026-04-29 10:40:02 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 2816.25ms | Audio size: 87440 bytes (base64) | Chunks: 1
+2026-04-29 10:40:02 | INFO     | __main__ | generate_tts:406 | [tts_1777439399835] TTS generated successfully
+2026-04-29 10:40:02 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439399835] TTS Generation took 2816.56ms (threshold: 1000ms)
+2026-04-29 10:40:02 | INFO     | __main__ | generate_tts:397 | [tts_1777439402655] TTS generation request | Language: hi-IN | Text length: 133 chars
+2026-04-29 10:40:02 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 133 chars
+2026-04-29 10:40:02 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=140, model=bulbul:v3, chunk=1/1
+2026-04-29 10:40:09 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 6442.52ms
+2026-04-29 10:40:09 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 6443.67ms | Audio size: 245820 bytes (base64) | Chunks: 1
+2026-04-29 10:40:09 | INFO     | __main__ | generate_tts:406 | [tts_1777439402655] TTS generated successfully
+2026-04-29 10:40:09 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439402655] TTS Generation took 6444.03ms (threshold: 1000ms)
+2026-04-29 10:40:09 | INFO     | __main__ | generate_tts:397 | [tts_1777439409100] TTS generation request | Language: hi-IN | Text length: 130 chars
+2026-04-29 10:40:09 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 130 chars
+2026-04-29 10:40:09 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=140, model=bulbul:v3, chunk=1/1
+2026-04-29 10:40:21 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 12114.58ms
+2026-04-29 10:40:21 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 12115.70ms | Audio size: 233076 bytes (base64) | Chunks: 1
+2026-04-29 10:40:21 | INFO     | __main__ | generate_tts:406 | [tts_1777439409100] TTS generated successfully
+2026-04-29 10:40:21 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439409100] TTS Generation took 12116.03ms (threshold: 1000ms)
+2026-04-29 10:40:21 | INFO     | __main__ | generate_tts:397 | [tts_1777439421220] TTS generation request | Language: hi-IN | Text length: 147 chars
+2026-04-29 10:40:21 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 147 chars
+2026-04-29 10:40:21 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=154, model=bulbul:v3, chunk=1/1
+2026-04-29 10:40:26 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 4795.77ms
+2026-04-29 10:40:26 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 4797.15ms | Audio size: 209412 bytes (base64) | Chunks: 1
+2026-04-29 10:40:26 | INFO     | __main__ | generate_tts:406 | [tts_1777439421220] TTS generated successfully
+2026-04-29 10:40:26 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439421220] TTS Generation took 4797.76ms (threshold: 1000ms)
+2026-04-29 10:40:26 | INFO     | __main__ | generate_tts:397 | [tts_1777439426020] TTS generation request | Language: hi-IN | Text length: 123 chars
+2026-04-29 10:40:26 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 123 chars
+2026-04-29 10:40:26 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=131, model=bulbul:v3, chunk=1/1
+2026-04-29 10:40:30 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 4603.26ms
+2026-04-29 10:40:30 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 4604.74ms | Audio size: 198488 bytes (base64) | Chunks: 1
+2026-04-29 10:40:30 | INFO     | __main__ | generate_tts:406 | [tts_1777439426020] TTS generated successfully
+2026-04-29 10:40:30 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439426020] TTS Generation took 4605.12ms (threshold: 1000ms)
+2026-04-29 10:40:30 | INFO     | __main__ | generate_tts:397 | [tts_1777439430628] TTS generation request | Language: hi-IN | Text length: 120 chars
+2026-04-29 10:40:30 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 120 chars
+2026-04-29 10:40:30 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=123, model=bulbul:v3, chunk=1/1
+2026-04-29 10:40:34 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 4354.51ms
+2026-04-29 10:40:34 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 4355.91ms | Audio size: 189384 bytes (base64) | Chunks: 1
+2026-04-29 10:40:34 | INFO     | __main__ | generate_tts:406 | [tts_1777439430628] TTS generated successfully
+2026-04-29 10:40:34 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439430628] TTS Generation took 4356.48ms (threshold: 1000ms)
+2026-04-29 10:40:34 | INFO     | __main__ | generate_tts:397 | [tts_1777439434987] TTS generation request | Language: hi-IN | Text length: 16 chars
+2026-04-29 10:40:34 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 16 chars
+2026-04-29 10:40:34 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=21, model=bulbul:v3, chunk=1/1
+2026-04-29 10:40:36 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 1165.17ms
+2026-04-29 10:40:36 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 1166.14ms | Audio size: 41928 bytes (base64) | Chunks: 1
+2026-04-29 10:40:36 | INFO     | __main__ | generate_tts:406 | [tts_1777439434987] TTS generated successfully
+2026-04-29 10:40:36 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439434987] TTS Generation took 1166.65ms (threshold: 1000ms)
+2026-04-29 10:40:36 | INFO     | __main__ | generate_tts:397 | [tts_1777439436156] TTS generation request | Language: hi-IN | Text length: 149 chars
+2026-04-29 10:40:36 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 149 chars
+2026-04-29 10:40:36 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=149, model=bulbul:v3, chunk=1/1
+2026-04-29 10:40:40 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 4574.63ms
+2026-04-29 10:40:40 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 4576.09ms | Audio size: 209412 bytes (base64) | Chunks: 1
+2026-04-29 10:40:40 | INFO     | __main__ | generate_tts:406 | [tts_1777439436156] TTS generated successfully
+2026-04-29 10:40:40 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439436156] TTS Generation took 4576.73ms (threshold: 1000ms)
+2026-04-29 10:40:40 | INFO     | __main__ | generate_tts:397 | [tts_1777439440736] TTS generation request | Language: hi-IN | Text length: 237 chars
+2026-04-29 10:40:40 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 237 chars
+2026-04-29 10:40:40 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=237, model=bulbul:v3, chunk=1/1
+2026-04-29 10:40:50 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 9528.00ms
+2026-04-29 10:40:50 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 9529.50ms | Audio size: 329560 bytes (base64) | Chunks: 1
+2026-04-29 10:40:50 | INFO     | __main__ | generate_tts:406 | [tts_1777439440736] TTS generated successfully
+2026-04-29 10:40:50 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439440736] TTS Generation took 9530.24ms (threshold: 1000ms)
+2026-04-29 10:40:50 | INFO     | __main__ | generate_tts:397 | [tts_1777439450268] TTS generation request | Language: hi-IN | Text length: 26 chars
+2026-04-29 10:40:50 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 26 chars
+2026-04-29 10:40:50 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=28, model=bulbul:v3, chunk=1/1
+2026-04-29 10:40:51 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 1342.69ms
+2026-04-29 10:40:51 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 1343.76ms | Audio size: 45572 bytes (base64) | Chunks: 1
+2026-04-29 10:40:51 | INFO     | __main__ | generate_tts:406 | [tts_1777439450268] TTS generated successfully
+2026-04-29 10:40:51 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439450268] TTS Generation took 1344.26ms (threshold: 1000ms)
+2026-04-29 10:40:51 | INFO     | __main__ | generate_tts:397 | [tts_1777439451616] TTS generation request | Language: hi-IN | Text length: 145 chars
+2026-04-29 10:40:51 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 145 chars
+2026-04-29 10:40:51 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=145, model=bulbul:v3, chunk=1/1
+2026-04-29 10:40:57 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 5597.38ms
+2026-04-29 10:40:57 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 5598.80ms | Audio size: 205768 bytes (base64) | Chunks: 1
+2026-04-29 10:40:57 | INFO     | __main__ | generate_tts:406 | [tts_1777439451616] TTS generated successfully
+2026-04-29 10:40:57 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439451616] TTS Generation took 5599.22ms (threshold: 1000ms)
+2026-04-29 10:40:57 | INFO     | __main__ | generate_tts:397 | [tts_1777439457218] TTS generation request | Language: hi-IN | Text length: 107 chars
+2026-04-29 10:40:57 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 107 chars
+2026-04-29 10:40:57 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=119, model=bulbul:v3, chunk=1/1
+2026-04-29 10:41:02 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 5513.46ms
+2026-04-29 10:41:02 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 5514.33ms | Audio size: 231256 bytes (base64) | Chunks: 1
+2026-04-29 10:41:02 | INFO     | __main__ | generate_tts:406 | [tts_1777439457218] TTS generated successfully
+2026-04-29 10:41:02 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439457218] TTS Generation took 5514.61ms (threshold: 1000ms)
+2026-04-29 10:41:02 | INFO     | __main__ | generate_tts:397 | [tts_1777439462735] TTS generation request | Language: hi-IN | Text length: 137 chars
+2026-04-29 10:41:02 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 137 chars
+2026-04-29 10:41:02 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=137, model=bulbul:v3, chunk=1/1
+2026-04-29 10:41:09 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 6684.99ms
+2026-04-29 10:41:09 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 6686.02ms | Audio size: 183924 bytes (base64) | Chunks: 1
+2026-04-29 10:41:09 | INFO     | __main__ | generate_tts:406 | [tts_1777439462735] TTS generated successfully
+2026-04-29 10:41:09 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439462735] TTS Generation took 6686.50ms (threshold: 1000ms)
+2026-04-29 10:41:09 | INFO     | __main__ | generate_tts:397 | [tts_1777439469425] TTS generation request | Language: hi-IN | Text length: 69 chars
+2026-04-29 10:41:09 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 69 chars
+2026-04-29 10:41:09 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=69, model=bulbul:v3, chunk=1/1
+2026-04-29 10:41:11 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 2356.48ms
+2026-04-29 10:41:11 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 2357.18ms | Audio size: 91080 bytes (base64) | Chunks: 1
+2026-04-29 10:41:11 | INFO     | __main__ | generate_tts:406 | [tts_1777439469425] TTS generated successfully
+2026-04-29 10:41:11 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439469425] TTS Generation took 2357.48ms (threshold: 1000ms)
+2026-04-29 10:41:11 | INFO     | __main__ | process_voice_query:316 | [voice_1777439471784] Voice query request received | Language: hi-IN | Query length: 37 chars
+2026-04-29 10:41:11 | INFO     | __main__ | process_voice_query:329 | [voice_1777439471784] Step 1: Translating query from hi-IN to English
+2026-04-29 10:41:11 | INFO     | sarvam_translate | translate_to_english:79 | Translating to English | Source: hi-IN | Text length: 37 chars
+2026-04-29 10:41:11 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=hi-IN, target=en-IN, text_length=37
+2026-04-29 10:41:12 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 344.01ms
+2026-04-29 10:41:12 | INFO     | sarvam_translate | translate_to_english:108 | Translation to English successful | Duration: 344.57ms | Output length: 44 chars
+2026-04-29 10:41:12 | INFO     | __main__ | process_voice_query:335 | [voice_1777439471784] Step 2: Processing RAG query
+2026-04-29 10:41:14 | WARNING  | __main__ | log_performance:124 | Performance: [voice_1777439471784] RAG Processing took 2660.68ms (threshold: 1000ms)
+2026-04-29 10:41:14 | INFO     | __main__ | process_voice_query:349 | [voice_1777439471784] Step 3: Translating answer back to hi-IN
+2026-04-29 10:41:14 | INFO     | sarvam_translate | translate_from_english:151 | Translating from English | Target: hi-IN | Text length: 657 chars
+2026-04-29 10:41:14 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=hi-IN, text_length=657
+2026-04-29 10:41:15 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 819.63ms
+2026-04-29 10:41:15 | INFO     | sarvam_translate | translate_from_english:229 | Translation from English successful | Duration: 820.33ms | Output length: 709 chars
+2026-04-29 10:41:15 | INFO     | __main__ | process_voice_query:352 | [voice_1777439471784] Translation success: True
+2026-04-29 10:41:15 | WARNING  | __main__ | log_performance:124 | Performance: [voice_1777439471784] Total Voice Query Processing (without TTS) took 3827.55ms (threshold: 1000ms)
+2026-04-29 10:41:15 | INFO     | __main__ | generate_tts:397 | [tts_1777439475622] TTS generation request | Language: hi-IN | Text length: 149 chars
+2026-04-29 10:41:15 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 149 chars
+2026-04-29 10:41:15 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=149, model=bulbul:v3, chunk=1/1
+2026-04-29 10:41:20 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 4836.44ms
+2026-04-29 10:41:20 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 4838.78ms | Audio size: 218512 bytes (base64) | Chunks: 1
+2026-04-29 10:41:20 | INFO     | __main__ | generate_tts:406 | [tts_1777439475622] TTS generated successfully
+2026-04-29 10:41:20 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439475622] TTS Generation took 4839.38ms (threshold: 1000ms)
+2026-04-29 10:41:20 | INFO     | __main__ | generate_tts:397 | [tts_1777439480465] TTS generation request | Language: hi-IN | Text length: 77 chars
+2026-04-29 10:41:20 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 77 chars
+2026-04-29 10:41:20 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=78, model=bulbul:v3, chunk=1/1
+2026-04-29 10:41:22 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 2186.74ms
+2026-04-29 10:41:22 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 2187.58ms | Audio size: 85620 bytes (base64) | Chunks: 1
+2026-04-29 10:41:22 | INFO     | __main__ | generate_tts:406 | [tts_1777439480465] TTS generated successfully
+2026-04-29 10:41:22 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439480465] TTS Generation took 2188.05ms (threshold: 1000ms)
+2026-04-29 10:41:22 | INFO     | __main__ | generate_tts:397 | [tts_1777439482655] TTS generation request | Language: hi-IN | Text length: 107 chars
+2026-04-29 10:41:22 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 107 chars
+2026-04-29 10:41:22 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=107, model=bulbul:v3, chunk=1/1
+2026-04-29 10:41:26 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 3477.14ms
+2026-04-29 10:41:26 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 3479.98ms | Audio size: 143876 bytes (base64) | Chunks: 1
+2026-04-29 10:41:26 | INFO     | __main__ | generate_tts:406 | [tts_1777439482655] TTS generated successfully
+2026-04-29 10:41:26 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439482655] TTS Generation took 3480.77ms (threshold: 1000ms)
+2026-04-29 10:41:26 | INFO     | __main__ | generate_tts:397 | [tts_1777439486138] TTS generation request | Language: hi-IN | Text length: 114 chars
+2026-04-29 10:41:26 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 114 chars
+2026-04-29 10:41:26 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=114, model=bulbul:v3, chunk=1/1
+2026-04-29 10:41:29 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 3345.79ms
+2026-04-29 10:41:29 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 3347.36ms | Audio size: 152976 bytes (base64) | Chunks: 1
+2026-04-29 10:41:29 | INFO     | __main__ | generate_tts:406 | [tts_1777439486138] TTS generated successfully
+2026-04-29 10:41:29 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439486138] TTS Generation took 3347.88ms (threshold: 1000ms)
+2026-04-29 10:41:29 | INFO     | __main__ | generate_tts:397 | [tts_1777439489489] TTS generation request | Language: hi-IN | Text length: 148 chars
+2026-04-29 10:41:29 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 148 chars
+2026-04-29 10:41:29 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=148, model=bulbul:v3, chunk=1/1
+2026-04-29 10:41:34 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 5042.81ms
+2026-04-29 10:41:34 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 5044.09ms | Audio size: 225796 bytes (base64) | Chunks: 1
+2026-04-29 10:41:34 | INFO     | __main__ | generate_tts:406 | [tts_1777439489489] TTS generated successfully
+2026-04-29 10:41:34 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439489489] TTS Generation took 5044.57ms (threshold: 1000ms)
+2026-04-29 10:41:34 | INFO     | __main__ | generate_tts:397 | [tts_1777439494536] TTS generation request | Language: hi-IN | Text length: 110 chars
+2026-04-29 10:41:34 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 110 chars
+2026-04-29 10:41:34 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=110, model=bulbul:v3, chunk=1/1
+2026-04-29 10:41:38 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 4353.97ms
+2026-04-29 10:41:38 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 4355.61ms | Audio size: 143876 bytes (base64) | Chunks: 1
+2026-04-29 10:41:38 | INFO     | __main__ | generate_tts:406 | [tts_1777439494536] TTS generated successfully
+2026-04-29 10:41:38 | WARNING  | __main__ | log_performance:124 | Performance: [tts_1777439494536] TTS Generation took 4356.09ms (threshold: 1000ms)
+2026-04-30 12:53:07 | INFO     | __main__ | lifespan:66 | ============================================================
+2026-04-30 12:53:07 | INFO     | __main__ | lifespan:67 | Shutting down application...
+2026-04-30 12:53:07 | INFO     | __main__ | lifespan:68 | ============================================================
+2026-04-30 12:53:07 | INFO     | __main__ | lifespan:73 | ✓ Elasticsearch connection closed
+2026-04-30 12:53:07 | INFO     | __main__ | lifespan:77 | ✅ Shutdown complete
+2026-04-30 12:53:07 | INFO     | __main__ | lifespan:78 | ============================================================

@@ -1,0 +1,756 @@
+2026-04-02 17:24:42 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:25:04 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:25:32 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:25:54 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:26:13 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:26:13 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:26:13 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:26:13 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:26:13 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:26:13 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:26:13 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:26:15 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:26:15 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:26:15 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:26:15 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:26:34 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:26:34 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:26:34 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:26:34 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:26:34 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:26:34 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:26:34 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:26:34 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:26:34 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:26:34 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:26:34 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:26:35 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:26:35 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:26:37 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:26:37 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:26:37 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:26:37 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:26:51 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:26:51 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:26:51 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:26:51 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:26:51 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:26:51 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:26:51 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:26:51 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:26:51 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:26:51 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:26:51 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:26:51 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:26:51 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:26:53 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:26:53 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:26:53 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:26:53 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:27:02 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:27:02 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:27:02 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:27:02 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:27:02 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:27:02 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:27:03 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:27:03 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:27:03 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:27:03 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:27:03 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:27:03 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:27:03 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:27:05 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:27:05 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:27:05 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:27:05 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:27:12 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:27:12 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:27:12 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:27:12 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:27:12 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:27:12 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:27:15 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:27:15 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:27:15 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:27:15 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:27:15 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:27:15 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:27:15 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:27:17 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:27:17 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:27:17 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:27:17 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:27:33 | INFO     | app | transcribe_speech:382 | [transcribe_1775131053763] Transcription request received | File: recording.wav | Content-Type: audio/wav
+2026-04-02 17:27:33 | INFO     | app | transcribe_speech:387 | [transcribe_1775131053763] Audio file read | Size: 81440 bytes
+2026-04-02 17:27:33 | INFO     | sarvam_stt | transcribe_audio:20 | Starting audio transcription | Audio size: 81440 bytes
+2026-04-02 17:27:33 | INFO     | sarvam_stt | log_api_call:105 | API Call: Sarvam STT | Endpoint: https://api.sarvam.ai/speech-to-text | Params: audio_size=81440
+2026-04-02 17:27:34 | INFO     | sarvam_stt | log_api_response:111 | API Response: Sarvam STT | Status: 200 | Duration: 1039.29ms
+2026-04-02 17:27:34 | INFO     | sarvam_stt | transcribe_audio:61 | Transcription successful | Language: en-IN | Transcript length: 43 chars | Duration: 1039.99ms
+2026-04-02 17:27:34 | INFO     | app | transcribe_speech:395 | [transcribe_1775131053763] Transcription successful | Language: en-IN | Duration: 1042.80ms
+2026-04-02 17:27:54 | INFO     | app | transcribe_speech:382 | [transcribe_1775131074333] Transcription request received | File: recording.wav | Content-Type: audio/wav
+2026-04-02 17:27:54 | INFO     | app | transcribe_speech:387 | [transcribe_1775131074333] Audio file read | Size: 50528 bytes
+2026-04-02 17:27:54 | INFO     | sarvam_stt | transcribe_audio:20 | Starting audio transcription | Audio size: 50528 bytes
+2026-04-02 17:27:54 | INFO     | sarvam_stt | log_api_call:105 | API Call: Sarvam STT | Endpoint: https://api.sarvam.ai/speech-to-text | Params: audio_size=50528
+2026-04-02 17:27:55 | INFO     | sarvam_stt | log_api_response:111 | API Response: Sarvam STT | Status: 200 | Duration: 1322.29ms
+2026-04-02 17:27:55 | INFO     | sarvam_stt | transcribe_audio:61 | Transcription successful | Language: en-IN | Transcript length: 45 chars | Duration: 1322.83ms
+2026-04-02 17:27:55 | INFO     | app | transcribe_speech:395 | [transcribe_1775131074333] Transcription successful | Language: en-IN | Duration: 1325.26ms
+2026-04-02 17:27:56 | INFO     | app | process_voice_query:299 | [voice_1775131076463] Voice query request received | Language: en-IN | Query length: 45 chars
+2026-04-02 17:27:56 | INFO     | app | process_voice_query:310 | [voice_1775131076463] Query is in English, skipping translation
+2026-04-02 17:27:56 | INFO     | app | process_voice_query:318 | [voice_1775131076463] Step 2: Processing RAG query
+2026-04-02 17:28:05 | WARNING  | app | log_performance:124 | Performance: [voice_1775131076463] RAG Processing took 8615.93ms (threshold: 1000ms)
+2026-04-02 17:28:05 | INFO     | app | process_voice_query:338 | [voice_1775131076463] Step 4: Generating TTS in en-IN
+2026-04-02 17:28:05 | INFO     | sarvam_tts | text_to_speech:20 | Generating TTS | Language: en-IN | Speaker: priya | Text length: 181 chars
+2026-04-02 17:28:05 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=priya, text_length=181, model=bulbul:v3
+2026-04-02 17:28:14 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS | Status: 200 | Duration: 9319.84ms
+2026-04-02 17:28:14 | INFO     | sarvam_tts | text_to_speech:58 | TTS generation successful | Duration: 9321.81ms | Audio size: 382352 bytes (base64)
+2026-04-02 17:28:14 | INFO     | app | process_voice_query:343 | [voice_1775131076463] TTS generated successfully
+2026-04-02 17:28:14 | WARNING  | app | log_performance:124 | Performance: [voice_1775131076463] Total Voice Query Processing took 17939.53ms (threshold: 1000ms)
+2026-04-02 17:30:17 | INFO     | app | process_voice_query:299 | [voice_1775131217402] Voice query request received | Language: en-IN | Query length: 5 chars
+2026-04-02 17:30:17 | INFO     | app | process_voice_query:310 | [voice_1775131217402] Query is in English, skipping translation
+2026-04-02 17:30:17 | INFO     | app | process_voice_query:318 | [voice_1775131217402] Step 2: Processing RAG query
+2026-04-02 17:30:18 | INFO     | app | process_voice_query:338 | [voice_1775131217402] Step 4: Generating TTS in en-IN
+2026-04-02 17:30:18 | INFO     | sarvam_tts | text_to_speech:20 | Generating TTS | Language: en-IN | Speaker: priya | Text length: 52 chars
+2026-04-02 17:30:18 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=priya, text_length=52, model=bulbul:v3
+2026-04-02 17:30:21 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS | Status: 200 | Duration: 3101.47ms
+2026-04-02 17:30:21 | INFO     | sarvam_tts | text_to_speech:58 | TTS generation successful | Duration: 3102.53ms | Audio size: 81980 bytes (base64)
+2026-04-02 17:30:21 | INFO     | app | process_voice_query:343 | [voice_1775131217402] TTS generated successfully
+2026-04-02 17:30:21 | WARNING  | app | log_performance:124 | Performance: [voice_1775131217402] Total Voice Query Processing took 3733.97ms (threshold: 1000ms)
+2026-04-02 17:35:24 | INFO     | app | process_voice_query:299 | [voice_1775131524965] Voice query request received | Language: en-IN | Query length: 5 chars
+2026-04-02 17:35:24 | INFO     | app | process_voice_query:310 | [voice_1775131524965] Query is in English, skipping translation
+2026-04-02 17:35:24 | INFO     | app | process_voice_query:318 | [voice_1775131524965] Step 2: Processing RAG query
+2026-04-02 17:35:25 | INFO     | app | process_voice_query:338 | [voice_1775131524965] Step 4: Generating TTS in en-IN
+2026-04-02 17:35:25 | INFO     | sarvam_tts | text_to_speech:20 | Generating TTS | Language: en-IN | Speaker: priya | Text length: 52 chars
+2026-04-02 17:35:25 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=priya, text_length=52, model=bulbul:v3
+2026-04-02 17:35:26 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS | Status: 200 | Duration: 1671.66ms
+2026-04-02 17:35:26 | INFO     | sarvam_tts | text_to_speech:58 | TTS generation successful | Duration: 1672.60ms | Audio size: 69236 bytes (base64)
+2026-04-02 17:35:26 | INFO     | app | process_voice_query:343 | [voice_1775131524965] TTS generated successfully
+2026-04-02 17:35:26 | WARNING  | app | log_performance:124 | Performance: [voice_1775131524965] Total Voice Query Processing took 1947.70ms (threshold: 1000ms)
+2026-04-02 17:35:36 | INFO     | app | transcribe_speech:382 | [transcribe_1775131536855] Transcription request received | File: recording.wav | Content-Type: audio/wav
+2026-04-02 17:35:36 | INFO     | app | transcribe_speech:387 | [transcribe_1775131536855] Audio file read | Size: 45698 bytes
+2026-04-02 17:35:36 | INFO     | sarvam_stt | transcribe_audio:20 | Starting audio transcription | Audio size: 45698 bytes
+2026-04-02 17:35:36 | INFO     | sarvam_stt | log_api_call:105 | API Call: Sarvam STT | Endpoint: https://api.sarvam.ai/speech-to-text | Params: audio_size=45698
+2026-04-02 17:35:38 | INFO     | sarvam_stt | log_api_response:111 | API Response: Sarvam STT | Status: 200 | Duration: 1204.86ms
+2026-04-02 17:35:38 | INFO     | sarvam_stt | transcribe_audio:61 | Transcription successful | Language: en-IN | Transcript length: 45 chars | Duration: 1205.24ms
+2026-04-02 17:35:38 | INFO     | app | transcribe_speech:395 | [transcribe_1775131536855] Transcription successful | Language: en-IN | Duration: 1206.97ms
+2026-04-02 17:35:38 | INFO     | app | process_voice_query:299 | [voice_1775131538751] Voice query request received | Language: en-IN | Query length: 45 chars
+2026-04-02 17:35:38 | INFO     | app | process_voice_query:310 | [voice_1775131538751] Query is in English, skipping translation
+2026-04-02 17:35:38 | INFO     | app | process_voice_query:318 | [voice_1775131538751] Step 2: Processing RAG query
+2026-04-02 17:35:41 | WARNING  | app | log_performance:124 | Performance: [voice_1775131538751] RAG Processing took 2461.86ms (threshold: 1000ms)
+2026-04-02 17:35:41 | INFO     | app | process_voice_query:338 | [voice_1775131538751] Step 4: Generating TTS in en-IN
+2026-04-02 17:35:41 | INFO     | sarvam_tts | text_to_speech:20 | Generating TTS | Language: en-IN | Speaker: priya | Text length: 155 chars
+2026-04-02 17:35:41 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=priya, text_length=155, model=bulbul:v3
+2026-04-02 17:35:47 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS | Status: 200 | Duration: 5931.49ms
+2026-04-02 17:35:47 | INFO     | sarvam_tts | text_to_speech:58 | TTS generation successful | Duration: 5933.25ms | Audio size: 300432 bytes (base64)
+2026-04-02 17:35:47 | INFO     | app | process_voice_query:343 | [voice_1775131538751] TTS generated successfully
+2026-04-02 17:35:47 | WARNING  | app | log_performance:124 | Performance: [voice_1775131538751] Total Voice Query Processing took 8396.80ms (threshold: 1000ms)
+2026-04-02 17:36:53 | INFO     | app | transcribe_speech:382 | [transcribe_1775131613232] Transcription request received | File: recording.wav | Content-Type: audio/wav
+2026-04-02 17:36:53 | INFO     | app | transcribe_speech:387 | [transcribe_1775131613232] Audio file read | Size: 59222 bytes
+2026-04-02 17:36:53 | INFO     | sarvam_stt | transcribe_audio:20 | Starting audio transcription | Audio size: 59222 bytes
+2026-04-02 17:36:53 | INFO     | sarvam_stt | log_api_call:105 | API Call: Sarvam STT | Endpoint: https://api.sarvam.ai/speech-to-text | Params: audio_size=59222
+2026-04-02 17:36:54 | INFO     | sarvam_stt | log_api_response:111 | API Response: Sarvam STT | Status: 200 | Duration: 1163.00ms
+2026-04-02 17:36:54 | INFO     | sarvam_stt | transcribe_audio:61 | Transcription successful | Language: hi-IN | Transcript length: 53 chars | Duration: 1163.36ms
+2026-04-02 17:36:54 | INFO     | app | transcribe_speech:395 | [transcribe_1775131613232] Transcription successful | Language: hi-IN | Duration: 1164.99ms
+2026-04-02 17:36:54 | INFO     | app | process_voice_query:299 | [voice_1775131614941] Voice query request received | Language: hi-IN | Query length: 53 chars
+2026-04-02 17:36:54 | INFO     | app | process_voice_query:312 | [voice_1775131614941] Step 1: Translating query from hi-IN to English
+2026-04-02 17:36:54 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: hi-IN | Text length: 53 chars
+2026-04-02 17:36:54 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=hi-IN, target=en-IN, text_length=53
+2026-04-02 17:36:55 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 248.61ms
+2026-04-02 17:36:55 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 249.33ms | Output length: 67 chars
+2026-04-02 17:36:55 | INFO     | app | process_voice_query:318 | [voice_1775131614941] Step 2: Processing RAG query
+2026-04-02 17:36:57 | WARNING  | app | log_performance:124 | Performance: [voice_1775131614941] RAG Processing took 2607.59ms (threshold: 1000ms)
+2026-04-02 17:36:57 | INFO     | app | process_voice_query:332 | [voice_1775131614941] Step 3: Translating answer back to hi-IN
+2026-04-02 17:36:57 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: hi-IN | Text length: 207 chars
+2026-04-02 17:36:57 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=hi-IN, text_length=207
+2026-04-02 17:36:58 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 777.43ms
+2026-04-02 17:36:58 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 778.36ms | Output length: 214 chars
+2026-04-02 17:36:58 | INFO     | app | process_voice_query:338 | [voice_1775131614941] Step 4: Generating TTS in hi-IN
+2026-04-02 17:36:58 | INFO     | sarvam_tts | text_to_speech:20 | Generating TTS | Language: hi-IN | Speaker: priya | Text length: 214 chars
+2026-04-02 17:36:58 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=priya, text_length=214, model=bulbul:v3
+2026-04-02 17:37:05 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS | Status: 200 | Duration: 6818.17ms
+2026-04-02 17:37:05 | INFO     | sarvam_tts | text_to_speech:58 | TTS generation successful | Duration: 6820.50ms | Audio size: 355048 bytes (base64)
+2026-04-02 17:37:05 | INFO     | app | process_voice_query:343 | [voice_1775131614941] TTS generated successfully
+2026-04-02 17:37:05 | WARNING  | app | log_performance:124 | Performance: [voice_1775131614941] Total Voice Query Processing took 10458.17ms (threshold: 1000ms)
+2026-04-02 17:38:41 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:38:41 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:38:41 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:38:41 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:38:41 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:38:41 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:38:42 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:38:42 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:38:42 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:38:42 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:38:42 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:38:42 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:38:42 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:38:44 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:38:44 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:38:44 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:38:44 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:39:41 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:39:41 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:39:41 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:39:41 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:39:41 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:39:41 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:39:42 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:39:42 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:39:42 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:39:42 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:39:42 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:39:42 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:39:42 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:39:44 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:39:44 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:39:44 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:39:44 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:39:55 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:39:55 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:39:55 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:39:55 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:39:55 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:39:55 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:39:56 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:39:56 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:39:56 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:39:56 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:39:56 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:39:56 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:39:56 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:39:58 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:39:58 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:39:58 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:39:58 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:40:09 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:40:09 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:40:09 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:40:09 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:40:09 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:40:09 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:40:10 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:40:10 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:40:10 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:40:10 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:40:10 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:40:10 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:40:10 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:40:12 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:40:12 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:40:12 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:40:12 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:40:43 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:40:43 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:40:43 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:40:43 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:40:43 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:40:43 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:40:44 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:40:44 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:40:44 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:40:44 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:40:44 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:40:44 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:40:44 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:40:46 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:40:46 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:40:46 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:40:46 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:41:10 | INFO     | app | transcribe_speech:439 | [transcribe_1775131870112] Transcription request received | File: recording.wav | Content-Type: audio/wav
+2026-04-02 17:41:10 | INFO     | app | transcribe_speech:444 | [transcribe_1775131870112] Audio file read | Size: 51494 bytes
+2026-04-02 17:41:10 | INFO     | sarvam_stt | transcribe_audio:20 | Starting audio transcription | Audio size: 51494 bytes
+2026-04-02 17:41:10 | INFO     | sarvam_stt | log_api_call:105 | API Call: Sarvam STT | Endpoint: https://api.sarvam.ai/speech-to-text | Params: audio_size=51494
+2026-04-02 17:41:11 | INFO     | sarvam_stt | log_api_response:111 | API Response: Sarvam STT | Status: 200 | Duration: 1083.52ms
+2026-04-02 17:41:11 | INFO     | sarvam_stt | transcribe_audio:61 | Transcription successful | Language: en-IN | Transcript length: 45 chars | Duration: 1083.87ms
+2026-04-02 17:41:11 | INFO     | app | transcribe_speech:452 | [transcribe_1775131870112] Transcription successful | Language: en-IN | Duration: 1085.93ms
+2026-04-02 17:41:11 | INFO     | app | process_voice_query:312 | [voice_1775131871817] Voice query request received | Language: en-IN | Query length: 45 chars
+2026-04-02 17:41:11 | INFO     | app | process_voice_query:323 | [voice_1775131871817] Query is in English, skipping translation
+2026-04-02 17:41:11 | INFO     | app | process_voice_query:331 | [voice_1775131871817] Step 2: Processing RAG query
+2026-04-02 17:41:16 | WARNING  | app | log_performance:124 | Performance: [voice_1775131871817] RAG Processing took 5088.55ms (threshold: 1000ms)
+2026-04-02 17:41:16 | WARNING  | app | log_performance:124 | Performance: [voice_1775131871817] Total Voice Query Processing (without TTS) took 5089.44ms (threshold: 1000ms)
+2026-04-02 17:41:16 | INFO     | app | generate_tts:385 | [tts_1775131876929] TTS generation request | Language: en-IN | Text length: 118 chars
+2026-04-02 17:41:16 | INFO     | sarvam_tts | text_to_speech:20 | Generating TTS | Language: en-IN | Speaker: priya | Text length: 118 chars
+2026-04-02 17:41:16 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=priya, text_length=118, model=bulbul:v3
+2026-04-02 17:41:22 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS | Status: 200 | Duration: 5204.16ms
+2026-04-02 17:41:22 | INFO     | sarvam_tts | text_to_speech:58 | TTS generation successful | Duration: 5205.95ms | Audio size: 245820 bytes (base64)
+2026-04-02 17:41:22 | INFO     | app | generate_tts:394 | [tts_1775131876929] TTS generated successfully
+2026-04-02 17:41:22 | WARNING  | app | log_performance:124 | Performance: [tts_1775131876929] TTS Generation took 5206.61ms (threshold: 1000ms)
+2026-04-02 17:41:34 | INFO     | app | transcribe_speech:439 | [transcribe_1775131894099] Transcription request received | File: recording.wav | Content-Type: audio/wav
+2026-04-02 17:41:34 | INFO     | app | transcribe_speech:444 | [transcribe_1775131894099] Audio file read | Size: 52460 bytes
+2026-04-02 17:41:34 | INFO     | sarvam_stt | transcribe_audio:20 | Starting audio transcription | Audio size: 52460 bytes
+2026-04-02 17:41:34 | INFO     | sarvam_stt | log_api_call:105 | API Call: Sarvam STT | Endpoint: https://api.sarvam.ai/speech-to-text | Params: audio_size=52460
+2026-04-02 17:41:35 | INFO     | sarvam_stt | log_api_response:111 | API Response: Sarvam STT | Status: 200 | Duration: 1168.19ms
+2026-04-02 17:41:35 | INFO     | sarvam_stt | transcribe_audio:61 | Transcription successful | Language: hi-IN | Transcript length: 51 chars | Duration: 1168.46ms
+2026-04-02 17:41:35 | INFO     | app | transcribe_speech:452 | [transcribe_1775131894099] Transcription successful | Language: hi-IN | Duration: 1169.93ms
+2026-04-02 17:41:35 | INFO     | app | process_voice_query:312 | [voice_1775131895680] Voice query request received | Language: hi-IN | Query length: 51 chars
+2026-04-02 17:41:35 | INFO     | app | process_voice_query:325 | [voice_1775131895680] Step 1: Translating query from hi-IN to English
+2026-04-02 17:41:35 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: hi-IN | Text length: 51 chars
+2026-04-02 17:41:35 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=hi-IN, target=en-IN, text_length=51
+2026-04-02 17:41:35 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 261.57ms
+2026-04-02 17:41:35 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 262.07ms | Output length: 67 chars
+2026-04-02 17:41:35 | INFO     | app | process_voice_query:331 | [voice_1775131895680] Step 2: Processing RAG query
+2026-04-02 17:41:37 | WARNING  | app | log_performance:124 | Performance: [voice_1775131895680] RAG Processing took 1855.08ms (threshold: 1000ms)
+2026-04-02 17:41:37 | INFO     | app | process_voice_query:345 | [voice_1775131895680] Step 3: Translating answer back to hi-IN
+2026-04-02 17:41:37 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: hi-IN | Text length: 315 chars
+2026-04-02 17:41:37 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=hi-IN, text_length=315
+2026-04-02 17:41:38 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 696.23ms
+2026-04-02 17:41:38 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 696.77ms | Output length: 276 chars
+2026-04-02 17:41:38 | WARNING  | app | log_performance:124 | Performance: [voice_1775131895680] Total Voice Query Processing (without TTS) took 2815.28ms (threshold: 1000ms)
+2026-04-02 17:41:38 | INFO     | app | generate_tts:385 | [tts_1775131898500] TTS generation request | Language: hi-IN | Text length: 276 chars
+2026-04-02 17:41:38 | INFO     | sarvam_tts | text_to_speech:20 | Generating TTS | Language: hi-IN | Speaker: priya | Text length: 276 chars
+2026-04-02 17:41:38 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=priya, text_length=276, model=bulbul:v3
+2026-04-02 17:41:44 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS | Status: 200 | Duration: 6225.69ms
+2026-04-02 17:41:44 | INFO     | sarvam_tts | text_to_speech:58 | TTS generation successful | Duration: 6227.93ms | Audio size: 533764 bytes (base64)
+2026-04-02 17:41:44 | INFO     | app | generate_tts:394 | [tts_1775131898500] TTS generated successfully
+2026-04-02 17:41:44 | WARNING  | app | log_performance:124 | Performance: [tts_1775131898500] TTS Generation took 6228.31ms (threshold: 1000ms)
+2026-04-02 17:42:28 | INFO     | app | process_voice_query:312 | [voice_1775131948923] Voice query request received | Language: hi-IN | Query length: 51 chars
+2026-04-02 17:42:28 | INFO     | app | process_voice_query:325 | [voice_1775131948923] Step 1: Translating query from hi-IN to English
+2026-04-02 17:42:28 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: hi-IN | Text length: 51 chars
+2026-04-02 17:42:28 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=hi-IN, target=en-IN, text_length=51
+2026-04-02 17:42:29 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 267.74ms
+2026-04-02 17:42:29 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 268.30ms | Output length: 67 chars
+2026-04-02 17:42:29 | INFO     | app | process_voice_query:331 | [voice_1775131948923] Step 2: Processing RAG query
+2026-04-02 17:42:31 | WARNING  | app | log_performance:124 | Performance: [voice_1775131948923] RAG Processing took 2637.18ms (threshold: 1000ms)
+2026-04-02 17:42:31 | INFO     | app | process_voice_query:345 | [voice_1775131948923] Step 3: Translating answer back to hi-IN
+2026-04-02 17:42:31 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: hi-IN | Text length: 547 chars
+2026-04-02 17:42:31 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=hi-IN, text_length=547
+2026-04-02 17:42:33 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 1479.86ms
+2026-04-02 17:42:33 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 1480.31ms | Output length: 567 chars
+2026-04-02 17:42:33 | WARNING  | app | log_performance:124 | Performance: [voice_1775131948923] Total Voice Query Processing (without TTS) took 4388.02ms (threshold: 1000ms)
+2026-04-02 17:42:33 | INFO     | app | generate_tts:385 | [tts_1775131953318] TTS generation request | Language: hi-IN | Text length: 567 chars
+2026-04-02 17:42:33 | INFO     | sarvam_tts | text_to_speech:20 | Generating TTS | Language: hi-IN | Speaker: priya | Text length: 567 chars
+2026-04-02 17:42:33 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=priya, text_length=567, model=bulbul:v3
+2026-04-02 17:42:33 | WARNING  | sarvam_tts | log_api_response:113 | API Response: Sarvam TTS | Status: 400 | Duration: 68.14ms
+2026-04-02 17:42:33 | ERROR    | sarvam_tts | text_to_speech:72 | TTS API error | Status: 400 | Response: {"error":{"message":"Validation Error(s):\n- inputs.0: String should have at most 500 characters","code":"invalid_request_error","request_id":"20260402_d85385e8-afc7-46cc-8090-7fe56077c6f2"}}
+2026-04-02 17:42:33 | WARNING  | app | generate_tts:404 | [tts_1775131953318] TTS generation failed: API Error: 400
+2026-04-02 17:43:17 | INFO     | app | process_voice_query:312 | [voice_1775131997956] Voice query request received | Language: hi-IN | Query length: 45 chars
+2026-04-02 17:43:17 | INFO     | app | process_voice_query:325 | [voice_1775131997956] Step 1: Translating query from hi-IN to English
+2026-04-02 17:43:17 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: hi-IN | Text length: 45 chars
+2026-04-02 17:43:17 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=hi-IN, target=en-IN, text_length=45
+2026-04-02 17:43:18 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 252.03ms
+2026-04-02 17:43:18 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 252.56ms | Output length: 45 chars
+2026-04-02 17:43:18 | INFO     | app | process_voice_query:331 | [voice_1775131997956] Step 2: Processing RAG query
+2026-04-02 17:43:20 | WARNING  | app | log_performance:124 | Performance: [voice_1775131997956] RAG Processing took 1963.44ms (threshold: 1000ms)
+2026-04-02 17:43:20 | INFO     | app | process_voice_query:345 | [voice_1775131997956] Step 3: Translating answer back to hi-IN
+2026-04-02 17:43:20 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: hi-IN | Text length: 154 chars
+2026-04-02 17:43:20 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=hi-IN, text_length=154
+2026-04-02 17:43:20 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 631.82ms
+2026-04-02 17:43:20 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 632.93ms | Output length: 152 chars
+2026-04-02 17:43:20 | WARNING  | app | log_performance:124 | Performance: [voice_1775131997956] Total Voice Query Processing (without TTS) took 2851.43ms (threshold: 1000ms)
+2026-04-02 17:43:20 | INFO     | app | generate_tts:385 | [tts_1775132000813] TTS generation request | Language: hi-IN | Text length: 152 chars
+2026-04-02 17:43:20 | INFO     | sarvam_tts | text_to_speech:20 | Generating TTS | Language: hi-IN | Speaker: priya | Text length: 152 chars
+2026-04-02 17:43:20 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=priya, text_length=152, model=bulbul:v3
+2026-04-02 17:43:28 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS | Status: 200 | Duration: 7763.35ms
+2026-04-02 17:43:28 | INFO     | sarvam_tts | text_to_speech:58 | TTS generation successful | Duration: 7765.17ms | Audio size: 344124 bytes (base64)
+2026-04-02 17:43:28 | INFO     | app | generate_tts:394 | [tts_1775132000813] TTS generated successfully
+2026-04-02 17:43:28 | WARNING  | app | log_performance:124 | Performance: [tts_1775132000813] TTS Generation took 7769.55ms (threshold: 1000ms)
+2026-04-02 17:44:27 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:44:27 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:44:27 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:44:27 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:44:27 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:44:27 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:44:28 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:44:28 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:44:28 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:44:28 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:44:28 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:44:28 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:44:28 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:44:29 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:44:29 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:44:29 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:44:29 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:45:09 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:45:09 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:45:09 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:45:09 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:45:09 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:45:09 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:45:09 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:45:20 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:45:20 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:45:20 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:45:20 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:45:20 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:45:20 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:45:20 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:45:21 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:45:21 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:45:21 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:45:21 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:45:44 | INFO     | app | process_voice_query:312 | [voice_1775132144636] Voice query request received | Language: en-IN | Query length: 45 chars
+2026-04-02 17:45:44 | INFO     | app | process_voice_query:323 | [voice_1775132144636] Query is in English, skipping translation
+2026-04-02 17:45:44 | INFO     | app | process_voice_query:331 | [voice_1775132144636] Step 2: Processing RAG query
+2026-04-02 17:45:49 | WARNING  | app | log_performance:124 | Performance: [voice_1775132144636] RAG Processing took 4556.20ms (threshold: 1000ms)
+2026-04-02 17:45:49 | WARNING  | app | log_performance:124 | Performance: [voice_1775132144636] Total Voice Query Processing (without TTS) took 4557.07ms (threshold: 1000ms)
+2026-04-02 17:45:49 | INFO     | app | generate_tts:385 | [tts_1775132149199] TTS generation request | Language: en-IN | Text length: 545 chars
+2026-04-02 17:45:49 | WARNING  | sarvam_tts | text_to_speech:26 | Text truncated from 545 to 500 chars for TTS
+2026-04-02 17:45:49 | INFO     | sarvam_tts | text_to_speech:28 | Generating TTS | Language: en-IN | Speaker: priya | Text length: 500 chars
+2026-04-02 17:45:49 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=priya, text_length=500, model=bulbul:v3
+2026-04-02 17:45:57 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS | Status: 200 | Duration: 8184.32ms
+2026-04-02 17:45:57 | INFO     | sarvam_tts | text_to_speech:66 | TTS generation successful | Duration: 8187.93ms | Audio size: 934576 bytes (base64)
+2026-04-02 17:45:57 | INFO     | app | generate_tts:394 | [tts_1775132149199] TTS generated successfully
+2026-04-02 17:45:57 | WARNING  | app | log_performance:124 | Performance: [tts_1775132149199] TTS Generation took 8188.70ms (threshold: 1000ms)
+2026-04-02 17:46:05 | INFO     | app | transcribe_speech:439 | [transcribe_1775132165381] Transcription request received | File: recording.wav | Content-Type: audio/wav
+2026-04-02 17:46:05 | INFO     | app | transcribe_speech:444 | [transcribe_1775132165381] Audio file read | Size: 58256 bytes
+2026-04-02 17:46:05 | INFO     | sarvam_stt | transcribe_audio:20 | Starting audio transcription | Audio size: 58256 bytes
+2026-04-02 17:46:05 | INFO     | sarvam_stt | log_api_call:105 | API Call: Sarvam STT | Endpoint: https://api.sarvam.ai/speech-to-text | Params: audio_size=58256
+2026-04-02 17:46:06 | INFO     | sarvam_stt | log_api_response:111 | API Response: Sarvam STT | Status: 200 | Duration: 1183.43ms
+2026-04-02 17:46:06 | INFO     | sarvam_stt | transcribe_audio:61 | Transcription successful | Language: hi-IN | Transcript length: 51 chars | Duration: 1184.11ms
+2026-04-02 17:46:06 | INFO     | app | transcribe_speech:452 | [transcribe_1775132165381] Transcription successful | Language: hi-IN | Duration: 1189.57ms
+2026-04-02 17:46:07 | INFO     | app | process_voice_query:312 | [voice_1775132167071] Voice query request received | Language: hi-IN | Query length: 51 chars
+2026-04-02 17:46:07 | INFO     | app | process_voice_query:325 | [voice_1775132167071] Step 1: Translating query from hi-IN to English
+2026-04-02 17:46:07 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: hi-IN | Text length: 51 chars
+2026-04-02 17:46:07 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=hi-IN, target=en-IN, text_length=51
+2026-04-02 17:46:07 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 254.93ms
+2026-04-02 17:46:07 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 255.47ms | Output length: 67 chars
+2026-04-02 17:46:07 | INFO     | app | process_voice_query:331 | [voice_1775132167071] Step 2: Processing RAG query
+2026-04-02 17:46:12 | WARNING  | app | log_performance:124 | Performance: [voice_1775132167071] RAG Processing took 4853.83ms (threshold: 1000ms)
+2026-04-02 17:46:12 | INFO     | app | process_voice_query:345 | [voice_1775132167071] Step 3: Translating answer back to hi-IN
+2026-04-02 17:46:12 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: hi-IN | Text length: 499 chars
+2026-04-02 17:46:12 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=hi-IN, text_length=499
+2026-04-02 17:46:12 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 793.39ms
+2026-04-02 17:46:12 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 794.19ms | Output length: 462 chars
+2026-04-02 17:46:12 | WARNING  | app | log_performance:124 | Performance: [voice_1775132167071] Total Voice Query Processing (without TTS) took 5906.31ms (threshold: 1000ms)
+2026-04-02 17:46:12 | INFO     | app | generate_tts:385 | [tts_1775132172984] TTS generation request | Language: hi-IN | Text length: 462 chars
+2026-04-02 17:46:12 | INFO     | sarvam_tts | text_to_speech:28 | Generating TTS | Language: hi-IN | Speaker: priya | Text length: 462 chars
+2026-04-02 17:46:12 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=priya, text_length=462, model=bulbul:v3
+2026-04-02 17:46:20 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS | Status: 200 | Duration: 7989.81ms
+2026-04-02 17:46:20 | INFO     | sarvam_tts | text_to_speech:66 | TTS generation successful | Duration: 7992.34ms | Audio size: 787120 bytes (base64)
+2026-04-02 17:46:20 | INFO     | app | generate_tts:394 | [tts_1775132172984] TTS generated successfully
+2026-04-02 17:46:20 | WARNING  | app | log_performance:124 | Performance: [tts_1775132172984] TTS Generation took 7992.75ms (threshold: 1000ms)
+2026-04-02 17:46:24 | INFO     | app | process_voice_query:312 | [voice_1775132184662] Voice query request received | Language: hi-IN | Query length: 51 chars
+2026-04-02 17:46:24 | INFO     | app | process_voice_query:325 | [voice_1775132184662] Step 1: Translating query from hi-IN to English
+2026-04-02 17:46:24 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: hi-IN | Text length: 51 chars
+2026-04-02 17:46:24 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=hi-IN, target=en-IN, text_length=51
+2026-04-02 17:46:25 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 375.52ms
+2026-04-02 17:46:25 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 376.88ms | Output length: 77 chars
+2026-04-02 17:46:25 | INFO     | app | process_voice_query:331 | [voice_1775132184662] Step 2: Processing RAG query
+2026-04-02 17:46:26 | WARNING  | app | log_performance:124 | Performance: [voice_1775132184662] RAG Processing took 1233.77ms (threshold: 1000ms)
+2026-04-02 17:46:26 | INFO     | app | process_voice_query:345 | [voice_1775132184662] Step 3: Translating answer back to hi-IN
+2026-04-02 17:46:26 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: hi-IN | Text length: 54 chars
+2026-04-02 17:46:26 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=hi-IN, text_length=54
+2026-04-02 17:46:26 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 417.32ms
+2026-04-02 17:46:26 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 418.02ms | Output length: 57 chars
+2026-04-02 17:46:26 | WARNING  | app | log_performance:124 | Performance: [voice_1775132184662] Total Voice Query Processing (without TTS) took 2030.40ms (threshold: 1000ms)
+2026-04-02 17:46:26 | INFO     | app | generate_tts:385 | [tts_1775132186698] TTS generation request | Language: hi-IN | Text length: 57 chars
+2026-04-02 17:46:26 | INFO     | sarvam_tts | text_to_speech:28 | Generating TTS | Language: hi-IN | Speaker: priya | Text length: 57 chars
+2026-04-02 17:46:26 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=priya, text_length=57, model=bulbul:v3
+2026-04-02 17:46:30 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS | Status: 200 | Duration: 3844.46ms
+2026-04-02 17:46:30 | INFO     | sarvam_tts | text_to_speech:66 | TTS generation successful | Duration: 3845.90ms | Audio size: 162080 bytes (base64)
+2026-04-02 17:46:30 | INFO     | app | generate_tts:394 | [tts_1775132186698] TTS generated successfully
+2026-04-02 17:46:30 | WARNING  | app | log_performance:124 | Performance: [tts_1775132186698] TTS Generation took 3847.11ms (threshold: 1000ms)
+2026-04-02 17:49:16 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:49:16 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:49:16 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:49:16 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:49:16 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:49:16 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:49:17 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:49:17 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:49:17 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:49:17 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:49:17 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:49:17 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:49:17 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:49:19 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:49:19 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:49:19 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:49:19 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:49:29 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:49:29 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:49:29 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:49:29 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:49:29 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:49:29 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:49:29 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:49:44 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:49:44 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:49:44 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:49:44 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:49:44 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:49:44 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:49:44 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:49:46 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:49:46 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:49:46 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:49:46 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:49:51 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 17:49:51 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 17:49:51 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 17:49:51 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 17:49:51 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 17:49:51 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 17:49:52 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 17:49:52 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 17:49:52 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 17:49:52 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 17:49:52 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 17:49:52 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 17:49:52 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 17:49:55 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 17:49:55 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 17:49:55 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 17:49:55 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 17:51:16 | INFO     | app | transcribe_speech:439 | [transcribe_1775132476491] Transcription request received | File: recording.wav | Content-Type: audio/wav
+2026-04-02 17:51:16 | INFO     | app | transcribe_speech:444 | [transcribe_1775132476491] Audio file read | Size: 70814 bytes
+2026-04-02 17:51:16 | INFO     | sarvam_stt | transcribe_audio:20 | Starting audio transcription | Audio size: 70814 bytes
+2026-04-02 17:51:16 | INFO     | sarvam_stt | log_api_call:105 | API Call: Sarvam STT | Endpoint: https://api.sarvam.ai/speech-to-text | Params: audio_size=70814
+2026-04-02 17:51:17 | INFO     | sarvam_stt | log_api_response:111 | API Response: Sarvam STT | Status: 200 | Duration: 1095.43ms
+2026-04-02 17:51:17 | INFO     | sarvam_stt | transcribe_audio:61 | Transcription successful | Language: gu-IN | Transcript length: 42 chars | Duration: 1095.88ms
+2026-04-02 17:51:17 | INFO     | app | transcribe_speech:452 | [transcribe_1775132476491] Transcription successful | Language: gu-IN | Duration: 1098.02ms
+2026-04-02 17:51:18 | INFO     | app | process_voice_query:312 | [voice_1775132478039] Voice query request received | Language: gu-IN | Query length: 42 chars
+2026-04-02 17:51:18 | INFO     | app | process_voice_query:325 | [voice_1775132478039] Step 1: Translating query from gu-IN to English
+2026-04-02 17:51:18 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: gu-IN | Text length: 42 chars
+2026-04-02 17:51:18 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=gu-IN, target=en-IN, text_length=42
+2026-04-02 17:51:18 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 420.06ms
+2026-04-02 17:51:18 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 420.50ms | Output length: 48 chars
+2026-04-02 17:51:18 | INFO     | app | process_voice_query:331 | [voice_1775132478039] Step 2: Processing RAG query
+2026-04-02 17:51:21 | WARNING  | app | log_performance:124 | Performance: [voice_1775132478039] RAG Processing took 2800.75ms (threshold: 1000ms)
+2026-04-02 17:51:21 | INFO     | app | process_voice_query:345 | [voice_1775132478039] Step 3: Translating answer back to gu-IN
+2026-04-02 17:51:21 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: gu-IN | Text length: 144 chars
+2026-04-02 17:51:21 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=gu-IN, text_length=144
+2026-04-02 17:51:23 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 1908.92ms
+2026-04-02 17:51:23 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 1909.94ms | Output length: 124 chars
+2026-04-02 17:51:23 | WARNING  | app | log_performance:124 | Performance: [voice_1775132478039] Total Voice Query Processing (without TTS) took 5132.53ms (threshold: 1000ms)
+2026-04-02 17:51:23 | INFO     | app | generate_tts:385 | [tts_1775132483191] TTS generation request | Language: gu-IN | Text length: 124 chars
+2026-04-02 17:51:23 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: gu-IN | Speaker: priya | Text length: 124 chars
+2026-04-02 17:51:23 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=gu-IN, speaker=priya, text_length=125, model=bulbul:v3, chunk=1/1
+2026-04-02 17:51:29 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 6186.62ms
+2026-04-02 17:51:29 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 6188.00ms | Audio size: 313176 bytes (base64) | Chunks: 1
+2026-04-02 17:51:29 | INFO     | app | generate_tts:394 | [tts_1775132483191] TTS generated successfully
+2026-04-02 17:51:29 | WARNING  | app | log_performance:124 | Performance: [tts_1775132483191] TTS Generation took 6188.59ms (threshold: 1000ms)
+2026-04-02 17:55:13 | INFO     | app | process_voice_query:312 | [voice_1775132713437] Voice query request received | Language: gu-IN | Query length: 42 chars
+2026-04-02 17:55:13 | INFO     | app | process_voice_query:325 | [voice_1775132713437] Step 1: Translating query from gu-IN to English
+2026-04-02 17:55:13 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: gu-IN | Text length: 42 chars
+2026-04-02 17:55:13 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=gu-IN, target=en-IN, text_length=42
+2026-04-02 17:55:14 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 596.59ms
+2026-04-02 17:55:14 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 596.79ms | Output length: 48 chars
+2026-04-02 17:55:14 | INFO     | app | process_voice_query:331 | [voice_1775132713437] Step 2: Processing RAG query
+2026-04-02 17:55:15 | WARNING  | app | log_performance:124 | Performance: [voice_1775132713437] RAG Processing took 1580.89ms (threshold: 1000ms)
+2026-04-02 17:55:15 | INFO     | app | process_voice_query:345 | [voice_1775132713437] Step 3: Translating answer back to gu-IN
+2026-04-02 17:55:15 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: gu-IN | Text length: 293 chars
+2026-04-02 17:55:15 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=gu-IN, text_length=293
+2026-04-02 17:55:16 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 875.01ms
+2026-04-02 17:55:16 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 875.43ms | Output length: 249 chars
+2026-04-02 17:55:16 | WARNING  | app | log_performance:124 | Performance: [voice_1775132713437] Total Voice Query Processing (without TTS) took 3053.92ms (threshold: 1000ms)
+2026-04-02 17:55:16 | INFO     | app | generate_tts:385 | [tts_1775132716496] TTS generation request | Language: gu-IN | Text length: 249 chars
+2026-04-02 17:55:16 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: gu-IN | Speaker: priya | Text length: 249 chars
+2026-04-02 17:55:16 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=gu-IN, speaker=priya, text_length=250, model=bulbul:v3, chunk=1/1
+2026-04-02 17:55:26 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 9964.69ms
+2026-04-02 17:55:26 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 9966.76ms | Audio size: 477016 bytes (base64) | Chunks: 1
+2026-04-02 17:55:26 | INFO     | app | generate_tts:394 | [tts_1775132716496] TTS generated successfully
+2026-04-02 17:55:26 | WARNING  | app | log_performance:124 | Performance: [tts_1775132716496] TTS Generation took 9967.26ms (threshold: 1000ms)
+2026-04-02 17:56:38 | INFO     | app | process_voice_query:312 | [voice_1775132798441] Voice query request received | Language: gu-IN | Query length: 42 chars
+2026-04-02 17:56:38 | INFO     | app | process_voice_query:325 | [voice_1775132798441] Step 1: Translating query from gu-IN to English
+2026-04-02 17:56:38 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: gu-IN | Text length: 42 chars
+2026-04-02 17:56:38 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=gu-IN, target=en-IN, text_length=42
+2026-04-02 17:56:38 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 243.98ms
+2026-04-02 17:56:38 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 244.78ms | Output length: 48 chars
+2026-04-02 17:56:38 | INFO     | app | process_voice_query:331 | [voice_1775132798441] Step 2: Processing RAG query
+2026-04-02 17:56:41 | WARNING  | app | log_performance:124 | Performance: [voice_1775132798441] RAG Processing took 2486.84ms (threshold: 1000ms)
+2026-04-02 17:56:41 | INFO     | app | process_voice_query:345 | [voice_1775132798441] Step 3: Translating answer back to gu-IN
+2026-04-02 17:56:41 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: gu-IN | Text length: 281 chars
+2026-04-02 17:56:41 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=gu-IN, text_length=281
+2026-04-02 17:56:41 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 648.23ms
+2026-04-02 17:56:41 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 649.01ms | Output length: 269 chars
+2026-04-02 17:56:41 | WARNING  | app | log_performance:124 | Performance: [voice_1775132798441] Total Voice Query Processing (without TTS) took 3383.82ms (threshold: 1000ms)
+2026-04-02 17:56:41 | INFO     | app | generate_tts:385 | [tts_1775132801836] TTS generation request | Language: gu-IN | Text length: 269 chars
+2026-04-02 17:56:41 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: gu-IN | Speaker: priya | Text length: 269 chars
+2026-04-02 17:56:41 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=gu-IN, speaker=priya, text_length=270, model=bulbul:v3, chunk=1/1
+2026-04-02 17:56:50 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 9108.91ms
+2026-04-02 17:56:50 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 9110.70ms | Audio size: 562888 bytes (base64) | Chunks: 1
+2026-04-02 17:56:50 | INFO     | app | generate_tts:394 | [tts_1775132801836] TTS generated successfully
+2026-04-02 17:56:50 | WARNING  | app | log_performance:124 | Performance: [tts_1775132801836] TTS Generation took 9111.62ms (threshold: 1000ms)
+2026-04-02 17:57:53 | INFO     | app | process_voice_query:312 | [voice_1775132873553] Voice query request received | Language: gu-IN | Query length: 42 chars
+2026-04-02 17:57:53 | INFO     | app | process_voice_query:325 | [voice_1775132873553] Step 1: Translating query from gu-IN to English
+2026-04-02 17:57:53 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: gu-IN | Text length: 42 chars
+2026-04-02 17:57:53 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=gu-IN, target=en-IN, text_length=42
+2026-04-02 17:57:53 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 240.35ms
+2026-04-02 17:57:53 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 240.79ms | Output length: 48 chars
+2026-04-02 17:57:53 | INFO     | app | process_voice_query:331 | [voice_1775132873553] Step 2: Processing RAG query
+2026-04-02 17:57:56 | WARNING  | app | log_performance:124 | Performance: [voice_1775132873553] RAG Processing took 3013.28ms (threshold: 1000ms)
+2026-04-02 17:57:56 | INFO     | app | process_voice_query:345 | [voice_1775132873553] Step 3: Translating answer back to gu-IN
+2026-04-02 17:57:56 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: gu-IN | Text length: 363 chars
+2026-04-02 17:57:56 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=gu-IN, text_length=363
+2026-04-02 17:57:57 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 986.90ms
+2026-04-02 17:57:57 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 987.71ms | Output length: 382 chars
+2026-04-02 17:57:57 | WARNING  | app | log_performance:124 | Performance: [voice_1775132873553] Total Voice Query Processing (without TTS) took 4243.52ms (threshold: 1000ms)
+2026-04-02 17:57:57 | INFO     | app | generate_tts:385 | [tts_1775132877802] TTS generation request | Language: gu-IN | Text length: 382 chars
+2026-04-02 17:57:57 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: gu-IN | Speaker: priya | Text length: 382 chars
+2026-04-02 17:57:57 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=gu-IN, speaker=priya, text_length=384, model=bulbul:v3, chunk=1/1
+2026-04-02 17:58:07 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 10195.60ms
+2026-04-02 17:58:08 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 10197.96ms | Audio size: 752216 bytes (base64) | Chunks: 1
+2026-04-02 17:58:08 | INFO     | app | generate_tts:394 | [tts_1775132877802] TTS generated successfully
+2026-04-02 17:58:08 | WARNING  | app | log_performance:124 | Performance: [tts_1775132877802] TTS Generation took 10198.45ms (threshold: 1000ms)
+2026-04-02 18:01:51 | INFO     | app | process_voice_query:312 | [voice_1775133111927] Voice query request received | Language: gu-IN | Query length: 42 chars
+2026-04-02 18:01:51 | INFO     | app | process_voice_query:325 | [voice_1775133111927] Step 1: Translating query from gu-IN to English
+2026-04-02 18:01:51 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: gu-IN | Text length: 42 chars
+2026-04-02 18:01:51 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=gu-IN, target=en-IN, text_length=42
+2026-04-02 18:01:52 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 441.46ms
+2026-04-02 18:01:52 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 441.69ms | Output length: 48 chars
+2026-04-02 18:01:52 | INFO     | app | process_voice_query:331 | [voice_1775133111927] Step 2: Processing RAG query
+2026-04-02 18:01:54 | WARNING  | app | log_performance:124 | Performance: [voice_1775133111927] RAG Processing took 2039.76ms (threshold: 1000ms)
+2026-04-02 18:01:54 | INFO     | app | process_voice_query:345 | [voice_1775133111927] Step 3: Translating answer back to gu-IN
+2026-04-02 18:01:54 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: gu-IN | Text length: 180 chars
+2026-04-02 18:01:54 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=gu-IN, text_length=180
+2026-04-02 18:01:55 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 1072.37ms
+2026-04-02 18:01:55 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 1073.03ms | Output length: 156 chars
+2026-04-02 18:01:55 | WARNING  | app | log_performance:124 | Performance: [voice_1775133111927] Total Voice Query Processing (without TTS) took 3556.19ms (threshold: 1000ms)
+2026-04-02 18:01:55 | INFO     | app | generate_tts:385 | [tts_1775133115495] TTS generation request | Language: gu-IN | Text length: 156 chars
+2026-04-02 18:01:55 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: gu-IN | Speaker: priya | Text length: 156 chars
+2026-04-02 18:01:55 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=gu-IN, speaker=priya, text_length=157, model=bulbul:v3, chunk=1/1
+2026-04-02 18:02:04 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 8773.08ms
+2026-04-02 18:02:04 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 8775.75ms | Audio size: 338664 bytes (base64) | Chunks: 1
+2026-04-02 18:02:04 | INFO     | app | generate_tts:394 | [tts_1775133115495] TTS generated successfully
+2026-04-02 18:02:04 | WARNING  | app | log_performance:124 | Performance: [tts_1775133115495] TTS Generation took 8776.55ms (threshold: 1000ms)
+2026-04-02 18:04:04 | INFO     | app | process_voice_query:312 | [voice_1775133244347] Voice query request received | Language: gu-IN | Query length: 42 chars
+2026-04-02 18:04:04 | INFO     | app | process_voice_query:325 | [voice_1775133244347] Step 1: Translating query from gu-IN to English
+2026-04-02 18:04:04 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: gu-IN | Text length: 42 chars
+2026-04-02 18:04:04 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=gu-IN, target=en-IN, text_length=42
+2026-04-02 18:04:04 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 364.11ms
+2026-04-02 18:04:04 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 364.34ms | Output length: 48 chars
+2026-04-02 18:04:04 | INFO     | app | process_voice_query:331 | [voice_1775133244347] Step 2: Processing RAG query
+2026-04-02 18:04:07 | WARNING  | app | log_performance:124 | Performance: [voice_1775133244347] RAG Processing took 3082.87ms (threshold: 1000ms)
+2026-04-02 18:04:07 | INFO     | app | process_voice_query:345 | [voice_1775133244347] Step 3: Translating answer back to gu-IN
+2026-04-02 18:04:07 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: gu-IN | Text length: 262 chars
+2026-04-02 18:04:07 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=gu-IN, text_length=262
+2026-04-02 18:04:08 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 701.31ms
+2026-04-02 18:04:08 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 702.06ms | Output length: 232 chars
+2026-04-02 18:04:08 | WARNING  | app | log_performance:124 | Performance: [voice_1775133244347] Total Voice Query Processing (without TTS) took 4151.24ms (threshold: 1000ms)
+2026-04-02 18:04:08 | INFO     | app | generate_tts:385 | [tts_1775133248506] TTS generation request | Language: gu-IN | Text length: 232 chars
+2026-04-02 18:04:08 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: gu-IN | Speaker: priya | Text length: 232 chars
+2026-04-02 18:04:08 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=gu-IN, speaker=priya, text_length=233, model=bulbul:v3, chunk=1/1
+2026-04-02 18:04:17 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 9126.70ms
+2026-04-02 18:04:17 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 9129.51ms | Audio size: 451528 bytes (base64) | Chunks: 1
+2026-04-02 18:04:17 | INFO     | app | generate_tts:394 | [tts_1775133248506] TTS generated successfully
+2026-04-02 18:04:17 | WARNING  | app | log_performance:124 | Performance: [tts_1775133248506] TTS Generation took 9130.21ms (threshold: 1000ms)
+2026-04-02 18:06:01 | INFO     | app | transcribe_speech:439 | [transcribe_1775133361267] Transcription request received | File: recording.wav | Content-Type: audio/wav
+2026-04-02 18:06:01 | INFO     | app | transcribe_speech:444 | [transcribe_1775133361267] Audio file read | Size: 51494 bytes
+2026-04-02 18:06:01 | INFO     | sarvam_stt | transcribe_audio:20 | Starting audio transcription | Audio size: 51494 bytes
+2026-04-02 18:06:01 | INFO     | sarvam_stt | log_api_call:105 | API Call: Sarvam STT | Endpoint: https://api.sarvam.ai/speech-to-text | Params: audio_size=51494
+2026-04-02 18:06:02 | INFO     | sarvam_stt | log_api_response:111 | API Response: Sarvam STT | Status: 200 | Duration: 1092.44ms
+2026-04-02 18:06:02 | INFO     | sarvam_stt | transcribe_audio:61 | Transcription successful | Language: en-IN | Transcript length: 45 chars | Duration: 1092.87ms
+2026-04-02 18:06:02 | INFO     | app | transcribe_speech:452 | [transcribe_1775133361267] Transcription successful | Language: en-IN | Duration: 1095.64ms
+2026-04-02 18:06:02 | INFO     | app | process_voice_query:312 | [voice_1775133362775] Voice query request received | Language: en-IN | Query length: 45 chars
+2026-04-02 18:06:02 | INFO     | app | process_voice_query:323 | [voice_1775133362775] Query is in English, skipping translation
+2026-04-02 18:06:02 | INFO     | app | process_voice_query:331 | [voice_1775133362775] Step 2: Processing RAG query
+2026-04-02 18:06:04 | WARNING  | app | log_performance:124 | Performance: [voice_1775133362775] RAG Processing took 1673.56ms (threshold: 1000ms)
+2026-04-02 18:06:04 | WARNING  | app | log_performance:124 | Performance: [voice_1775133362775] Total Voice Query Processing (without TTS) took 1674.14ms (threshold: 1000ms)
+2026-04-02 18:06:04 | INFO     | app | generate_tts:385 | [tts_1775133364454] TTS generation request | Language: en-IN | Text length: 266 chars
+2026-04-02 18:06:04 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: en-IN | Speaker: priya | Text length: 266 chars
+2026-04-02 18:06:04 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=priya, text_length=267, model=bulbul:v3, chunk=1/1
+2026-04-02 18:06:09 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 5274.33ms
+2026-04-02 18:06:09 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 5276.49ms | Audio size: 464584 bytes (base64) | Chunks: 1
+2026-04-02 18:06:09 | INFO     | app | generate_tts:394 | [tts_1775133364454] TTS generated successfully
+2026-04-02 18:06:09 | WARNING  | app | log_performance:124 | Performance: [tts_1775133364454] TTS Generation took 5277.01ms (threshold: 1000ms)
+2026-04-02 18:07:58 | INFO     | app | process_voice_query:312 | [voice_1775133478195] Voice query request received | Language: gu-IN | Query length: 42 chars
+2026-04-02 18:07:58 | INFO     | app | process_voice_query:325 | [voice_1775133478195] Step 1: Translating query from gu-IN to English
+2026-04-02 18:07:58 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: gu-IN | Text length: 42 chars
+2026-04-02 18:07:58 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=gu-IN, target=en-IN, text_length=42
+2026-04-02 18:07:58 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 391.97ms
+2026-04-02 18:07:58 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 392.60ms | Output length: 48 chars
+2026-04-02 18:07:58 | INFO     | app | process_voice_query:331 | [voice_1775133478195] Step 2: Processing RAG query
+2026-04-02 18:08:00 | WARNING  | app | log_performance:124 | Performance: [voice_1775133478195] RAG Processing took 2341.65ms (threshold: 1000ms)
+2026-04-02 18:08:00 | INFO     | app | process_voice_query:345 | [voice_1775133478195] Step 3: Translating answer back to gu-IN
+2026-04-02 18:08:00 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: gu-IN | Text length: 153 chars
+2026-04-02 18:08:00 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=gu-IN, text_length=153
+2026-04-02 18:08:01 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 806.92ms
+2026-04-02 18:08:01 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 807.45ms | Output length: 143 chars
+2026-04-02 18:08:01 | WARNING  | app | log_performance:124 | Performance: [voice_1775133478195] Total Voice Query Processing (without TTS) took 3544.48ms (threshold: 1000ms)
+2026-04-02 18:08:01 | INFO     | app | generate_tts:385 | [tts_1775133481745] TTS generation request | Language: en-IN | Text length: 143 chars
+2026-04-02 18:08:01 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: en-IN | Speaker: priya | Text length: 143 chars
+2026-04-02 18:08:01 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=priya, text_length=144, model=bulbul:v3, chunk=1/1
+2026-04-02 18:08:07 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 5472.32ms
+2026-04-02 18:08:07 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 5473.67ms | Audio size: 271304 bytes (base64) | Chunks: 1
+2026-04-02 18:08:07 | INFO     | app | generate_tts:394 | [tts_1775133481745] TTS generated successfully
+2026-04-02 18:08:07 | WARNING  | app | log_performance:124 | Performance: [tts_1775133481745] TTS Generation took 5474.10ms (threshold: 1000ms)
+2026-04-02 18:08:32 | INFO     | app | process_voice_query:312 | [voice_1775133512787] Voice query request received | Language: en-IN | Query length: 5 chars
+2026-04-02 18:08:32 | INFO     | app | process_voice_query:323 | [voice_1775133512787] Query is in English, skipping translation
+2026-04-02 18:08:32 | INFO     | app | process_voice_query:331 | [voice_1775133512787] Step 2: Processing RAG query
+2026-04-02 18:08:33 | INFO     | app | generate_tts:385 | [tts_1775133513074] TTS generation request | Language: en-IN | Text length: 52 chars
+2026-04-02 18:08:33 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: en-IN | Speaker: priya | Text length: 52 chars
+2026-04-02 18:08:33 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=priya, text_length=52, model=bulbul:v3, chunk=1/1
+2026-04-02 18:08:35 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 2465.44ms
+2026-04-02 18:08:35 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 2469.16ms | Audio size: 65596 bytes (base64) | Chunks: 1
+2026-04-02 18:08:35 | INFO     | app | generate_tts:394 | [tts_1775133513074] TTS generated successfully
+2026-04-02 18:08:35 | WARNING  | app | log_performance:124 | Performance: [tts_1775133513074] TTS Generation took 2471.59ms (threshold: 1000ms)
+2026-04-02 18:11:57 | INFO     | app | lifespan:63 | ============================================================
+2026-04-02 18:11:57 | INFO     | app | lifespan:64 | Shutting down application...
+2026-04-02 18:11:57 | INFO     | app | lifespan:65 | ============================================================
+2026-04-02 18:11:57 | INFO     | app | lifespan:70 | ✓ Elasticsearch connection closed
+2026-04-02 18:11:57 | INFO     | app | lifespan:74 | ✅ Shutdown complete
+2026-04-02 18:11:57 | INFO     | app | lifespan:75 | ============================================================
+2026-04-02 18:11:58 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-02 18:11:58 | INFO     | app | lifespan:36 | ============================================================
+2026-04-02 18:11:58 | INFO     | app | lifespan:37 | TATA Agratas RAG System - Starting Up
+2026-04-02 18:11:58 | INFO     | app | lifespan:38 | ============================================================
+2026-04-02 18:11:58 | INFO     | app | lifespan:41 | Initializing Elasticsearch connection...
+2026-04-02 18:11:58 | INFO     | app | lifespan:43 | ✓ Elasticsearch connection established successfully
+2026-04-02 18:11:58 | INFO     | app | lifespan:49 | Initializing WatsonX AI model...
+2026-04-02 18:12:00 | INFO     | app | lifespan:51 | ✓ WatsonX AI model initialized successfully
+2026-04-02 18:12:00 | INFO     | app | lifespan:56 | ============================================================
+2026-04-02 18:12:00 | INFO     | app | lifespan:57 | ✅ Application Ready - All systems operational
+2026-04-02 18:12:00 | INFO     | app | lifespan:58 | ============================================================
+2026-04-02 18:12:18 | INFO     | app | process_voice_query:312 | [voice_1775133738348] Voice query request received | Language: en-IN | Query length: 5 chars
+2026-04-02 18:12:18 | INFO     | app | process_voice_query:323 | [voice_1775133738348] Query is in English, skipping translation
+2026-04-02 18:12:18 | INFO     | app | process_voice_query:331 | [voice_1775133738348] Step 2: Processing RAG query
+2026-04-02 18:12:21 | WARNING  | app | log_performance:124 | Performance: [voice_1775133738348] RAG Processing took 3329.44ms (threshold: 1000ms)
+2026-04-02 18:12:21 | WARNING  | app | log_performance:124 | Performance: [voice_1775133738348] Total Voice Query Processing (without TTS) took 3332.50ms (threshold: 1000ms)
+2026-04-02 18:12:21 | INFO     | app | generate_tts:385 | [tts_1775133741688] TTS generation request | Language: en-IN | Text length: 52 chars
+2026-04-02 18:12:21 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: en-IN | Speaker: simran | Text length: 52 chars
+2026-04-02 18:12:21 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=simran, text_length=52, model=bulbul:v3, chunk=1/1
+2026-04-02 18:12:23 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 1595.90ms
+2026-04-02 18:12:23 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 1598.93ms | Audio size: 58312 bytes (base64) | Chunks: 1
+2026-04-02 18:12:23 | INFO     | app | generate_tts:394 | [tts_1775133741688] TTS generated successfully
+2026-04-02 18:12:23 | WARNING  | app | log_performance:124 | Performance: [tts_1775133741688] TTS Generation took 1599.88ms (threshold: 1000ms)
+2026-04-02 18:12:35 | INFO     | app | process_voice_query:312 | [voice_1775133755173] Voice query request received | Language: gu-IN | Query length: 42 chars
+2026-04-02 18:12:35 | INFO     | app | process_voice_query:325 | [voice_1775133755173] Step 1: Translating query from gu-IN to English
+2026-04-02 18:12:35 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: gu-IN | Text length: 42 chars
+2026-04-02 18:12:35 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=gu-IN, target=en-IN, text_length=42
+2026-04-02 18:12:35 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 258.39ms
+2026-04-02 18:12:35 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 258.90ms | Output length: 48 chars
+2026-04-02 18:12:35 | INFO     | app | process_voice_query:331 | [voice_1775133755173] Step 2: Processing RAG query
+2026-04-02 18:12:37 | WARNING  | app | log_performance:124 | Performance: [voice_1775133755173] RAG Processing took 1755.39ms (threshold: 1000ms)
+2026-04-02 18:12:37 | INFO     | app | process_voice_query:345 | [voice_1775133755173] Step 3: Translating answer back to gu-IN
+2026-04-02 18:12:37 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: gu-IN | Text length: 256 chars
+2026-04-02 18:12:37 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=gu-IN, text_length=256
+2026-04-02 18:12:37 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 571.37ms
+2026-04-02 18:12:37 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 572.14ms | Output length: 216 chars
+2026-04-02 18:12:37 | WARNING  | app | log_performance:124 | Performance: [voice_1775133755173] Total Voice Query Processing (without TTS) took 2588.51ms (threshold: 1000ms)
+2026-04-02 18:12:37 | INFO     | app | generate_tts:385 | [tts_1775133757770] TTS generation request | Language: en-IN | Text length: 216 chars
+2026-04-02 18:12:37 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: en-IN | Speaker: simran | Text length: 216 chars
+2026-04-02 18:12:37 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=en-IN, speaker=simran, text_length=217, model=bulbul:v3, chunk=1/1
+2026-04-02 18:12:44 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 6638.39ms
+2026-04-02 18:12:44 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 6641.45ms | Audio size: 335024 bytes (base64) | Chunks: 1
+2026-04-02 18:12:44 | INFO     | app | generate_tts:394 | [tts_1775133757770] TTS generated successfully
+2026-04-02 18:12:44 | WARNING  | app | log_performance:124 | Performance: [tts_1775133757770] TTS Generation took 6642.29ms (threshold: 1000ms)
+2026-04-02 18:12:54 | INFO     | app | transcribe_speech:439 | [transcribe_1775133774777] Transcription request received | File: recording.wav | Content-Type: audio/wav
+2026-04-02 18:12:54 | INFO     | app | transcribe_speech:444 | [transcribe_1775133774777] Audio file read | Size: 65018 bytes
+2026-04-02 18:12:54 | INFO     | sarvam_stt | transcribe_audio:20 | Starting audio transcription | Audio size: 65018 bytes
+2026-04-02 18:12:54 | INFO     | sarvam_stt | log_api_call:105 | API Call: Sarvam STT | Endpoint: https://api.sarvam.ai/speech-to-text | Params: audio_size=65018
+2026-04-02 18:12:55 | INFO     | sarvam_stt | log_api_response:111 | API Response: Sarvam STT | Status: 200 | Duration: 1103.22ms
+2026-04-02 18:12:55 | INFO     | sarvam_stt | transcribe_audio:61 | Transcription successful | Language: hi-IN | Transcript length: 53 chars | Duration: 1103.47ms
+2026-04-02 18:12:55 | INFO     | app | transcribe_speech:452 | [transcribe_1775133774777] Transcription successful | Language: hi-IN | Duration: 1105.57ms
+2026-04-02 18:12:56 | INFO     | app | process_voice_query:312 | [voice_1775133776688] Voice query request received | Language: hi-IN | Query length: 53 chars
+2026-04-02 18:12:56 | INFO     | app | process_voice_query:325 | [voice_1775133776688] Step 1: Translating query from hi-IN to English
+2026-04-02 18:12:56 | INFO     | sarvam_translate | translate_to_english:19 | Translating to English | Source: hi-IN | Text length: 53 chars
+2026-04-02 18:12:56 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=hi-IN, target=en-IN, text_length=53
+2026-04-02 18:12:57 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 334.67ms
+2026-04-02 18:12:57 | INFO     | sarvam_translate | translate_to_english:48 | Translation to English successful | Duration: 335.02ms | Output length: 67 chars
+2026-04-02 18:12:57 | INFO     | app | process_voice_query:331 | [voice_1775133776688] Step 2: Processing RAG query
+2026-04-02 18:12:58 | WARNING  | app | log_performance:124 | Performance: [voice_1775133776688] RAG Processing took 1845.44ms (threshold: 1000ms)
+2026-04-02 18:12:58 | INFO     | app | process_voice_query:345 | [voice_1775133776688] Step 3: Translating answer back to hi-IN
+2026-04-02 18:12:58 | INFO     | sarvam_translate | translate_from_english:90 | Translating from English | Target: hi-IN | Text length: 234 chars
+2026-04-02 18:12:58 | INFO     | sarvam_translate | log_api_call:105 | API Call: Sarvam Translate | Endpoint: https://api.sarvam.ai/translate | Params: source=en-IN, target=hi-IN, text_length=234
+2026-04-02 18:12:59 | INFO     | sarvam_translate | log_api_response:111 | API Response: Sarvam Translate | Status: 200 | Duration: 579.25ms
+2026-04-02 18:12:59 | INFO     | sarvam_translate | translate_from_english:119 | Translation from English successful | Duration: 579.97ms | Output length: 232 chars
+2026-04-02 18:12:59 | WARNING  | app | log_performance:124 | Performance: [voice_1775133776688] Total Voice Query Processing (without TTS) took 2761.98ms (threshold: 1000ms)
+2026-04-02 18:12:59 | INFO     | app | generate_tts:385 | [tts_1775133779459] TTS generation request | Language: hi-IN | Text length: 232 chars
+2026-04-02 18:12:59 | INFO     | sarvam_tts | text_to_speech:161 | Generating TTS | Language: hi-IN | Speaker: simran | Text length: 232 chars
+2026-04-02 18:12:59 | INFO     | sarvam_tts | log_api_call:105 | API Call: Sarvam TTS | Endpoint: https://api.sarvam.ai/text-to-speech | Params: language=hi-IN, speaker=simran, text_length=235, model=bulbul:v3, chunk=1/1
+2026-04-02 18:13:07 | INFO     | sarvam_tts | log_api_response:111 | API Response: Sarvam TTS Chunk 1/1 | Status: 200 | Duration: 8384.00ms
+2026-04-02 18:13:07 | INFO     | sarvam_tts | text_to_speech:216 | TTS generation successful | Duration: 8387.52ms | Audio size: 351408 bytes (base64) | Chunks: 1
+2026-04-02 18:13:07 | INFO     | app | generate_tts:394 | [tts_1775133779459] TTS generated successfully
+2026-04-02 18:13:07 | WARNING  | app | log_performance:124 | Performance: [tts_1775133779459] TTS Generation took 8388.14ms (threshold: 1000ms)

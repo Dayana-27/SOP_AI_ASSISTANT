@@ -1,0 +1,58 @@
+Collecting pandas
+  Downloading pandas-3.0.2-cp314-cp314-macosx_11_0_arm64.whl.metadata (79 kB)
+Collecting fastapi
+  Using cached fastapi-0.135.3-py3-none-any.whl.metadata (28 kB)
+Collecting uvicorn
+  Using cached uvicorn-0.43.0-py3-none-any.whl.metadata (6.7 kB)
+Collecting pydantic
+  Using cached pydantic-2.12.5-py3-none-any.whl.metadata (90 kB)
+Collecting python-multipart
+  Using cached python_multipart-0.0.24-py3-none-any.whl.metadata (1.8 kB)
+Collecting elasticsearch==8.11.1
+  Using cached elasticsearch-8.11.1-py3-none-any.whl.metadata (5.4 kB)
+Collecting ibm-watsonx-ai
+  Using cached ibm_watsonx_ai-1.1.16-py3-none-any.whl.metadata (6.6 kB)
+Collecting pdfplumber
+  Using cached pdfplumber-0.11.9-py3-none-any.whl.metadata (43 kB)
+Collecting tabulate
+  Using cached tabulate-0.10.0-py3-none-any.whl.metadata (40 kB)
+Collecting tqdm
+  Downloading tqdm-4.67.3-py3-none-any.whl.metadata (57 kB)
+Collecting numpy
+  Downloading numpy-2.4.4-cp314-cp314-macosx_14_0_arm64.whl.metadata (6.6 kB)
+Requirement already satisfied: python-dotenv in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (1.0.0)
+Requirement already satisfied: requests in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (2.31.0)
+Requirement already satisfied: PyPDF2 in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (3.0.1)
+Collecting elastic-transport<9,>=8 (from elasticsearch==8.11.1)
+  Using cached elastic_transport-8.17.1-py3-none-any.whl.metadata (3.8 kB)
+Requirement already satisfied: urllib3<3,>=1.26.2 in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (from elastic-transport<9,>=8->elasticsearch==8.11.1) (2.6.3)
+Requirement already satisfied: certifi in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (from elastic-transport<9,>=8->elasticsearch==8.11.1) (2026.2.25)
+Collecting python-dateutil>=2.8.2 (from pandas)
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting starlette>=0.46.0 (from fastapi)
+  Downloading starlette-1.0.0-py3-none-any.whl.metadata (6.3 kB)
+Collecting typing-extensions>=4.8.0 (from fastapi)
+  Using cached typing_extensions-4.15.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting typing-inspection>=0.4.2 (from fastapi)
+  Using cached typing_inspection-0.4.2-py3-none-any.whl.metadata (2.6 kB)
+Collecting annotated-doc>=0.0.2 (from fastapi)
+  Using cached annotated_doc-0.0.4-py3-none-any.whl.metadata (6.6 kB)
+Requirement already satisfied: click>=7.0 in /Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages (from uvicorn) (8.3.1)
+Collecting h11>=0.8 (from uvicorn)
+  Using cached h11-0.16.0-py3-none-any.whl.metadata (8.3 kB)
+Collecting annotated-types>=0.6.0 (from pydantic)
+  Using cached annotated_types-0.7.0-py3-none-any.whl.metadata (15 kB)
+Collecting pydantic-core==2.41.5 (from pydantic)
+  Using cached pydantic_core-2.41.5-cp314-cp314-macosx_11_0_arm64.whl.metadata (7.3 kB)
+Collecting httpx (from ibm-watsonx-ai)
+  Using cached httpx-0.28.1-py3-none-any.whl.metadata (7.1 kB)
+Collecting pandas
+  Using cached pandas-2.1.4.tar.gz (4.3 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'error'

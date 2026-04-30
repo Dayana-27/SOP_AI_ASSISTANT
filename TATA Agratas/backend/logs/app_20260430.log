@@ -1,0 +1,24 @@
+2026-04-30 12:54:31 | INFO     | sarvam_client | __init__:64 | Sarvam API Client initialized with connection pooling (pool_size=20, max_retries=3)
+2026-04-30 12:54:31 | INFO     | __main__ | <module>:610 | ============================================================
+2026-04-30 12:54:31 | INFO     | __main__ | <module>:611 | Starting TATA Agratas RAG API Server
+2026-04-30 12:54:31 | INFO     | __main__ | <module>:612 | ============================================================
+2026-04-30 12:54:31 | INFO     | __main__ | <module>:613 | API Server: http://localhost:8000
+2026-04-30 12:54:31 | INFO     | __main__ | <module>:614 | API Documentation: http://localhost:8000/docs
+2026-04-30 12:54:31 | INFO     | __main__ | <module>:615 | Interactive API: http://localhost:8000/redoc
+2026-04-30 12:54:31 | INFO     | __main__ | <module>:616 | ============================================================
+2026-04-30 12:54:31 | INFO     | __main__ | lifespan:39 | ============================================================
+2026-04-30 12:54:31 | INFO     | __main__ | lifespan:40 | TATA Agratas RAG System - Starting Up
+2026-04-30 12:54:31 | INFO     | __main__ | lifespan:41 | ============================================================
+2026-04-30 12:54:31 | INFO     | __main__ | lifespan:44 | Initializing Elasticsearch connection...
+2026-04-30 12:54:31 | INFO     | __main__ | lifespan:46 | ✓ Elasticsearch connection established successfully
+2026-04-30 12:54:31 | INFO     | __main__ | lifespan:52 | Initializing WatsonX AI model...
+2026-04-30 12:54:37 | INFO     | __main__ | lifespan:54 | ✓ WatsonX AI model initialized successfully
+2026-04-30 12:54:37 | INFO     | __main__ | lifespan:59 | ============================================================
+2026-04-30 12:54:37 | INFO     | __main__ | lifespan:60 | ✅ Application Ready - All systems operational
+2026-04-30 12:54:37 | INFO     | __main__ | lifespan:61 | ============================================================
+2026-04-30 13:04:55 | INFO     | __main__ | lifespan:66 | ============================================================
+2026-04-30 13:04:55 | INFO     | __main__ | lifespan:67 | Shutting down application...
+2026-04-30 13:04:55 | INFO     | __main__ | lifespan:68 | ============================================================
+2026-04-30 13:04:55 | INFO     | __main__ | lifespan:73 | ✓ Elasticsearch connection closed
+2026-04-30 13:04:55 | INFO     | __main__ | lifespan:77 | ✅ Shutdown complete
+2026-04-30 13:04:55 | INFO     | __main__ | lifespan:78 | ============================================================
