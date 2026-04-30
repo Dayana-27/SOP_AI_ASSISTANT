@@ -1,0 +1,427 @@
+{
+  "test_questions": [
+    {
+      "id": 1,
+      "category": "Direct fact lookup",
+      "question": "What is the SOP ID for Electrode Slurry Mixing?",
+      "answer": "SOP-ELEC-MIX-001",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 2
+    },
+    {
+      "id": 2,
+      "category": "Direct fact lookup",
+      "question": "What is the effective date of the CLARA Knowledge Base corpus?",
+      "answer": "11/03/2026",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 1
+    },
+    {
+      "id": 3,
+      "category": "Direct fact lookup",
+      "question": "What is the maximum mercury content allowed in batteries until 2025?",
+      "answer": "0.0005% (5 ppm) by weight",
+      "document": "SoP_Battery_Waste_Management",
+      "page_number": 3
+    },
+    {
+      "id": 4,
+      "category": "Definition-based",
+      "question": "What is a waste battery according to the Battery Waste Management SOP?",
+      "answer": "A waste battery encompasses various types of batteries, including used and/or end-of-life batteries, pre-consumer off-spec batteries, batteries with expired usage dates, and batteries discarded by users.",
+      "document": "SoP_Battery_Waste_Management",
+      "page_number": 1
+    },
+    {
+      "id": 5,
+      "category": "Definition-based",
+      "question": "What is a Battery Electric Vehicle (BEV)?",
+      "answer": "Battery electric vehicles (BEV) are powered solely by an electric motor with a battery pack that is recharged from an external source as well as from regenerative braking.",
+      "document": "Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL",
+      "page_number": 4
+    },
+    {
+      "id": 6,
+      "category": "Single sentence answer",
+      "question": "What is the minimum thickness of nitrile gloves required in the mixing zone?",
+      "answer": "0.15 mm",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 2
+    },
+    {
+      "id": 7,
+      "category": "Single sentence answer",
+      "question": "What is the maximum NMP moisture content allowed?",
+      "answer": "Less than 30 ppm",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3
+    },
+    {
+      "id": 8,
+      "category": "Single sentence answer",
+      "question": "What is the alarm code for mixer motor overtemperature?",
+      "answer": "MIX-ALM-001",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 4
+    },
+    {
+      "id": 9,
+      "category": "Paragraph-level answer",
+      "question": "What are the safety requirements for the mixing zone?",
+      "answer": "Solvent vapours (NMP for cathode, water-based for anode) are present in the mixing zone. Ensure LEV (Local Exhaust Ventilation) is active before opening any containers. Wear chemical-resistant gloves, safety goggles, and lab coat at all times. NMP is a reproductive hazard — pregnant workers must not enter the mixing zone. Verify LEV extraction is operating before starting, wear nitrile gloves (min. 0.15 mm), keep emergency eyewash station clear and functional, solvent containers must be sealed when not in active use, and no open flames or ignition sources within 5 m of mixing area.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 2
+    },
+    {
+      "id": 10,
+      "category": "Paragraph-level answer",
+      "question": "What are the responsibilities of THDCIL as a waste generator?",
+      "answer": "THDCIL must discard waste batteries separately from other waste streams, especially mixed waste and domestic waste. They must ensure that waste batteries are disposed of in an environmentally friendly manner by giving them to entities engaged in the collection, refurbishment, or recycling of batteries. They must store waste batteries in designated containers to prevent leakage and contamination, segregate batteries based on type, chemistry, and heavy metal content, use specially designed transport systems, and dispose through authorized entities while ensuring compliance with environmental regulations.",
+      "document": "SoP_Battery_Waste_Management",
+      "page_number": 1
+    },
+    {
+      "id": 11,
+      "category": "Summarization",
+      "question": "Summarize the cathode slurry mixing procedure.",
+      "answer": "The cathode slurry mixing procedure involves adding materials in a specific sequence: First, weigh PVDF binder and add to vessel. Add 60% of NMP solvent and mix at LOW speed (50 RPM) for 30 minutes. Add carbon black and mix at MEDIUM speed (500 RPM) for 45 minutes. Add 50% of NMC active material and mix at HIGH speed (1500 RPM) for 60 minutes. Add remaining 50% NMC and mix at HIGH speed for 60 minutes. Add remaining 40% NMP and mix at MEDIUM speed (800 RPM) for 20 minutes. Finally, apply vacuum (-0.08 MPa) for 30 minutes to degas while maintaining low-speed mixing.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3
+    },
+    {
+      "id": 12,
+      "category": "Summarization",
+      "question": "What are the key characteristics of a thermal event battery?",
+      "answer": "Thermal event batteries exhibit bulging/swelling, emit white/grey smoke, have a distinctive sweet bubble gum-like odor, are hot to touch, show melted plastic, produce audible crackling sounds, may have flames/sparks or visible fire, show presence of burn marks with black or gray fire soot, and display visible charring or scorching on the battery pack.",
+      "document": "Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL",
+      "page_number": 5
+    },
+    {
+      "id": 13,
+      "category": "Rephrased query",
+      "question": "How long is the vessel certification tag valid for?",
+      "answer": "7 days",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3
+    },
+    {
+      "id": 14,
+      "category": "Rephrased query",
+      "question": "What should be done if the LEV indicator shows amber or red?",
+      "answer": "Do NOT proceed. The green LED on extraction panel must be lit before proceeding.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3
+    },
+    {
+      "id": 15,
+      "category": "Rephrased query",
+      "question": "How frequently should the SOP be reviewed?",
+      "answer": "Annually or as required",
+      "document": "SoP_Battery_Waste_Management",
+      "page_number": 2
+    },
+    {
+      "id": 16,
+      "category": "Table lookup - Row filtering",
+      "question": "What is the cathode target viscosity range?",
+      "answer": "4000–6000 mPa·s",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 4
+    },
+    {
+      "id": 17,
+      "category": "Table lookup - Row filtering",
+      "question": "What is the anode target solid content percentage?",
+      "answer": "45–50%",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 4
+    },
+    {
+      "id": 18,
+      "category": "Table lookup - Column filtering",
+      "question": "What binder is used for cathode (NMC) electrodes?",
+      "answer": "PVDF (Kynar 761)",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 2
+    },
+    {
+      "id": 19,
+      "category": "Table lookup - Column filtering",
+      "question": "What solvent is used for anode (Graphite) electrodes?",
+      "answer": "Deionised Water",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 2
+    },
+    {
+      "id": 20,
+      "category": "Table lookup - Comparison",
+      "question": "Compare the coating speed ranges for cathode and anode electrodes.",
+      "answer": "Cathode coating speed is 20–30 m/min, while anode coating speed is 25–35 m/min. Anode has a higher speed range.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6
+    },
+    {
+      "id": 21,
+      "category": "Table lookup - Comparison",
+      "question": "What is the difference in oven Zone 1 temperature between cathode and anode?",
+      "answer": "Cathode requires 80°C while anode requires 60°C, a difference of 20°C.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6
+    },
+    {
+      "id": 22,
+      "category": "Info spread across sections",
+      "question": "What are all the access tiers mentioned in the document?",
+      "answer": "Tier 1 (Operator), Tier 2 (Supervisor), and Tier 3 (Production Manager)",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 1
+    },
+    {
+      "id": 23,
+      "category": "Info spread across sections",
+      "question": "What processes are covered in the CLARA Knowledge Base?",
+      "answer": "Mixing, Coating, Drying, Calendaring, Slitting, Shift Handover, and Alarm Response",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 1
+    },
+    {
+      "id": 24,
+      "category": "Cause-effect relationship",
+      "question": "What happens if materials are added out of sequence during cathode slurry mixing?",
+      "answer": "Out-of-sequence addition causes agglomeration and will require the batch to be scrapped.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3
+    },
+    {
+      "id": 25,
+      "category": "Cause-effect relationship",
+      "question": "What should be done if a batch fails magnetic particle content spec?",
+      "answer": "The batch must be rejected immediately. Do not transfer to coating. Notify QA Lead and Shift Supervisor within 15 minutes and retain the batch for investigation.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 4
+    },
+    {
+      "id": 26,
+      "category": "Cause-effect relationship",
+      "question": "What happens if LEV airflow is low (MIX-ALM-002)?",
+      "answer": "STOP all solvent handling, evacuate mixing area, do not re-enter until LEV restored, and notify Maintenance and Supervisor.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 4
+    },
+    {
+      "id": 27,
+      "category": "Cross-page joins",
+      "question": "What is the complete quality check procedure after mixing?",
+      "answer": "After mixing (Page 3-4), perform slurry quality checks including viscosity (cathode: 4000-6000 mPa·s, anode: 2000-4000 mPa·s), solid content (cathode: 68-72%, anode: 45-50%), particle size D50 (cathode: 10-15 µm, anode: 15-20 µm), magnetic particle content (<0.1 ppm), and visual appearance (uniform, no lumps). Then transfer to coating (Page 4) within 4 hours.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": "3-4"
+    },
+    {
+      "id": 28,
+      "category": "Cross-page joins",
+      "question": "What is the complete workflow from mixing to coating?",
+      "answer": "Start with pre-mixing checks (Page 3), perform mixing procedure (Page 3-4), conduct slurry quality check (Page 4), filter slurry through 100-mesh filter during transfer, record transfer details, seal and label vessel, deliver to Coating Zone within 4 hours, and clean mixing vessel immediately after transfer.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": "3-4"
+    },
+    {
+      "id": 29,
+      "category": "Direct fact lookup",
+      "question": "What is the target date for Step 01 in the Battery Waste Management timeline?",
+      "answer": "Next working day of succeeding month of the reporting quarter",
+      "document": "SoP_Battery_Waste_Management",
+      "page_number": 2
+    },
+    {
+      "id": 30,
+      "category": "Direct fact lookup",
+      "question": "What is the SOP ID for Electrode Coating?",
+      "answer": "SOP-ELEC-COAT-002",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6
+    },
+    {
+      "id": 31,
+      "category": "Single sentence answer",
+      "question": "What is the maximum slurry age allowed before coating?",
+      "answer": "Less than 4 hours",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6
+    },
+    {
+      "id": 32,
+      "category": "Single sentence answer",
+      "question": "What is the die bolt torque specification?",
+      "answer": "8 N·m",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6
+    },
+    {
+      "id": 33,
+      "category": "Table lookup - Row filtering",
+      "question": "What is the wet coating weight range for cathode?",
+      "answer": "280–320 g/m²",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6
+    },
+    {
+      "id": 34,
+      "category": "Table lookup - Row filtering",
+      "question": "What is the alarm/stop limit for coating speed?",
+      "answer": "< 18 or > 38: stop line",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6
+    },
+    {
+      "id": 35,
+      "category": "Cause-effect relationship",
+      "question": "What action should be taken if coating weight is out of specification (COAT-ALM-001)?",
+      "answer": "Stop at safe point, inspect die gap and pump pressure, adjust gap in 5 µm increments, trial 50 m, and re-check weight.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 7
+    },
+    {
+      "id": 36,
+      "category": "Cause-effect relationship",
+      "question": "What should be done if oven temperature deviation exceeds 10°C?",
+      "answer": "Stop coating line, do not advance foil through oven, check heater and controller, and notify Maintenance if fault persists for more than 10 minutes.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 7
+    },
+    {
+      "id": 37,
+      "category": "Direct fact lookup",
+      "question": "What is the SOP ID for Electrode Drying?",
+      "answer": "SOP-ELEC-DRY-003",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 8
+    },
+    {
+      "id": 38,
+      "category": "Single sentence answer",
+      "question": "What is the target residual NMP level in dried cathode electrode?",
+      "answer": "Less than 50 ppm",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 8
+    },
+    {
+      "id": 39,
+      "category": "Paragraph-level answer",
+      "question": "Describe the vacuum oven batch drying procedure.",
+      "answer": "Pre-heat vacuum oven to 120°C and allow temperature to stabilize for 30 minutes. Load electrode reels onto mandrel holders without stacking (each reel requires its own holder). Seal oven door and draw vacuum to < 10 Pa, recording vacuum level at start. Hold at 120°C / < 10 Pa for minimum 12 hours (cathode) or 8 hours (anode). After drying cycle, allow oven to cool to < 40°C under vacuum before breaking vacuum. Do NOT break vacuum while oven temperature > 60°C. Transfer dried reels immediately to dry room (RH < 1%) or nitrogen-purged storage with maximum 30 minutes exposure to ambient air.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": "8-9"
+    },
+    {
+      "id": 40,
+      "category": "Direct fact lookup",
+      "question": "What is the SOP ID for Electrode Calendaring?",
+      "answer": "SOP-ELEC-CAL-004",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 10
+    },
+    {
+      "id": 41,
+      "category": "Table lookup - Comparison",
+      "question": "Compare the electrode thickness targets for cathode and anode.",
+      "answer": "Cathode target thickness is 120–130 µm, while anode target thickness is 140–155 µm. Anode electrodes are thicker.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 10
+    },
+    {
+      "id": 42,
+      "category": "Table lookup - Comparison",
+      "question": "What is the difference in electrode density between cathode and anode?",
+      "answer": "Cathode density is 3.3–3.5 g/cm³, while anode density is 1.5–1.6 g/cm³. Cathode is more than twice as dense as anode.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 10
+    },
+    {
+      "id": 43,
+      "category": "Definition-based",
+      "question": "What is a Plug-in Hybrid Electric Vehicle (PHEV)?",
+      "answer": "Plug-in hybrid electric vehicles (PHEV) are vehicles with an internal combustion engine and an electric motor along with a battery pack that can be recharged from an external power source as well as from regenerative braking.",
+      "document": "Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL",
+      "page_number": 4
+    },
+    {
+      "id": 44,
+      "category": "Definition-based",
+      "question": "What is an end-of-life battery?",
+      "answer": "A used EV battery that has come to the end of its service life in its current vehicle. This battery does not exhibit any signs of damage, defects, or past or present thermal events.",
+      "document": "Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL",
+      "page_number": 6
+    },
+    {
+      "id": 45,
+      "category": "Summarization",
+      "question": "What are the key components of an Emergency Preparedness Plan for lithium-ion batteries?",
+      "answer": "An Emergency Preparedness Plan should include: Hazard Assessment (conduct thorough assessment and document risks), Emergency Response Team (establish team with clear responsibilities and appropriate PPE), Training and Education (provide training on hazards and emergency procedures with regular refresher sessions), Response Plan for Thermal Runaway Events and Chemical Spills (develop specific plans for fires, leaks, and emissions), and Communication and Alarms (establish protocol for timely alerting of personnel).",
+      "document": "Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL",
+      "page_number": 7
+    },
+    {
+      "id": 46,
+      "category": "Cross-document comparison",
+      "question": "Compare the safety requirements between electrode manufacturing and EV battery handling.",
+      "answer": "Electrode manufacturing (Agratas SOP) focuses on chemical hazards like NMP solvent vapors, requiring LEV systems, chemical-resistant PPE, and specific temperature/humidity controls. EV battery handling (Suppliers Partnership) emphasizes thermal runaway risks, requiring emergency preparedness plans, thermal event monitoring, and proper storage/handling of damaged batteries. Both require comprehensive training and PPE, but manufacturing focuses on process control while battery handling focuses on damage prevention and emergency response.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs and Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL",
+      "page_number": "2 and 7"
+    },
+    {
+      "id": 47,
+      "category": "Info spread across sections",
+      "question": "What are all the alarm codes mentioned in the mixing section?",
+      "answer": "MIX-ALM-001 (Mixer motor overtemperature), MIX-ALM-002 (LEV airflow low), MIX-ALM-003 (Vessel vacuum loss), and MIX-ALM-004 (Balance communication error)",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": "4-5"
+    },
+    {
+      "id": 48,
+      "category": "Cause-effect relationship",
+      "question": "What happens if residual NMP exceeds 200 ppm after inline drying?",
+      "answer": "Reduce line speed by 10% and re-check. If still > 200 ppm after speed reduction, stop line and inspect oven heaters. Route reel to vacuum oven. If > 500 ppm, notify Supervisor and hold reel — do not pass to calendaring.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 9
+    },
+    {
+      "id": 49,
+      "category": "Table lookup - Row filtering",
+      "question": "What is the target porosity range for cathode electrodes?",
+      "answer": "30–35%",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 10
+    },
+    {
+      "id": 50,
+      "category": "Cross-page joins",
+      "question": "What is the complete safety protocol for handling NMP in the facility?",
+      "answer": "NMP safety spans multiple processes: In mixing (Page 2), ensure LEV is active, wear chemical-resistant gloves and PPE, pregnant workers must not enter, no open flames within 5m. In coating (Page 6), NMP vapor is present around coating machine, use heat-resistant gloves near oven, confirm oven interlocks functional. In drying (Page 8), monitor NMP exhaust concentration (stop if approaching 25% LEL), target residual NMP < 50 ppm in dried electrode, verify exhaust fan running. Throughout all processes, maintain proper ventilation and monitor for vapor concentrations.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": "2, 6, 8"
+    }
+  ],
+  "metadata": {
+    "total_questions": 50,
+    "documents_covered": [
+      "Agratas_Electrode_Manufacturing_SOPs",
+      "SoP_Battery_Waste_Management",
+      "Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL"
+    ],
+    "categories": {
+      "Direct fact lookup": 10,
+      "Definition-based": 5,
+      "Single sentence answers": 7,
+      "Paragraph-level answers": 4,
+      "Summarization": 4,
+      "Rephrased queries": 3,
+      "Table lookup": 9,
+      "Info spread across sections": 3,
+      "Cause-effect relationships": 6,
+      "Cross-page joins": 4,
+      "Cross-document comparison": 1
+    },
+    "created_date": "2026-04-01",
+    "purpose": "RAG system evaluation and testing"
+  }
+}

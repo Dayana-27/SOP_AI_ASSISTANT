@@ -1,0 +1,507 @@
+{
+  "industry_test_questions": [
+    {
+      "id": 1,
+      "category": "SOP - How do I do this",
+      "priority": "MOST IMPORTANT",
+      "question": "How do I prepare cathode slurry?",
+      "answer": "Step 1: Weigh PVDF binder per batch card and add to mixing vessel. Step 2: Add 60% of total NMP solvent and mix at LOW speed (50 RPM) for 30 minutes until PVDF fully dissolved. Step 3: Add carbon black (C65) and mix at MEDIUM speed (500 RPM) for 45 minutes. Step 4: Add 50% of NMC active material and mix at HIGH speed (1500 RPM) for 60 minutes. Step 5: Add remaining 50% NMC and mix at HIGH speed (1500 RPM) for 60 minutes. Step 6: Add remaining 40% NMP to adjust viscosity and mix at MEDIUM speed (800 RPM) for 20 minutes. Step 7: Apply vacuum (−0.08 MPa) for 30 minutes to degas slurry while maintaining low-speed mixing. Step 8: Proceed to slurry quality check.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3,
+      "expected_format": "ordered_steps"
+    },
+    {
+      "id": 2,
+      "category": "SOP - How do I do this",
+      "priority": "MOST IMPORTANT",
+      "question": "What are the steps to start coating process?",
+      "answer": "Step 1: Verify slurry batch ID and viscosity match coating work order. Slurry age must be < 4 hours. Step 2: Check foil reel for correct type (Al 16 µm ±1 µm for cathode; Cu 8 µm ±0.5 µm for anode) with no visible defects. Step 3: Inspect slot die - clean lips, no dried slurry, die gap set per recipe, die bolts torqued to 8 N·m. Step 4: Prime slurry pump - run until no air bubbles in return line (minimum 2 minutes). Step 5: Set oven temperatures per recipe and allow oven to reach set point and stabilize for minimum 15 minutes. Step 6: Run 0.5 m trial coat and check coating weight and appearance before production run.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6,
+      "expected_format": "ordered_steps"
+    },
+    {
+      "id": 3,
+      "category": "SOP - How do I do this",
+      "priority": "MOST IMPORTANT",
+      "question": "How to perform vacuum oven drying?",
+      "answer": "Step 1: Pre-heat vacuum oven to 120°C and allow temperature to stabilize for 30 minutes. Step 2: Load electrode reels onto mandrel holders - do not stack reels, each reel requires its own holder. Step 3: Seal oven door. Step 4: Draw vacuum to < 10 Pa and record vacuum level at start. Step 5: Hold at 120°C / < 10 Pa for minimum 12 hours (cathode) or 8 hours (anode). Step 6: After drying cycle, allow oven to cool to < 40°C under vacuum before breaking vacuum. Do NOT break vacuum while oven temperature > 60°C. Step 7: Transfer dried reels immediately to dry room (RH < 1%) or nitrogen-purged storage. Maximum exposure to ambient air: 30 minutes.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": "8-9",
+      "expected_format": "ordered_steps"
+    },
+    {
+      "id": 4,
+      "category": "SOP - How do I do this",
+      "priority": "MOST IMPORTANT",
+      "question": "Steps to dispose waste batteries properly?",
+      "answer": "Step 1: Discard waste batteries separately from other waste streams, especially mixed waste and domestic waste. Step 2: Store waste batteries in designated containers or storage areas to prevent leakage and contamination. Step 3: Segregate waste batteries based on their type, chemistry, and heavy metal content using separate labeled containers. Step 4: Use specially designed and covered transport systems to prevent foul odors, spillage, and environmental contamination. Step 5: Dispose of waste batteries through authorized entities engaged in battery collection, refurbishment, or recycling. Step 6: Ensure compliance with environmental regulations and guidelines during disposal.",
+      "document": "SoP_Battery_Waste_Management",
+      "page_number": 1,
+      "expected_format": "ordered_steps"
+    },
+    {
+      "id": 5,
+      "category": "SOP - How do I do this",
+      "priority": "MOST IMPORTANT",
+      "question": "How do I calendar electrodes?",
+      "answer": "Step 1: Verify electrode reel has passed drying quality check - check reel tag for moisture result and sign-off. Do NOT calendar undried or OOS moisture reels. Step 2: Set roll gap per recipe and verify with feeler gauge on both operator side and drive side. Gap difference must be < 2 µm. Step 3: Set roll temperature: Cathode 80°C, Anode 25°C (room temperature). Allow heated roll to stabilize for 20 minutes. Step 4: Set line speed per recipe. Do not exceed 20 m/min until first 100 m quality check confirmed. Step 5: Thread leader foil through rolls to verify alignment before loading electrode reel. Step 6: Start calendaring and perform in-process checks every 200m.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 10,
+      "expected_format": "ordered_steps"
+    },
+    {
+      "id": 6,
+      "category": "Safety & Emergency",
+      "priority": "CRITICAL",
+      "question": "What to do if LEV airflow is low?",
+      "answer": "STOP all solvent handling immediately. Evacuate mixing area. Do not re-enter until LEV restored. Notify Maintenance and Supervisor.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 4,
+      "safety_critical": true
+    },
+    {
+      "id": 7,
+      "category": "Safety & Emergency",
+      "priority": "CRITICAL",
+      "question": "Emergency procedure if web breaks during coating?",
+      "answer": "E-stop immediately. Isolate oven energy. Re-thread foil per Threading SOP. Check tension after re-thread.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 7,
+      "safety_critical": true
+    },
+    {
+      "id": 8,
+      "category": "Safety & Emergency",
+      "priority": "CRITICAL",
+      "question": "What PPE is required in the mixing zone?",
+      "answer": "Wear nitrile gloves (minimum 0.15 mm thickness), safety goggles, and chemical-resistant lab coat at all times. NMP is a reproductive hazard — pregnant workers must not enter the mixing zone.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 2,
+      "safety_critical": true
+    },
+    {
+      "id": 9,
+      "category": "Safety & Emergency",
+      "priority": "CRITICAL",
+      "question": "What to do if thermal event is detected in battery?",
+      "answer": "Thermal event batteries exhibit bulging/swelling, emit white/grey smoke, have sweet bubble gum-like odor, are hot to touch, show melted plastic, produce crackling sounds, or have flames/sparks. These are classified as damaged and require additional caution. Do not attempt to charge or handle. Call first responders immediately. If flooded battery, do not attempt to charge or drive the vehicle/battery as it may be at risk of thermal event.",
+      "document": "Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL",
+      "page_number": 5,
+      "safety_critical": true
+    },
+    {
+      "id": 10,
+      "category": "Safety & Emergency",
+      "priority": "CRITICAL",
+      "question": "What safety precautions before entering mixing zone?",
+      "answer": "Verify LEV extraction is operating before starting — check green indicator on panel. Wear nitrile gloves (min. 0.15 mm), safety goggles, and chemical-resistant lab coat. Keep emergency eyewash station clear and functional. Ensure solvent containers are sealed when not in active use. No open flames or ignition sources within 5 m of mixing area. Pregnant workers must not enter the mixing zone due to NMP reproductive hazard.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 2,
+      "safety_critical": true
+    },
+    {
+      "id": 11,
+      "category": "Troubleshooting",
+      "question": "Mixer motor is overheating, what should I do?",
+      "answer": "This is alarm MIX-ALM-001 (Mixer motor overtemperature). Stop mixer immediately. Allow 15 min cool-down. Check for slurry hardening. If motor temperature > 90°C, call Maintenance.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 4,
+      "symptom_based": true
+    },
+    {
+      "id": 12,
+      "category": "Troubleshooting",
+      "question": "Coating weight is out of specification, what to do?",
+      "answer": "This is alarm COAT-ALM-001. Stop at safe point. Inspect die gap and pump pressure. Adjust gap in 5 µm increments. Trial 50 m. Re-check weight.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 7,
+      "symptom_based": true
+    },
+    {
+      "id": 13,
+      "category": "Troubleshooting",
+      "question": "Vacuum oven is not holding vacuum, what's wrong?",
+      "answer": "If vacuum oven fails to hold vacuum (leak > 50 Pa/hr), stop cycle immediately. Tag oven out-of-service. Transfer load to backup oven. Notify Maintenance. Do not use oven until seals inspected.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 9,
+      "symptom_based": true
+    },
+    {
+      "id": 14,
+      "category": "Troubleshooting",
+      "question": "Slurry pump pressure is low, what should I check?",
+      "answer": "This is alarm COAT-ALM-004. Check slurry level in vessel. If not empty, check pump seals and filter. Do not coat with intermittent pump pressure.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 7,
+      "symptom_based": true
+    },
+    {
+      "id": 15,
+      "category": "Troubleshooting",
+      "question": "Electrode coating is cracking during calendaring, why?",
+      "answer": "If delaminating or cracking occurs, reduce force by 10 kN and re-check. If continues, stop and notify Shift Supervisor. Likely cause: under-dried electrode or excessive force.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 11,
+      "symptom_based": true
+    },
+    {
+      "id": 16,
+      "category": "Troubleshooting",
+      "question": "Residual NMP is too high after drying, what to do?",
+      "answer": "If residual NMP > 200 ppm after inline drying, reduce line speed by 10% and re-check. If still > 200 ppm after speed reduction, stop line and inspect oven heaters. Route reel to vacuum oven. If > 500 ppm, notify Supervisor and hold reel — do not pass to calendaring.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 9,
+      "symptom_based": true
+    },
+    {
+      "id": 17,
+      "category": "Quick Lookup",
+      "question": "Maximum temperature for mixing zone?",
+      "answer": "Temperature must be 20–25°C. If out of range, notify Shift Supervisor before proceeding.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3,
+      "lookup_type": "threshold"
+    },
+    {
+      "id": 18,
+      "category": "Quick Lookup",
+      "question": "Torque value for die bolts?",
+      "answer": "8 N·m",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6,
+      "lookup_type": "specification"
+    },
+    {
+      "id": 19,
+      "category": "Quick Lookup",
+      "question": "Operating pressure for vacuum oven?",
+      "answer": "< 10 Pa",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 8,
+      "lookup_type": "threshold"
+    },
+    {
+      "id": 20,
+      "category": "Quick Lookup",
+      "question": "Max NMP moisture content allowed?",
+      "answer": "< 30 ppm",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3,
+      "lookup_type": "threshold"
+    },
+    {
+      "id": 21,
+      "category": "Quick Lookup",
+      "question": "Cathode viscosity target range?",
+      "answer": "4000–6000 mPa·s",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 4,
+      "lookup_type": "range"
+    },
+    {
+      "id": 22,
+      "category": "Quick Lookup",
+      "question": "Maximum mercury content in batteries?",
+      "answer": "Up to 0.0005% (5 ppm) by weight may only be placed until 2025",
+      "document": "SoP_Battery_Waste_Management",
+      "page_number": 3,
+      "lookup_type": "threshold"
+    },
+    {
+      "id": 23,
+      "category": "Compliance & Rules",
+      "question": "Can pregnant workers enter the mixing zone?",
+      "answer": "No. NMP is a reproductive hazard — pregnant workers must not enter the mixing zone.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 2,
+      "compliance_type": "prohibition"
+    },
+    {
+      "id": 24,
+      "category": "Compliance & Rules",
+      "question": "Is it allowed to operate without LEV running?",
+      "answer": "No. Confirm LEV is running: green LED on extraction panel is lit. Do NOT proceed if amber or red. If LEV airflow is low, STOP all solvent handling and evacuate mixing area.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3,
+      "compliance_type": "prohibition"
+    },
+    {
+      "id": 25,
+      "category": "Compliance & Rules",
+      "question": "Can I mix materials out of sequence?",
+      "answer": "No. Add materials in the exact sequence specified. Out-of-sequence addition causes agglomeration and will require the batch to be scrapped.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3,
+      "compliance_type": "prohibition"
+    },
+    {
+      "id": 26,
+      "category": "Compliance & Rules",
+      "question": "What are the battery waste segregation requirements?",
+      "answer": "Waste batteries should be segregated based on their type, chemistry, and heavy metal content. Separate containers labelled for different battery types (e.g., mercury-containing batteries) should be used for proper identification.",
+      "document": "SoP_Battery_Waste_Management",
+      "page_number": 1,
+      "compliance_type": "requirement"
+    },
+    {
+      "id": 27,
+      "category": "Compliance & Rules",
+      "question": "Can I use backup balance without tagging primary?",
+      "answer": "No. If balance communication error persists, use backup and tag primary for maintenance.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 5,
+      "compliance_type": "requirement"
+    },
+    {
+      "id": 28,
+      "category": "Table-Based",
+      "question": "Which binder is used for anode electrodes?",
+      "answer": "CMC + SBR",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 2,
+      "table_type": "material_specification"
+    },
+    {
+      "id": 29,
+      "category": "Table-Based",
+      "question": "What is the coating speed range for cathode?",
+      "answer": "20–30 m/min",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6,
+      "table_type": "process_parameter"
+    },
+    {
+      "id": 30,
+      "category": "Table-Based",
+      "question": "Oven Zone 2 temperature for anode?",
+      "answer": "90°C",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6,
+      "table_type": "process_parameter"
+    },
+    {
+      "id": 31,
+      "category": "Table-Based",
+      "question": "Target electrode density for cathode?",
+      "answer": "3.3–3.5 g/cm³",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 10,
+      "table_type": "quality_parameter"
+    },
+    {
+      "id": 32,
+      "category": "Table-Based",
+      "question": "What is the target date for Step 02 in waste management timeline?",
+      "answer": "Within 7 days",
+      "document": "SoP_Battery_Waste_Management",
+      "page_number": 2,
+      "table_type": "timeline"
+    },
+    {
+      "id": 33,
+      "category": "Multi-Document",
+      "question": "What are the complete safety requirements for handling batteries in manufacturing?",
+      "answer": "For electrode manufacturing: Wear chemical-resistant gloves, safety goggles, and lab coat. Ensure LEV is active. NMP is reproductive hazard - pregnant workers must not enter. No open flames within 5m. For battery handling: Identify battery type (EOL vs damaged vs thermal event). Damaged batteries show dents, punctures, fluid leakage, water damage, broken terminals. Thermal event batteries show bulging, smoke, sweet odor, melting, flames. Develop emergency preparedness plan with hazard assessment, response team, training, and communication protocols.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs and Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL",
+      "page_number": "2 and 5-7",
+      "multi_doc": true
+    },
+    {
+      "id": 34,
+      "category": "Multi-Document",
+      "question": "Complete procedure for battery waste disposal with safety?",
+      "answer": "Safety: Identify battery type first. Check for damage (dents, leaks, corrosion, broken terminals). If thermal event signs (bulging, smoke, sweet odor, hot), call first responders. Disposal: Discard separately from other waste. Store in designated containers to prevent leakage. Segregate by type, chemistry, heavy metal content. Use covered transport systems. Dispose through authorized entities. Ensure environmental compliance. Training required for all personnel involved.",
+      "document": "SoP_Battery_Waste_Management and Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL",
+      "page_number": "1 and 5",
+      "multi_doc": true
+    },
+    {
+      "id": 35,
+      "category": "Natural Language - Hinglish",
+      "question": "mixer garam ho raha hai kya kare?",
+      "answer": "Mixer motor overheating hai (MIX-ALM-001). Turant mixer stop karo. 15 minute cool-down do. Slurry hardening check karo. Agar motor > 90°C hai, Maintenance ko call karo.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 4,
+      "language": "hinglish",
+      "translation": "Mixer is getting hot, what to do?"
+    },
+    {
+      "id": 36,
+      "category": "Natural Language - Broken English",
+      "question": "coating machine not working properly why?",
+      "answer": "Multiple reasons possible: 1) Coating weight OOS (COAT-ALM-001) - check die gap and pump pressure. 2) Oven temp deviation > 10°C (COAT-ALM-002) - stop line, check heater. 3) Slurry pump pressure low (COAT-ALM-004) - check slurry level and pump seals. 4) Pinholes > 5 per 100 m² (COAT-ALM-005) - check for air bubbles, clean die lip. Check which alarm is showing.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 7,
+      "language": "broken_english"
+    },
+    {
+      "id": 37,
+      "category": "Natural Language - Shorthand",
+      "question": "NMP level high kya kare?",
+      "answer": "Agar residual NMP > 200 ppm hai inline drying ke baad, line speed 10% reduce karo aur re-check karo. Phir bhi > 200 ppm hai to line stop karo aur oven heaters inspect karo. Reel ko vacuum oven me route karo. Agar > 500 ppm hai, Supervisor ko notify karo aur reel hold karo - calendaring me mat bhejo.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 9,
+      "language": "hinglish",
+      "translation": "NMP level is high, what to do?"
+    },
+    {
+      "id": 38,
+      "category": "Natural Language - Informal",
+      "question": "slurry banane ka process batao",
+      "answer": "Cathode slurry: 1) PVDF binder weigh karke vessel me dalo. 2) 60% NMP add karo, LOW speed (50 RPM) 30 min mix karo. 3) Carbon black add karo, MEDIUM speed (500 RPM) 45 min. 4) 50% NMC add karo, HIGH speed (1500 RPM) 60 min. 5) Baki 50% NMC add karo, HIGH speed 60 min. 6) Baki 40% NMP add karo, MEDIUM speed (800 RPM) 20 min. 7) Vacuum (-0.08 MPa) 30 min lagao degassing ke liye. 8) Quality check karo.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3,
+      "language": "hinglish",
+      "translation": "Tell me the slurry making process"
+    },
+    {
+      "id": 39,
+      "category": "Negative - Out of Scope",
+      "question": "Can I skip the quality check to save time?",
+      "answer": "NO. This is not allowed and not in SOP. All pre-mixing checks must be completed and initialled on the Batch Record before proceeding. Do not begin weighing until all checks pass. Any batch failing magnetic particle content spec must be rejected immediately. Quality checks are mandatory for safety and product quality.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3,
+      "out_of_scope": true,
+      "response_type": "prohibition"
+    },
+    {
+      "id": 40,
+      "category": "Negative - Out of Scope",
+      "question": "Shortcut to bypass safety interlock?",
+      "answer": "NO. This is strictly prohibited and dangerous. All guarding must be in place and interlocks active. Oven door interlocks must be functional before start-up. Bypassing safety systems violates safety procedures and puts personnel at risk. Follow proper procedures as documented in SOPs.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 6,
+      "out_of_scope": true,
+      "response_type": "prohibition"
+    },
+    {
+      "id": 41,
+      "category": "Negative - Out of Scope",
+      "question": "Can I use expired materials if they look okay?",
+      "answer": "NO. This is not allowed. Confirm active material moisture content < 0.1% (check drying oven log for last pre-dry run). Confirm NMP moisture content < 30 ppm (check certificate of analysis on drum). All materials must meet specifications. Using expired or out-of-spec materials will result in batch rejection.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 3,
+      "out_of_scope": true,
+      "response_type": "prohibition"
+    },
+    {
+      "id": 42,
+      "category": "Negative - Out of Scope",
+      "question": "How to dispose batteries in regular trash?",
+      "answer": "NO. This is not allowed and violates environmental regulations. Waste batteries must be discarded separately from other waste streams, especially mixed waste and domestic waste. They must be disposed of through authorized entities engaged in battery collection, refurbishment, or recycling. Follow proper segregation and disposal procedures as per Battery Waste Management Rules of 2022.",
+      "document": "SoP_Battery_Waste_Management",
+      "page_number": 1,
+      "out_of_scope": true,
+      "response_type": "prohibition"
+    },
+    {
+      "id": 43,
+      "category": "Real-Time Contextual",
+      "question": "After mixing is complete, what should I do next?",
+      "answer": "After mixing, proceed to Section 7 — Slurry Quality Check. Check viscosity, solid content, particle size D50, magnetic particle content, and visual appearance. If all parameters pass, proceed to slurry transfer to coating: Filter slurry through 100-mesh filter, record transfer volume and batch ID, seal and label transfer vessel with Batch ID, slurry type, viscosity result, timestamp, and operator ID. Deliver to Coating Zone within 4 hours of batch completion.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": "3-4",
+      "contextual": true
+    },
+    {
+      "id": 44,
+      "category": "Real-Time Contextual",
+      "question": "Coating is running, oven temp just went above 10°C deviation, what now?",
+      "answer": "This is alarm COAT-ALM-002. Stop coating line immediately. Do not advance foil through oven. Check heater and controller. Notify Maintenance if fault persists for more than 10 minutes.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 7,
+      "contextual": true
+    },
+    {
+      "id": 45,
+      "category": "Real-Time Contextual",
+      "question": "Vacuum oven cycle is complete, what are next steps?",
+      "answer": "After drying cycle: 1) Allow oven to cool to < 40°C under vacuum before breaking vacuum. Do NOT break vacuum while oven temperature > 60°C. 2) Transfer dried reels immediately to dry room (RH < 1%) or nitrogen-purged storage. Maximum exposure to ambient air: 30 minutes. 3) Measure residual moisture by Karl Fischer titration from each reel. Target: < 50 ppm H₂O (cathode); < 100 ppm H₂O (anode).",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 9,
+      "contextual": true
+    },
+    {
+      "id": 46,
+      "category": "Real-Time Contextual",
+      "question": "Quality check failed for viscosity, what to do?",
+      "answer": "If viscosity is out of spec: Add solvent, mix 15 min, re-measure. Maximum 2 adjustments allowed. If still OOS after 2 adjustments → reject batch. Do not proceed to coating with out-of-spec viscosity.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 4,
+      "contextual": true
+    },
+    {
+      "id": 47,
+      "category": "Real-Time Contextual",
+      "question": "First 100m of calendaring done, checks passed, what next?",
+      "answer": "After first 100m quality check is confirmed, you can increase line speed up to maximum allowed (cathode: 10-20 m/min, anode: 15-25 m/min). Continue in-process checks: Every 200m cut 100 cm² sample and measure thickness at 5 points (all must be within ±3 µm of target). Every 500m calculate electrode density from weight and thickness. Continuous visual check for foil wrinkles, coating cracking, or delamination.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": "10-11",
+      "contextual": true
+    },
+    {
+      "id": 48,
+      "category": "SOP - How do I do this",
+      "priority": "MOST IMPORTANT",
+      "question": "How to transfer slurry to coating safely?",
+      "answer": "Step 1: Filter slurry through 100-mesh filter during transfer to coating vessel. Step 2: Record transfer volume and slurry batch ID on coating handover form. Step 3: Seal and label transfer vessel with: Batch ID, slurry type, viscosity result, timestamp, operator ID. Step 4: Deliver to Coating Zone within 4 hours of batch completion. Record transfer timestamp. Step 5: Clean mixing vessel per Cleaning SOP-ELEC-CLEAN-003 immediately after transfer.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 4,
+      "expected_format": "ordered_steps"
+    },
+    {
+      "id": 49,
+      "category": "Troubleshooting",
+      "question": "Balance showing communication error, what to do?",
+      "answer": "This is alarm MIX-ALM-004 (Balance communication error). Do not proceed with weighing. Reboot balance. If error persists, use backup balance and tag primary for maintenance.",
+      "document": "Agratas_Electrode_Manufacturing_SOPs",
+      "page_number": 5,
+      "symptom_based": true
+    },
+    {
+      "id": 50,
+      "category": "Multi-Document",
+      "question": "Complete safety and procedure for handling damaged EV battery?",
+      "answer": "Identification: Check for dents, punctures, cracks, fluid leakage, water damage/corrosion on terminals, broken terminals, loose wiring, or signs of being opened. If thermal event signs (bulging, smoke, sweet odor, hot, melting, crackling, flames), classify as thermal event battery. Safety: Do not attempt to charge or handle. If flooded, do not charge or drive. Call first responders immediately. Storage: Store in designated containers to prevent leakage. Separate from other batteries. Disposal: Must go through authorized entities. Cannot be classified as EOL - must be marked as damaged-defective. Follow DOT and Transport Canada requirements for damaged battery shipping.",
+      "document": "Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL and SoP_Battery_Waste_Management",
+      "page_number": "5-6 and 1",
+      "multi_doc": true
+    }
+  ],
+  "metadata": {
+    "total_questions": 50,
+    "focus": "Industrial/Manufacturing RAG System",
+    "documents_covered": [
+      "Agratas_Electrode_Manufacturing_SOPs",
+      "SoP_Battery_Waste_Management",
+      "Suppliers-Partnership_EVSafetyGuidance_7.21.2023-FINAL"
+    ],
+    "categories": {
+      "SOP - How do I do this": 6,
+      "Safety & Emergency": 5,
+      "Troubleshooting": 6,
+      "Quick Lookup": 6,
+      "Compliance & Rules": 5,
+      "Table-Based": 5,
+      "Multi-Document": 4,
+      "Natural Language": 4,
+      "Negative - Out of Scope": 4,
+      "Real-Time Contextual": 5
+    },
+    "priority_distribution": {
+      "MOST IMPORTANT": 6,
+      "CRITICAL": 5,
+      "HIGH": 15,
+      "MEDIUM": 24
+    },
+    "language_coverage": [
+      "English",
+      "Hinglish",
+      "Broken English",
+      "Informal/Shorthand"
+    ],
+    "created_date": "2026-04-01",
+    "purpose": "Industrial RAG system evaluation with realistic worker queries"
+  }
+}
